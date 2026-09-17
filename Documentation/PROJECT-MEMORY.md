@@ -223,3 +223,6 @@ John asked whether the RTX 4060 laptop configuration was optimised for Unreal an
 
 ## Git and GitHub setup - 2026-09-17
 John confirmed Git, Git LFS and GitHub are installed and working in this project. Repository state verified on branch `main` with remote `https://github.com/9thKingdom-com/Conservatory`. The existing initial commit is clean and up to date with origin/main; Git LFS fsck passes, and 2,623 binary/media files are LFS-managed. Use source-control checkpoints in future sessions in addition to the existing targeted backups, while preserving any unsaved editor work.
+
+## USD pipeline decision - John, 2026-09-17
+John reviewed USD-based Blender/Unreal interchange and prefers to avoid adopting it for now. The existing Blender/FBX/asset re-import workflow remains the project pipeline. Do not introduce USD stages, USD asset caches, or USD-based transfer unless John explicitly requests it.

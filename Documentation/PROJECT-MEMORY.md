@@ -220,3 +220,6 @@ After the two heavy navigation collision fixes, a 40-second standalone robot tes
 
 ## Computer setup review - John, 2026-09-17
 John asked whether the RTX 4060 laptop configuration was optimised for Unreal and Blender. Verified: Windows power plan is High performance; `UnrealEditor.exe` and `Conservatory.exe` are set to the high-performance GPU; Blender 5.1 Cycles is set to OptiX; UE 5.8.2 uses DX12/SM6; the project and editor runtime already use the High performance GPU. The AMD Radeon 760M is the integrated display device and can legitimately appear active while the RTX 4060 handles the 3D workload. A summary is in `Documentation/Computer-Setup-Optimization-2026-09-17.md`. No further system-level optimisation was required.
+
+## Git and GitHub setup - 2026-09-17
+John confirmed Git, Git LFS and GitHub are installed and working in this project. Repository state verified on branch `main` with remote `https://github.com/9thKingdom-com/Conservatory`. The existing initial commit is clean and up to date with origin/main; Git LFS fsck passes, and 2,623 binary/media files are LFS-managed. Use source-control checkpoints in future sessions in addition to the existing targeted backups, while preserving any unsaved editor work.

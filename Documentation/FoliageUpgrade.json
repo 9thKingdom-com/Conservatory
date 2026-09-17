@@ -1,0 +1,76 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_Library",
+  "replacements": [
+    {
+      "old": "SM_Birch_1",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Trees/SM_White_Oak_Young_01.SM_White_Oak_Young_01",
+      "instances": 635,
+      "height_target_cm": 450,
+      "lods": 4
+    },
+    {
+      "old": "SM_Birch_2",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Trees/SM_White_Oak_02.SM_White_Oak_02",
+      "instances": 605,
+      "height_target_cm": 1100,
+      "lods": 5
+    },
+    {
+      "old": "SM_Fern",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Plants/SM_Fern_01.SM_Fern_01",
+      "instances": 1748,
+      "height_target_cm": 75,
+      "lods": 4
+    },
+    {
+      "old": "SM_Grass_1",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Plants/SM_Grass_01.SM_Grass_01",
+      "instances": 6568,
+      "height_target_cm": 40,
+      "lods": 3
+    },
+    {
+      "old": "SM_Grass_2",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Plants/SM_Grass_01_Var01.SM_Grass_01_Var01",
+      "instances": 6663,
+      "height_target_cm": 40,
+      "lods": 3
+    },
+    {
+      "old": "SM_Grass_3",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Plants/SM_Grass_Long_01.SM_Grass_Long_01",
+      "instances": 6701,
+      "height_target_cm": 50,
+      "lods": 3
+    },
+    {
+      "old": "SM_Oak_1",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Trees/SM_White_Oak_01.SM_White_Oak_01",
+      "instances": 666,
+      "height_target_cm": 1600,
+      "lods": 5
+    },
+    {
+      "old": "SM_Oak_2",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Trees/SM_White_Oak_02.SM_White_Oak_02",
+      "instances": 637,
+      "height_target_cm": 1400,
+      "lods": 5
+    },
+    {
+      "old": "SM_Oak_3",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Trees/SM_White_Oak_01.SM_White_Oak_01",
+      "instances": 708,
+      "height_target_cm": 1750,
+      "lods": 5
+    },
+    {
+      "old": "SM_Oak_4",
+      "new": "/Game/Medieval_Environment/Real_Landscape/Default/Meshes/Trees/SM_White_Oak_02.SM_White_Oak_02",
+      "instances": 690,
+      "height_target_cm": 1300,
+      "lods": 5
+    }
+  ],
+  "additional_meadow_instances": 23405
+}

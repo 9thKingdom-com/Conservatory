@@ -1,0 +1,42 @@
+{
+  "classes": [
+    "LandscapeEditLayer",
+    "LandscapeEditLayerBase",
+    "LandscapeEditLayerPersistent",
+    "LandscapeEditLayerProcedural",
+    "LandscapeEditLayerSplines",
+    "LandscapeGrassTypeFactory",
+    "LandscapeLayerBlendType",
+    "LandscapeLayerInfoObject",
+    "LandscapeTargetLayerBlendMethod",
+    "LandscapeTargetLayerSettings",
+    "MaterialExpressionLandscapeLayerBlend",
+    "MaterialExpressionLandscapeLayerCoords",
+    "MaterialExpressionLandscapeLayerSample",
+    "MaterialExpressionLandscapeLayerSwitch",
+    "MaterialExpressionLandscapeLayerWeight",
+    "PCGLandscapeLayerWeight"
+  ],
+  "methods": [
+    "data_layers",
+    "delete_unused_layers",
+    "force_layers_full_update",
+    "get_edit_layer_by_name_bp",
+    "get_edit_layers_bp",
+    "get_landscape_actor",
+    "get_target_layer_names",
+    "landscape_export_heightmap_to_render_target",
+    "landscape_import_heightmap_from_render_target",
+    "landscape_import_weightmap_from_render_target",
+    "landscape_material",
+    "set_landscape_material_scalar_parameter_value",
+    "set_landscape_material_texture_parameter_value",
+    "set_landscape_material_vector_parameter_value"
+  ],
+  "target_layers": "{\"__LANDSCAPE_VISIBILITY__\": {}}",
+  "landscape_material": "<Object '/Game/Conservatory/Environment/Materials/M_Ground.M_Ground' (0x000001BF68816200) Class 'Material'>",
+  "landscape_components": "Landscape: Failed to find property 'landscape_components' for attribute 'landscape_components' on 'Landscape'",
+  "target_layers_write": "Landscape: Property 'TargetLayers' for attribute 'target_layers' on 'Landscape' is read-only and cannot be set",
+  "LandscapeTargetLayerSettings": "Landscape Target Layer Settings\r\n\r\n**C++ Source:**\r\n\r\n- **Module**: Landscape\r\n- **File**: LandscapeProxy.h\r\n\r\n**Editor Properties:** (see get_editor_property/set_editor_property)\r\n\r\n- ``layer_info_obj`` (LandscapeLayerInfoObject):  [Read-Write]",
+  "LandscapeLayerInfoObject": "Landscape Layer Info Object\r\n\r\n**C++ Source:**\r\n\r\n- **Module**: Landscape\r\n- **File**: LandscapeLayerInfoObject.h\r\n\r\n**Editor Properties:** (see get_editor_property/set_editor_property)\r\n\r\n- ``blend_group`` (Name):  [Read-Write] Only available for Advanced Weight Blending. Allows target layers from the same group only to have their weight adjusted against one another.\r\n- ``blend_method`` (LandscapeTargetLayerBlendMethod):  [Read-Write] Allows this layer's final weight to be adjusted against others.\r\n- ``hardness`` (float):  [Read-Write] Defines how much 'resistance' areas painted with this layer will offer to the Erosion tool. A hardness of 0 means the layer is fully affected by erosion, while 1 means fully unaffected.\r\n- ``layer_name`` (Name):  [Read-Only]\r\n- ``layer_usage_debug_color`` (LinearColor):  [Read-Write] The color to use for layer usage debug\r\n- ``minimum_collision_relevance_weight`` (float):  [Read-Write] The minimum weight that needs to be painted for that layer to be picked up as the dominant physical layer.\r\n- ``phys_material`` (PhysicalMaterial):  [Read-Write] Physical material to use when this layer is the predominant one at a given location. Note: this is ignored if the Landscape Physical Material node is used in the landscape material.\r\n- ``spline_falloff_modulation_bias`` (float):  [Read-Write] Defines the offset to use when sampling the Spline Falloff Modulation Texture.\r\n- ``spline_falloff_modulation_color_mask`` (SplineModulationColorMask):  [Read-Write] Defines which channel of the Spline Falloff Modulation Texture to use.\r\n- ``spline_falloff_modulation_scale`` (float):  [Read-Write] Allows to scale the value sampled from the Spline Falloff Modulation Texture.\r\n- ``spline_falloff_modulation_texture`` (Texture2D):  [Read-Write] Texture to modulate the Splines Falloff Layer Alpha\r\n- ``spline_falloff_modulation_tiling`` (float):  [Read-Write] Defines the tiling to use when sampling the Spline Falloff Modulation Texture."
+}

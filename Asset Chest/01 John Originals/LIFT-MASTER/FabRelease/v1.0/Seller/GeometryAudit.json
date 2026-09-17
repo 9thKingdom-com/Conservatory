@@ -1,0 +1,220 @@
+{
+  "blender": "5.1.1",
+  "source_sha256": "93755cec6875bb0ae1980b4853ecf75fda5c55ec1c1ec614b26c45cc4570d8f0",
+  "source_objects": 424,
+  "repairs": [
+    {
+      "object": "Cornice | rosette wings.002",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Cornice | rosette wings.003",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Stile | sculpted leaf.003",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.001",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.002",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.003",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.004",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.005",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.006",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.007",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.008",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.009",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.010",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.011",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.012",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.013",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.014",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.015",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.016",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.017",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.018",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.019",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.020",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.021",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.022",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.023",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.024",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.025",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.026",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.027",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.028",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.029",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.030",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Capital | acanthus petal.031",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Crown | apex scroll.001",
+      "nonfinite_source_vertices_reconstructed_from_neighbors": 84
+    },
+    {
+      "object": "Crown | apex scroll.001",
+      "welded_vertices": 2018
+    },
+    {
+      "object": "Side | roundel stem.001 | left.002",
+      "welded_vertices": 96
+    },
+    {
+      "object": "Side | roundel stem.001 | left.001",
+      "welded_vertices": 96
+    },
+    {
+      "object": "Stile | sculpted leaf.009",
+      "nonfinite_source_vertices_reconstructed_from_neighbors": 2
+    },
+    {
+      "object": "Stile | sculpted leaf.009",
+      "welded_vertices": 22
+    },
+    {
+      "object": "Stile | sculpted leaf.010",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Stile | sculpted leaf.002",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Stile | sculpted leaf.006",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Stile | sculpted leaf.012",
+      "welded_vertices": 4
+    },
+    {
+      "object": "Crown | lower corner curl.015",
+      "nonfinite_source_vertices_reconstructed_from_neighbors": 20
+    },
+    {
+      "object": "Crown | lower corner curl.015",
+      "welded_vertices": 276
+    },
+    {
+      "object": "Crown | lower corner curl.021",
+      "nonfinite_source_vertices_reconstructed_from_neighbors": 13
+    },
+    {
+      "object": "Crown | lower corner curl.021",
+      "welded_vertices": 160
+    }
+  ],
+  "invalid_after_tip_weld": 0,
+  "remaining_nonfinite_vertices": 0,
+  "triangles": 506691,
+  "vertices": 267688,
+  "materials": 8,
+  "bounds_m": {
+    "min": [
+      -1.3740811347961426,
+      -1.2200000286102295,
+      -0.0754999965429306
+    ],
+    "max": [
+      1.3740811347961426,
+      1.2200000286102295,
+      4.929625511169434
+    ]
+  }
+}

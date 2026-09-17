@@ -1,0 +1,146 @@
+{
+  "count": 28,
+  "passed": true,
+  "results": [
+    {
+      "area": "Seed laboratory",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Library & study",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Sleeping quarters",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Food reserve",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Clinic",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Kitchen & washrooms",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Water & pumping",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Air & oxygen",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Power reserve",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Workshop",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Waste treatment",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Equipment stores",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "South dome",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "North dome",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Connecting passage",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Habitat corridor",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Utilities corridor",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Habitat lift lobby",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Utilities lobby",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Upper stair landing",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Lower stair landing",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "West terrace",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "East terrace",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "North terrace",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "South terrace",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Woodland approach",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Village approach",
+      "opened": true,
+      "far_rejected": true
+    },
+    {
+      "area": "Village overlook",
+      "opened": true,
+      "far_rejected": true
+    }
+  ]
+}

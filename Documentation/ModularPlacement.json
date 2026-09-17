@@ -1,0 +1,16 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_Modular",
+  "module_scale": 1.5,
+  "dome_y_cm": 1411.0507229032305,
+  "origin_z_cm": 6151.25,
+  "floor_z_cm": 6242.75,
+  "passage_length_m": 4.682167728387078,
+  "clear_width_m": 4.082167728387078,
+  "roof_crown_m_above_origin": 8.866083864193538,
+  "upper_lift_cm": [
+    -11600.0,
+    1411.0507229032305,
+    6336.0
+  ],
+  "source_reference": "Reference images/Conservatory-MASTER.blend"
+}

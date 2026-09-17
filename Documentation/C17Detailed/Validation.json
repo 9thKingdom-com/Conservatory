@@ -1,0 +1,11 @@
+{
+  "reloaded_blend": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\SourceAssets\\C17Detailed\\C17-Detailed-Reference.blend",
+  "mesh_parts": 830,
+  "bones": 34,
+  "packed_reference_images": 3,
+  "bad_rigid_weights": [],
+  "forearm_pose_moves_hand_m": 0.09003361417971485,
+  "rigid_sample_distance_error_m": 3.575657153199498e-08,
+  "unrelated_head_preserved": true,
+  "passed": true
+}

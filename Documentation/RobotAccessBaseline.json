@@ -1,0 +1,455 @@
+{
+  "world": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR",
+  "dirty": [],
+  "actors": [
+    {
+      "name": "NavMeshBoundsVolume_0",
+      "label": "Robot navigation - whole terrain",
+      "cls": "NavMeshBoundsVolume",
+      "pos": [
+        0.0,
+        0.0,
+        5000.0
+      ],
+      "yaw": 0.0
+    },
+    {
+      "name": "RecastNavMesh-Default",
+      "label": "RecastNavMesh-Default",
+      "cls": "RecastNavMesh",
+      "pos": [
+        -6561.438353190919,
+        4151.202392323115,
+        5.3660187404602766e-11
+      ],
+      "yaw": 45.23004323216816
+    },
+    {
+      "name": "RobotVRHub_0",
+      "label": "Kitchen wall security monitor - all ten robots",
+      "cls": "RobotVRHub",
+      "pos": [
+        -13020.0,
+        1350.0,
+        4210.0
+      ],
+      "yaw": 180.0
+    },
+    {
+      "name": "VRSuitStation_0",
+      "label": "VR suit 01 - robot 01",
+      "cls": "VRSuitStation",
+      "pos": [
+        -14090.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 1,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_27",
+      "label": "VR suit 01 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -14090.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "VRSuitStation_1",
+      "label": "VR suit 02 - robot 02",
+      "cls": "VRSuitStation",
+      "pos": [
+        -13985.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 2,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_28",
+      "label": "VR suit 02 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -13985.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "VRSuitStation_2",
+      "label": "VR suit 03 - robot 03",
+      "cls": "VRSuitStation",
+      "pos": [
+        -13880.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 3,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_29",
+      "label": "VR suit 03 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -13880.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "VRSuitStation_3",
+      "label": "VR suit 04 - robot 04",
+      "cls": "VRSuitStation",
+      "pos": [
+        -13775.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 4,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_30",
+      "label": "VR suit 04 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -13775.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "VRSuitStation_4",
+      "label": "VR suit 05 - robot 05",
+      "cls": "VRSuitStation",
+      "pos": [
+        -13670.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 5,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_31",
+      "label": "VR suit 05 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -13670.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "VRSuitStation_5",
+      "label": "VR suit 06 - robot 06",
+      "cls": "VRSuitStation",
+      "pos": [
+        -13565.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 6,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_32",
+      "label": "VR suit 06 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -13565.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "VRSuitStation_6",
+      "label": "VR suit 07 - robot 07",
+      "cls": "VRSuitStation",
+      "pos": [
+        -13460.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 7,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_33",
+      "label": "VR suit 07 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -13460.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "VRSuitStation_7",
+      "label": "VR suit 08 - robot 08",
+      "cls": "VRSuitStation",
+      "pos": [
+        -13355.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 8,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_34",
+      "label": "VR suit 08 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -13355.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "VRSuitStation_8",
+      "label": "VR suit 09 - robot 09",
+      "cls": "VRSuitStation",
+      "pos": [
+        -13250.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 9,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_35",
+      "label": "VR suit 09 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -13250.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "VRSuitStation_9",
+      "label": "VR suit 10 - robot 10",
+      "cls": "VRSuitStation",
+      "pos": [
+        -13145.0,
+        850.0,
+        4003.0
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 10,
+      "hub": "RobotVRHub_0"
+    },
+    {
+      "name": "TextRenderActor_36",
+      "label": "VR suit 10 label",
+      "cls": "TextRenderActor",
+      "pos": [
+        -13145.0,
+        828.0,
+        4200.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "name": "C17Robot_0",
+      "label": "Outdoor robot 01",
+      "cls": "C17Robot",
+      "pos": [
+        -14000.0,
+        5000.0,
+        6302.162768081951
+      ],
+      "yaw": 89.99999999999999,
+      "robot_id": 1,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_1",
+      "label": "Outdoor robot 02",
+      "cls": "C17Robot",
+      "pos": [
+        -5000.0,
+        -5000.0,
+        3124.6555170616484
+      ],
+      "yaw": -34.37003731687822,
+      "robot_id": 2,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_2",
+      "label": "Outdoor robot 03",
+      "cls": "C17Robot",
+      "pos": [
+        14000.0,
+        -1450.0,
+        1045.5502636949823
+      ],
+      "yaw": 0.0,
+      "robot_id": 3,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_3",
+      "label": "Outdoor robot 04",
+      "cls": "C17Robot",
+      "pos": [
+        24000.0,
+        -6280.0,
+        1017.1907996681257
+      ],
+      "yaw": 0.0,
+      "robot_id": 4,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_4",
+      "label": "Outdoor robot 05",
+      "cls": "C17Robot",
+      "pos": [
+        -33000.0,
+        -22000.0,
+        1690.751766860485
+      ],
+      "yaw": 0.0,
+      "robot_id": 5,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_5",
+      "label": "Outdoor robot 06",
+      "cls": "C17Robot",
+      "pos": [
+        -35000.0,
+        27000.0,
+        2448.9117137789
+      ],
+      "yaw": 0.0,
+      "robot_id": 6,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_6",
+      "label": "Outdoor robot 07",
+      "cls": "C17Robot",
+      "pos": [
+        0.0,
+        30000.0,
+        1293.4996445441939
+      ],
+      "yaw": 0.0,
+      "robot_id": 7,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_7",
+      "label": "Outdoor robot 08",
+      "cls": "C17Robot",
+      "pos": [
+        36000.0,
+        35720.0,
+        3979.420182154572
+      ],
+      "yaw": 0.0,
+      "robot_id": 8,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_8",
+      "label": "Outdoor robot 09",
+      "cls": "C17Robot",
+      "pos": [
+        42000.0,
+        -29280.0,
+        924.9654119935876
+      ],
+      "yaw": 0.0,
+      "robot_id": 9,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_9",
+      "label": "Outdoor robot 10",
+      "cls": "C17Robot",
+      "pos": [
+        5000.0,
+        -42280.0,
+        2164.5534848403186
+      ],
+      "yaw": 0.0,
+      "robot_id": 10,
+      "patrol_enabled": true,
+      "wander_enabled": true,
+      "terrain_wander": true,
+      "wander_speed": 180.0
+    },
+    {
+      "name": "C17Robot_10",
+      "label": "Indoor robot 11 - charging dock",
+      "cls": "C17Robot",
+      "pos": [
+        -15799.39296235928,
+        -1114.1233669424937,
+        6346.35
+      ],
+      "yaw": 0.2300432324409485,
+      "robot_id": 11,
+      "patrol_enabled": false,
+      "wander_enabled": false,
+      "terrain_wander": false,
+      "wander_speed": 100.0
+    }
+  ]
+}

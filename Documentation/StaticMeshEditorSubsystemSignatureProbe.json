@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-09-17T11:39:34.848979",
+  "get_collision_complexity": {
+    "error": "no signature found for builtin <built-in method get_collision_complexity of StaticMeshEditorSubsystem object at 0x000001E8AA5473B0>"
+  },
+  "add_simple_collisions": {
+    "error": "no signature found for builtin <built-in method add_simple_collisions of StaticMeshEditorSubsystem object at 0x000001E8AA5473B0>"
+  },
+  "bulk_set_convex_decomposition_collisions": {
+    "error": "no signature found for builtin <built-in method bulk_set_convex_decomposition_collisions of StaticMeshEditorSubsystem object at 0x000001E8AA5473B0>"
+  },
+  "set_convex_decomposition_collisions": {
+    "error": "no signature found for builtin <built-in method set_convex_decomposition_collisions of StaticMeshEditorSubsystem object at 0x000001E8AA5473B0>"
+  },
+  "remove_collisions": {
+    "error": "no signature found for builtin <built-in method remove_collisions of StaticMeshEditorSubsystem object at 0x000001E8AA5473B0>"
+  },
+  "get_simple_collision_count": {
+    "error": "no signature found for builtin <built-in method get_simple_collision_count of StaticMeshEditorSubsystem object at 0x000001E8AA5473B0>"
+  },
+  "get_convex_collision_count": {
+    "error": "no signature found for builtin <built-in method get_convex_collision_count of StaticMeshEditorSubsystem object at 0x000001E8AA5473B0>"
+  }
+}

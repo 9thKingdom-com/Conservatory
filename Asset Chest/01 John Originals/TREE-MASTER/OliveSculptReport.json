@@ -1,0 +1,11 @@
+{
+  "object": "OLIVE | SCULPT trunk roots branches",
+  "vertices": 607816,
+  "faces": 607850,
+  "connected_components": 1,
+  "removed_small_fragment_vertices": 22948,
+  "voxel_size_m": 0.025,
+  "mode": "SCULPT",
+  "foliage_and_planter_hidden_in_viewport_only": true,
+  "unreal_imported": false
+}

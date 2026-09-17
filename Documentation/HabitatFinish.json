@@ -1,0 +1,24 @@
+{
+  "meshes": [
+    "SM_Core_Small_Bay",
+    "SM_Core_Small_Portal",
+    "SM_Core_Small_Cap",
+    "SM_Core_Large_Bay",
+    "SM_Core_Large_Portal",
+    "SM_Core_Large_Cap",
+    "SM_Core_WalkwayFrame"
+  ],
+  "robot_moved": "Outdoor robot 01",
+  "before": [
+    -13200.0,
+    0.0,
+    6310.0
+  ],
+  "after": [
+    -14000.0,
+    5000.0,
+    6202.585866151508
+  ],
+  "robot_count": 11,
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\HabitatFinish\\20260910-165616"
+}

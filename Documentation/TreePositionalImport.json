@@ -1,0 +1,25 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-13T14:11:51.773309",
+  "backup": "..\\..\\..\\..\\..\\..\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\TreePositional\\20260913-141017",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "position": [
+    -14308.32092170048,
+    -1378.138839158681,
+    6242.750000190736
+  ],
+  "actors": [
+    "StaticMeshActor_5",
+    "StaticMeshActor_6"
+  ],
+  "existing_actors_preserved": 2186,
+  "actor_count": 2186,
+  "unrelated_transform_changes": [],
+  "source": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Asset Chest\\01 John Originals\\TREE-MASTER\\TREE-MASTER.blend",
+  "triangles": {
+    "Structure": 634862,
+    "Foliage": 1096032
+  },
+  "purpose": "Positional assembly; original Blender remains editable",
+  "materials": "Palette and procedural colour variation, two-sided silver olive foliage; not final production shaders"
+}

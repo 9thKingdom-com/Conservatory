@@ -1,0 +1,218 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "previous_map": "/Game/Conservatory/Maps/L_Exterior_TerrainRobots",
+  "monitor": [
+    -13020,
+    1350,
+    4210
+  ],
+  "suits": [
+    {
+      "id": 1,
+      "position": [
+        -14090,
+        850,
+        4003
+      ],
+      "approach": [
+        -14090,
+        995,
+        4090
+      ]
+    },
+    {
+      "id": 2,
+      "position": [
+        -13985,
+        850,
+        4003
+      ],
+      "approach": [
+        -13985,
+        995,
+        4090
+      ]
+    },
+    {
+      "id": 3,
+      "position": [
+        -13880,
+        850,
+        4003
+      ],
+      "approach": [
+        -13880,
+        995,
+        4090
+      ]
+    },
+    {
+      "id": 4,
+      "position": [
+        -13775,
+        850,
+        4003
+      ],
+      "approach": [
+        -13775,
+        995,
+        4090
+      ]
+    },
+    {
+      "id": 5,
+      "position": [
+        -13670,
+        850,
+        4003
+      ],
+      "approach": [
+        -13670,
+        995,
+        4090
+      ]
+    },
+    {
+      "id": 6,
+      "position": [
+        -13565,
+        850,
+        4003
+      ],
+      "approach": [
+        -13565,
+        995,
+        4090
+      ]
+    },
+    {
+      "id": 7,
+      "position": [
+        -13460,
+        850,
+        4003
+      ],
+      "approach": [
+        -13460,
+        995,
+        4090
+      ]
+    },
+    {
+      "id": 8,
+      "position": [
+        -13355,
+        850,
+        4003
+      ],
+      "approach": [
+        -13355,
+        995,
+        4090
+      ]
+    },
+    {
+      "id": 9,
+      "position": [
+        -13250,
+        850,
+        4003
+      ],
+      "approach": [
+        -13250,
+        995,
+        4090
+      ]
+    },
+    {
+      "id": 10,
+      "position": [
+        -13145,
+        850,
+        4003
+      ],
+      "approach": [
+        -13145,
+        995,
+        4090
+      ]
+    }
+  ],
+  "removed_old_connection": [
+    "Operations desk - worktop",
+    "Operations desk - leg",
+    "Operations desk - leg",
+    "Operations desk - leg",
+    "Operations desk - leg",
+    "Operations desk - computer tower",
+    "Operations desk - tower vent",
+    "Operations desk - tower vent",
+    "Operations desk - tower vent",
+    "Operations desk - tower vent",
+    "Operations desk - tower vent",
+    "Operations desk - tower vent",
+    "Operations desk - monitor foot",
+    "Operations desk - monitor neck",
+    "Operations desk - monitor frame",
+    "Operations desk - monitor screen",
+    "Operations desk - keyboard",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - key",
+    "Operations desk - mouse",
+    "Operations desk - chair seat",
+    "Operations desk - chair back",
+    "Operations desk - chair leg",
+    "Operations desk - chair leg",
+    "Operations desk - chair leg",
+    "Operations desk - chair leg",
+    "C17 workstation screen",
+    "C17 workstation screen",
+    "C17 workstation screen"
+  ]
+}

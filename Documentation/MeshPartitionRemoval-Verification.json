@@ -1,0 +1,29 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-16T12:15:09.473087",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "actor_count": 1846,
+  "actor_classes": {
+    "WorldDataLayers": 1,
+    "RecastNavMesh": 1,
+    "ExponentialHeightFog": 1,
+    "SkyAtmosphere": 1,
+    "DirectionalLight": 1,
+    "WorldPartitionMiniMap": 1,
+    "SkyLight": 1,
+    "Landscape": 1,
+    "PlayerStart": 1,
+    "NavMeshBoundsVolume": 1,
+    "StaticMeshActor": 1710,
+    "LandscapeStreamingProxy": 4,
+    "C17Robot": 11,
+    "TextRenderActor": 34,
+    "VRSuitStation": 11,
+    "RobotVRHub": 1,
+    "IntercomStation": 21,
+    "PointLight": 41,
+    "TargetPoint": 1,
+    "ServiceLift": 2
+  },
+  "meshpartition_megamesh_remaining": []
+}

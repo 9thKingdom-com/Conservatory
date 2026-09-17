@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-09-17T11:35:27.892484",
+  "static_mesh_collision_names": [
+    "lod_for_collision"
+  ],
+  "static_mesh_component_collision_names": [
+    "body_instance",
+    "get_body_instance_async_physics_tick_handle",
+    "get_closest_point_on_collision",
+    "get_collision_enabled",
+    "get_collision_object_type",
+    "get_collision_profile_name",
+    "get_collision_response_to_channel",
+    "get_material_from_collision_face_index",
+    "is_any_rigid_body_awake",
+    "is_collision_enabled",
+    "is_physics_collision_enabled",
+    "is_query_collision_enabled",
+    "multi_body_overlap",
+    "put_rigid_body_to_sleep",
+    "set_collision_enabled",
+    "set_collision_object_type",
+    "set_collision_profile_name",
+    "set_collision_response_to_all_channels",
+    "set_collision_response_to_channel",
+    "set_notify_rigid_body_collision",
+    "wake_rigid_body"
+  ]
+}

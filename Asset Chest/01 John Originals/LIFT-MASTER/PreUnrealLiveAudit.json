@@ -1,0 +1,9784 @@
+[
+  {
+    "name": "Foundation | bevelled bronze shoe",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      -0.017999999225139618
+    ],
+    "scale": [
+      1.0254336595535278,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Foundation | perimeter brass nosing",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.03400000184774399
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cabin | limestone floor",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "08 | Honed limestone cabin floor"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.06199999898672104
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Threshold | solid brass sill",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      -1.149999976158142,
+      0.06688297539949417
+    ],
+    "scale": [
+      1.2696607112884521,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Door jamb | brass reveal.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.8516720533370972,
+      -1.1314626932144165,
+      1.4206079244613647
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0595507621765137
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Door opening | lintel",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      -1.043755054473877,
+      2.805000066757202
+    ],
+    "scale": [
+      0.9538702964782715,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Lintel | brass bead",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      -1.1293225288391113,
+      2.7684543132781982
+    ],
+    "scale": [
+      0.9344534277915955,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Lintel | brass bead.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      -1.1350520849227905,
+      2.8386237621307373
+    ],
+    "scale": [
+      0.9169222712516785,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      -1.0449999570846558,
+      3.1600000858306885
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      1.0449999570846558,
+      3.1600000858306885
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      0.0,
+      3.1600000858306885
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      0.0,
+      3.1600000858306885
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      -1.0449999570846558,
+      3.2300000190734863
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      1.0449999570846558,
+      3.2300000190734863
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1799999475479126,
+      0.0,
+      3.2300000190734863
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1799999475479126,
+      0.0,
+      3.2300000190734863
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding.004",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      -1.0449999570846558,
+      3.2899999618530273
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding.005",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      1.0449999570846558,
+      3.2899999618530273
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding.004",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      0.0,
+      3.2899999618530273
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding.005",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      0.0,
+      3.2899999618530273
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding.006",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      -1.0449999570846558,
+      3.325000047683716
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding.007",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      1.0449999570846558,
+      3.325000047683716
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding.006",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1799999475479126,
+      0.0,
+      3.325000047683716
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding.007",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1799999475479126,
+      0.0,
+      3.325000047683716
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding.008",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      -1.0449999570846558,
+      3.3499999046325684
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | front/rear moulding.009",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      1.0449999570846558,
+      3.3499999046325684
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding.008",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      0.0,
+      3.3499999046325684
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | side moulding.009",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      0.0,
+      3.3499999046325684
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear | enclosure panel",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      1.0570000410079956,
+      1.6399999856948853
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | framed horizontal rail",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1050000190734863,
+      0.0,
+      0.15000000596046448
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | framed horizontal rail.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1050000190734863,
+      0.0,
+      0.49000000953674316
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | framed horizontal rail.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1050000190734863,
+      0.0,
+      0.9700000286102295
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | framed horizontal rail.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1050000190734863,
+      0.0,
+      3.0899999141693115
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | glazing mullion",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1050000190734863,
+      -0.949999988079071,
+      1.8200000524520874
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | glazing mullion.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1050000190734863,
+      0.0,
+      1.8200000524520874
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | glazing mullion.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1050000190734863,
+      0.949999988079071,
+      1.8200000524520874
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | lower enamel panel",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1050000190734863,
+      -0.5299999713897705,
+      0.3100000023841858
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | lower enamel panel.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1050000190734863,
+      0.5299999713897705,
+      0.3100000023841858
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | framed horizontal rail.004",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1050000190734863,
+      0.0,
+      0.15000000596046448
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | framed horizontal rail.005",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1050000190734863,
+      0.0,
+      0.49000000953674316
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | framed horizontal rail.006",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1050000190734863,
+      0.0,
+      0.9700000286102295
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | framed horizontal rail.007",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1050000190734863,
+      0.0,
+      3.0899999141693115
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | glazing mullion.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1050000190734863,
+      -0.949999988079071,
+      1.8200000524520874
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | glazing mullion.004",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1050000190734863,
+      0.0,
+      1.8200000524520874
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | glazing mullion.005",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1050000190734863,
+      0.949999988079071,
+      1.8200000524520874
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | lower enamel panel.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1050000190734863,
+      -0.5299999713897705,
+      0.3100000023841858
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | lower enamel panel.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1050000190734863,
+      0.5299999713897705,
+      0.3100000023841858
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Entrance | solid green arched tympanum",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      -1.0155527591705322,
+      3.015000104904175
+    ],
+    "scale": [
+      1.0440911054611206,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | octagonal base block",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.200682520866394,
+      -1.0399999618530273,
+      0.12999999523162842
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | octagonal base block.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1992157697677612,
+      -1.0399999618530273,
+      0.054999999701976776
+    ],
+    "scale": [
+      1.0362061262130737,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | octagonal base block.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.2014962434768677,
+      -1.0399999618530273,
+      0.23000000417232513
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | octagonal base block.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      -1.204111933708191,
+      -1.0399999618530273,
+      0.27000001072883606
+    ],
+    "scale": [
+      1.1986737251281738,
+      1.1986737251281738,
+      1.040772557258606
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | moulded foot",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fluted enamel shaft",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.008",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.009",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.010",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.011",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.012",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.013",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.014",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | fine flute arris.015",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | shaft collar",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | shaft collar.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | shaft collar.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | shaft collar.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | leaf capital bell",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital bead.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital bead.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital bead.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | finial pedestal",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | acorn finial",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | octagonal base block",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.12999999523162842
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | octagonal base block.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.054999999701976776
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | octagonal base block.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.23000000417232513
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | octagonal base block.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.27000001072883606
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | moulded foot",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fluted enamel shaft",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.008",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.009",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.010",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.011",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.012",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.013",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.014",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | fine flute arris.015",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | shaft collar",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | shaft collar.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | shaft collar.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | shaft collar.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | leaf capital bell",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital bead.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital bead.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital bead.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | finial pedestal",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | acorn finial",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | octagonal base block",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.12999999523162842
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | octagonal base block.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.054999999701976776
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | octagonal base block.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.23000000417232513
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | octagonal base block.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.27000001072883606
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | moulded foot",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fluted enamel shaft",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.008",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.009",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.010",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.011",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.012",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.013",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.014",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | fine flute arris.015",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | shaft collar",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | shaft collar.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | shaft collar.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | shaft collar.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | leaf capital bell",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital bead.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital bead.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital bead.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | finial pedestal",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | acorn finial",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | octagonal base block",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.12999999523162842
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | octagonal base block.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.054999999701976776
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | octagonal base block.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.23000000417232513
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | octagonal base block.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.27000001072883606
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | moulded foot",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fluted enamel shaft",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.008",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.009",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.010",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.011",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.012",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.013",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.014",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | fine flute arris.015",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | shaft collar",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | shaft collar.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | shaft collar.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | shaft collar.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | leaf capital bell",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital bead.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital bead.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital bead.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | finial pedestal",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | acorn finial",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital leaf vein",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital leaf vein.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital leaf vein.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital leaf vein.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital leaf vein.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital leaf vein.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital leaf vein.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L front | capital leaf vein.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital leaf vein",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital leaf vein.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital leaf vein.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital leaf vein.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital leaf vein.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital leaf vein.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital leaf vein.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "L rear | capital leaf vein.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital leaf vein",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital leaf vein.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital leaf vein.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital leaf vein.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital leaf vein.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital leaf vein.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital leaf vein.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R front | capital leaf vein.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital leaf vein",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital leaf vein.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital leaf vein.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital leaf vein.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital leaf vein.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital leaf vein.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital leaf vein.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "R rear | capital leaf vein.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Stile | outer brass bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Front | arch outer bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      2.8426830667172e-08,
+      -1.1423214673995972,
+      3.0238139629364014
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Front | arch inner bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      2.2007869304729866e-08,
+      -1.1342730522155762,
+      3.0049996376037598
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Front | transom medallion",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1641532182693481e-09,
+      -1.1400455236434937,
+      2.9958138465881348
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Front | transom inner medallion",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -6.984919309616089e-10,
+      -1.1480472087860107,
+      2.995814085006714
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | central cast rosette",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -2.3863755416186905e-10,
+      -1.1414207220077515,
+      3.3239150047302246
+    ],
+    "scale": [
+      1.0,
+      0.25,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | central cast rosette.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      1.1200000047683716,
+      3.234999895095825
+    ],
+    "scale": [
+      1.0,
+      0.25,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | rosette wings.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | rosette wings | vein.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | rosette wings.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cornice | rosette wings | vein.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Front | domed brass fixing.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.0549999475479126,
+      -1.1579999923706055,
+      3.2300000190734863
+    ],
+    "scale": [
+      1.0,
+      0.3499999940395355,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Front | domed brass fixing.008",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.8999999761581421,
+      -1.1579999923706055,
+      0.30000001192092896
+    ],
+    "scale": [
+      1.0,
+      0.3499999940395355,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Front | domed brass fixing.012",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.0549999475479126,
+      -1.1579999923706055,
+      0.30000001192092896
+    ],
+    "scale": [
+      1.0,
+      0.3499999940395355,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1419999599456787,
+      -0.9700000286102295,
+      0.5099999904632568
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1419999599456787,
+      -0.9700000286102295,
+      3.0999999046325684
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1419999599456787,
+      0.0,
+      0.5099999904632568
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1419999599456787,
+      0.0,
+      3.0999999046325684
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.004",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1419999599456787,
+      0.9700000286102295,
+      0.5099999904632568
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.005",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1419999599456787,
+      0.9700000286102295,
+      3.0999999046325684
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.006",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1419999599456787,
+      -0.9700000286102295,
+      0.5099999904632568
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.007",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1419999599456787,
+      -0.9700000286102295,
+      3.0999999046325684
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.008",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1419999599456787,
+      0.0,
+      0.5099999904632568
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.009",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1419999599456787,
+      0.0,
+      3.0999999046325684
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.010",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1419999599456787,
+      0.9700000286102295,
+      0.5099999904632568
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | brass glazing fixing.011",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1419999599456787,
+      0.9700000286102295,
+      3.0999999046325684
+    ],
+    "scale": [
+      0.3499999940395355,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Stile | sculpted leaf.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.06272426247596741,
+      -1.1626191139221191,
+      2.939797878265381
+    ],
+    "scale": [
+      1.1004637479782104,
+      1.1004637479782104,
+      1.1004637479782104
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.7853981852531433
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.7853981852531433
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      2.356194496154785
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      2.356194496154785
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.004",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.1415927410125732
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.1415927410125732
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.005",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.9269907474517822
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.9269907474517822
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.006",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      4.71238899230957
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      4.71238899230957
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.007",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      5.497786998748779
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      5.497786998748779
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.008",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.008",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.009",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.7853981852531433
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.009",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.7853981852531433
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.010",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.010",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.011",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      2.356194496154785
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.011",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      2.356194496154785
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.012",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.1415927410125732
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.012",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.1415927410125732
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.013",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.9269907474517822
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.013",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.9269907474517822
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.014",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      4.71238899230957
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.014",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      4.71238899230957
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.015",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      5.497786998748779
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.015",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      5.497786998748779
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.016",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.016",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.017",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.7853981852531433
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.017",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.7853981852531433
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.018",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.018",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.019",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      2.356194496154785
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.019",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      2.356194496154785
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.020",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.1415927410125732
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.020",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.1415927410125732
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.021",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.9269907474517822
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.021",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.9269907474517822
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.022",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      4.71238899230957
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.022",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      4.71238899230957
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.023",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      5.497786998748779
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.023",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      -1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      5.497786998748779
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.024",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.024",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.025",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.7853981852531433
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.025",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.7853981852531433
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.026",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.026",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.027",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      2.356194496154785
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.027",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      2.356194496154785
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.028",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.1415927410125732
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.028",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.1415927410125732
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.029",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.9269907474517822
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.029",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      3.9269907474517822
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.030",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      4.71238899230957
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.030",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      4.71238899230957
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal.031",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      5.497786998748779
+    ]
+  },
+  {
+    "name": "Capital | acanthus petal | vein.031",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      1.1799999475479126,
+      1.0399999618530273,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      5.497786998748779
+    ]
+  },
+  {
+    "name": "Side | long arch frame",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | apex scroll.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | roundel stem.001 | left.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -1.1086676120758057,
+      0.4706432819366455,
+      1.072420597076416
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      0.14825187623500824
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Side | long arch frame.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | long arch frame.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | roundel stem.001 | left.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.128785490989685,
+      0.4706432819366455,
+      1.072420597076416
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      0.14825187623500824
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      1.5707963705062866
+    ]
+  },
+  {
+    "name": "Stile | sculpted leaf.009",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -0.06323952972888947,
+      -1.1626192331314087,
+      2.939797878265381
+    ],
+    "scale": [
+      1.1004637479782104,
+      1.1004637479782104,
+      1.1004637479782104
+    ],
+    "rotation": [
+      0.0,
+      -0.952383279800415,
+      0.0
+    ]
+  },
+  {
+    "name": "Stile | sculpted leaf.010",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0018270631553605199,
+      -1.1732139587402344,
+      2.9922444820404053
+    ],
+    "scale": [
+      1.697629451751709,
+      1.697629451751709,
+      1.697629451751709
+    ],
+    "rotation": [
+      0.0,
+      -0.420186847448349,
+      0.0
+    ]
+  },
+  {
+    "name": "Stile | sculpted leaf.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -0.10791611671447754,
+      -1.1891800165176392,
+      3.762601613998413
+    ],
+    "scale": [
+      0.7434579730033875,
+      1.3129063844680786,
+      1.0413728952407837
+    ],
+    "rotation": [
+      0.0,
+      0.6108652353286743,
+      -0.0
+    ]
+  },
+  {
+    "name": "Stile | sculpted leaf.006",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0018272644374519587,
+      -1.1844849586486816,
+      3.68705677986145
+    ],
+    "scale": [
+      0.5887675285339355,
+      1.0,
+      1.34412682056427
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Stile | sculpted leaf.012",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.11158862709999084,
+      -1.1891800165176392,
+      3.762601613998413
+    ],
+    "scale": [
+      0.7089956998825073,
+      1.3129063844680786,
+      1.0187498331069946
+    ],
+    "rotation": [
+      0.0,
+      -0.6177244186401367,
+      0.0
+    ]
+  },
+  {
+    "name": "Stile | outer brass bead.004",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Stile | slender stem.005",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | lower corner curl.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass",
+      "01 | Deep bottle-green enamel",
+      "03 | Polished brass beads",
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | lower corner curl.015",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass",
+      "01 | Deep bottle-green enamel",
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | lower corner curl.021",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass",
+      "01 | Deep bottle-green enamel",
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | individual laminated glass pane",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      -1.1050000190734863,
+      -0.47699999809265137,
+      1.809999942779541
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Glazing | brass glazing bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Glazing | brass glazing bead.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | individual laminated glass pane.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      -1.1050000190734863,
+      0.47699999809265137,
+      1.809999942779541
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Glazing | brass glazing bead.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Glazing | brass glazing bead.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | individual laminated glass pane.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      1.1050000190734863,
+      -0.47699999809265137,
+      1.809999942779541
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Glazing | brass glazing bead.004",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Glazing | brass glazing bead.005",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Side | individual laminated glass pane.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      1.1050000190734863,
+      0.47699999809265137,
+      1.809999942779541
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Glazing | brass glazing bead.006",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Glazing | brass glazing bead.007",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 00",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 01",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 02",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 03",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 04",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 05",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 06",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 07",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 08",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 09",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 10",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 11",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 12",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 13",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 14",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | glass gore 15",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "07 | Clear architectural glass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | double border",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | double border.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass medallion",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass medallion.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass medallion.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass petal",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass petal.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass petal.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass petal.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass petal.004",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass petal.005",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass petal.006",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Floor | compass petal.007",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear interior | ivory upper panel",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "05 | Warm ivory enamel"
+    ],
+    "location": [
+      0.0,
+      1.003999948501587,
+      2.009999990463257
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear interior | green dado panel",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.9929999709129333,
+      0.5149999856948853
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear | inset panel moulding",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear | inner fine panel bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear | inset panel moulding.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear | inner fine panel bead.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear | inset panel moulding.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear | inner fine panel bead.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear | inset panel moulding.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Rear | inner fine panel bead.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Interior | handrail standoff",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Interior | handrail standoff.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Interior | polished side handrail",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Interior | handrail standoff.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Interior | handrail standoff.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Interior | polished side handrail.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cabin | ivory ceiling",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "05 | Warm ivory enamel"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      3.0899999141693115
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Light | brass ceiling rose",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Light | opal shallow bowl",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "09 | Opal luminaire"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Light | rim",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | brass backplate",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.953000009059906,
+      1.6399999856948853
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | dark inset",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      0.0,
+      0.9290000200271606,
+      1.6399999856948853
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | button bezel",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | separate pushbutton",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "01 | Deep bottle-green enamel"
+    ],
+    "location": [
+      0.0,
+      0.9120000004768372,
+      1.5399999618530273
+    ],
+    "scale": [
+      1.0,
+      0.25,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | button bezel.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | separate pushbutton.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "09 | Opal luminaire"
+    ],
+    "location": [
+      0.0,
+      0.9120000004768372,
+      1.7699999809265137
+    ],
+    "scale": [
+      1.0,
+      0.25,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | countersunk screw",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -0.07199999690055847,
+      0.9160000085830688,
+      1.440000057220459
+    ],
+    "scale": [
+      1.0,
+      0.30000001192092896,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | screw slot",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | countersunk screw.001",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -0.07199999690055847,
+      0.9160000085830688,
+      1.840000033378601
+    ],
+    "scale": [
+      1.0,
+      0.30000001192092896,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | screw slot.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | countersunk screw.002",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.07199999690055847,
+      0.9160000085830688,
+      1.440000057220459
+    ],
+    "scale": [
+      1.0,
+      0.30000001192092896,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | screw slot.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | countersunk screw.003",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.07199999690055847,
+      0.9160000085830688,
+      1.840000033378601
+    ],
+    "scale": [
+      1.0,
+      0.30000001192092896,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Controls | screw slot.003",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "04 | Dark bronze recesses"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cabin | editable service inscription",
+    "type": "FONT",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.9700000286102295,
+      2.4600000381469727
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      1.5707963705062866,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cabin | editable department inscription",
+    "type": "FONT",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.9700000286102295,
+      2.3350000381469727
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      1.5707963705062866,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Control legend | upper",
+    "type": "FONT",
+    "visible": true,
+    "materials": [
+      "05 | Warm ivory enamel"
+    ],
+    "location": [
+      0.0,
+      0.9160000085830688,
+      1.6950000524520874
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      1.5707963705062866,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Control legend | lower",
+    "type": "FONT",
+    "visible": true,
+    "materials": [
+      "05 | Warm ivory enamel"
+    ],
+    "location": [
+      0.0,
+      0.9160000085830688,
+      1.468000054359436
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      1.5707963705062866,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cabin | inscription divider",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cabin | small inscription flourish",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cabin | small inscription flourish.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Cabin | small inscription flourish.002",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 00",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 01",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 02",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 03",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 04",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 05",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 06",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 07",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 08",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 09",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 10",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 11",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 12",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 13",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 14",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | brass rib 15",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | elliptical perimeter bead",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | central turned spire",
+    "type": "MESH",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      -2.1245795400748335e-10,
+      -6.266134833232684e-10,
+      4.377800941467285
+    ],
+    "scale": [
+      1.3417490720748901,
+      1.3417490720748901,
+      1.3417490720748901
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | front crest outer",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      1.1641532182693481e-09,
+      -1.1410850286483765,
+      3.687896251678467
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | front crest inner",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "03 | Polished brass beads"
+    ],
+    "location": [
+      -2.7939677238464355e-09,
+      -1.1470853090286255,
+      3.6878950595855713
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | crest stem",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      -1.1412630081176758,
+      3.2271275520324707
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      0.7222225666046143
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | crest foot",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      2.9103830456733704e-10,
+      -1.1438218355178833,
+      3.3231136798858643
+    ],
+    "scale": [
+      1.4162722826004028,
+      1.4162722826004028,
+      1.4162722826004028
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Crown | crest stem.001",
+    "type": "CURVE",
+    "visible": true,
+    "materials": [
+      "02 | Aged warm brass"
+    ],
+    "location": [
+      0.0,
+      -1.1412630081176758,
+      3.4254114627838135
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      0.7222225666046143
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+]

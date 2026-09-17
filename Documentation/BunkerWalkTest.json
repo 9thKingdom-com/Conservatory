@@ -1,0 +1,63 @@
+{
+  "lift_down_accepted": true,
+  "lift_down_arrived": true,
+  "hall_walk_cm": 1112.6256723975278,
+  "hall_walk_passed": true,
+  "stair_descent_z_cm": 3504.4895238876343,
+  "stair_descent_passed": true,
+  "stair_ascent_z_cm": 4089.9130859993866,
+  "stair_ascent_passed": true,
+  "lift_up_accepted": true,
+  "lift_up_arrived": true,
+  "room_doorways": [
+    {
+      "room_index": 0,
+      "passed": true
+    },
+    {
+      "room_index": 1,
+      "passed": true
+    },
+    {
+      "room_index": 2,
+      "passed": true
+    },
+    {
+      "room_index": 3,
+      "passed": true
+    },
+    {
+      "room_index": 4,
+      "passed": true
+    },
+    {
+      "room_index": 5,
+      "passed": true
+    },
+    {
+      "room_index": 6,
+      "passed": true
+    },
+    {
+      "room_index": 7,
+      "passed": true
+    },
+    {
+      "room_index": 8,
+      "passed": true
+    },
+    {
+      "room_index": 9,
+      "passed": true
+    },
+    {
+      "room_index": 10,
+      "passed": true
+    },
+    {
+      "room_index": 11,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,199 @@
+[
+  {
+    "name": "RobotVRHub_0",
+    "cls": "RobotVRHub",
+    "pos": [
+      -13020.0,
+      -1650.0,
+      4210.0
+    ],
+    "yaw": 180.0
+  },
+  {
+    "name": "VRSuitStation_0",
+    "cls": "VRSuitStation",
+    "pos": [
+      -14090.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 1,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -14090.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_1",
+    "cls": "VRSuitStation",
+    "pos": [
+      -13985.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 2,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -13985.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_2",
+    "cls": "VRSuitStation",
+    "pos": [
+      -13880.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 3,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -13880.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_3",
+    "cls": "VRSuitStation",
+    "pos": [
+      -13775.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 4,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -13775.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_4",
+    "cls": "VRSuitStation",
+    "pos": [
+      -13670.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 5,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -13670.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_5",
+    "cls": "VRSuitStation",
+    "pos": [
+      -13565.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 6,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -13565.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_6",
+    "cls": "VRSuitStation",
+    "pos": [
+      -13460.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 7,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -13460.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_7",
+    "cls": "VRSuitStation",
+    "pos": [
+      -13355.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 8,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -13355.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_8",
+    "cls": "VRSuitStation",
+    "pos": [
+      -13250.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 9,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -13250.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_9",
+    "cls": "VRSuitStation",
+    "pos": [
+      -13145.0,
+      -2150.0,
+      4003.0
+    ],
+    "yaw": 89.99999999999999,
+    "id": 10,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -13145.0,
+      -2150.0,
+      4003.0
+    ]
+  },
+  {
+    "name": "VRSuitStation_10",
+    "cls": "VRSuitStation",
+    "pos": [
+      -14150.0,
+      -1900.0,
+      4003.0
+    ],
+    "yaw": 0.0,
+    "id": 11,
+    "hub": "RobotVRHub_0",
+    "suit_position": [
+      -14150.0,
+      -1900.0,
+      4003.0
+    ]
+  }
+]

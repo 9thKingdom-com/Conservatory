@@ -1,0 +1,13 @@
+{
+  "material": "/Game/Conservatory/Environment/Materials/M_Ground.M_Ground",
+  "material_class": "Material",
+  "material_api": [
+    "get_input_node_output_name_for_material_expression",
+    "get_inputs_for_material_expression",
+    "get_inputs_for_material_function_expression",
+    "get_material_expression_input_names",
+    "get_material_expression_input_types",
+    "get_material_property_input_node",
+    "get_material_property_input_node_output_name"
+  ]
+}

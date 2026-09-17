@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-09-17T11:47:34.924023",
+  "NavModifierComponent_creation_methods": {
+    "new_object": "None",
+    "call": "<method-wrapper '__call__' of type object at 0x0000013619354648>",
+    "static_class": "<built-in method static_class of type object at 0x0000013619354648>",
+    "spawn_actor_from_class": "<method 'spawn_actor_from_class' of 'EditorActorSubsystem' objects>"
+  }
+}

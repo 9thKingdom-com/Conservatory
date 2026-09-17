@@ -1,0 +1,287 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-16T14:34:27.887370",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "purpose": "Make gameplay-critical actors always loaded (Is Spatially Loaded = false) so World Partition streaming can never remove them",
+  "actor_count_before": 1867,
+  "robots": [
+    {
+      "name": "C17Robot_0",
+      "robot_id": 1
+    },
+    {
+      "name": "C17Robot_1",
+      "robot_id": 2
+    },
+    {
+      "name": "C17Robot_2",
+      "robot_id": 3
+    },
+    {
+      "name": "C17Robot_3",
+      "robot_id": 4
+    },
+    {
+      "name": "C17Robot_4",
+      "robot_id": 5
+    },
+    {
+      "name": "C17Robot_5",
+      "robot_id": 6
+    },
+    {
+      "name": "C17Robot_6",
+      "robot_id": 7
+    },
+    {
+      "name": "C17Robot_7",
+      "robot_id": 8
+    },
+    {
+      "name": "C17Robot_8",
+      "robot_id": 9
+    },
+    {
+      "name": "C17Robot_9",
+      "robot_id": 10
+    },
+    {
+      "name": "C17Robot_10",
+      "robot_id": 11
+    }
+  ],
+  "station_hub_refs": [
+    {
+      "name": "VRSuitStation_0",
+      "robot_id": 1,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_1",
+      "robot_id": 2,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_2",
+      "robot_id": 3,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_3",
+      "robot_id": 4,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_4",
+      "robot_id": 5,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_5",
+      "robot_id": 6,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_6",
+      "robot_id": 7,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_7",
+      "robot_id": 8,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_8",
+      "robot_id": 9,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_9",
+      "robot_id": 10,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    },
+    {
+      "name": "VRSuitStation_10",
+      "robot_id": 11,
+      "hub": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.RobotVRHub_0' (0x0000027A11060000) Class 'RobotVRHub'>"
+    }
+  ],
+  "targets": [
+    {
+      "name": "C17Robot_4",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_10",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_1",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_9",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_3",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_2",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_8",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_5",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_0",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_6",
+      "class": "C17Robot"
+    },
+    {
+      "name": "C17Robot_7",
+      "class": "C17Robot"
+    },
+    {
+      "name": "VRSuitStation_7",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_5",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_10",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_8",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_4",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_3",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_6",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_0",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_2",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_9",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "VRSuitStation_1",
+      "class": "VRSuitStation"
+    },
+    {
+      "name": "RobotVRHub_0",
+      "class": "RobotVRHub"
+    },
+    {
+      "name": "RecastNavMesh-Default",
+      "class": "RecastNavMesh"
+    },
+    {
+      "name": "NavMeshBoundsVolume_0",
+      "class": "NavMeshBoundsVolume"
+    }
+  ],
+  "nav_actors": [
+    {
+      "name": "RecastNavMesh-Default",
+      "class": "RecastNavMesh"
+    },
+    {
+      "name": "NavMeshBoundsVolume_0",
+      "class": "NavMeshBoundsVolume"
+    }
+  ],
+  "property_name": "is_spatially_loaded",
+  "spatial_before": {
+    "C17Robot_4": true,
+    "C17Robot_10": true,
+    "C17Robot_1": true,
+    "C17Robot_9": true,
+    "C17Robot_3": true,
+    "C17Robot_2": true,
+    "C17Robot_8": true,
+    "C17Robot_5": true,
+    "C17Robot_0": true,
+    "C17Robot_6": true,
+    "C17Robot_7": true,
+    "VRSuitStation_7": true,
+    "VRSuitStation_5": true,
+    "VRSuitStation_10": true,
+    "VRSuitStation_8": true,
+    "VRSuitStation_4": true,
+    "VRSuitStation_3": true,
+    "VRSuitStation_6": true,
+    "VRSuitStation_0": true,
+    "VRSuitStation_2": true,
+    "VRSuitStation_9": true,
+    "VRSuitStation_1": true,
+    "RobotVRHub_0": true,
+    "RecastNavMesh-Default": false,
+    "NavMeshBoundsVolume_0": false
+  },
+  "actor_count_after_reload": 1867,
+  "spatial_after_reload": {
+    "C17Robot_8": false,
+    "VRSuitStation_7": false,
+    "RobotVRHub_0": false,
+    "VRSuitStation_5": false,
+    "RecastNavMesh-Default": false,
+    "VRSuitStation_10": false,
+    "VRSuitStation_8": false,
+    "C17Robot_3": false,
+    "C17Robot_5": false,
+    "VRSuitStation_4": false,
+    "VRSuitStation_3": false,
+    "VRSuitStation_6": false,
+    "C17Robot_2": false,
+    "C17Robot_9": false,
+    "VRSuitStation_0": false,
+    "VRSuitStation_2": false,
+    "C17Robot_7": false,
+    "C17Robot_10": false,
+    "C17Robot_4": false,
+    "C17Robot_1": false,
+    "C17Robot_0": false,
+    "C17Robot_6": false,
+    "VRSuitStation_9": false,
+    "NavMeshBoundsVolume_0": false,
+    "VRSuitStation_1": false
+  },
+  "static_sample_still_spatial": {
+    "StaticMeshActor_1": true,
+    "StaticMeshActor_462": true,
+    "StaticMeshActor_UAID_60CF84A9A659410203_1526527393": true,
+    "StaticMeshActor_1980": true,
+    "StaticMeshActor_898": true
+  },
+  "transforms_preserved": true,
+  "reload_verified": true
+}

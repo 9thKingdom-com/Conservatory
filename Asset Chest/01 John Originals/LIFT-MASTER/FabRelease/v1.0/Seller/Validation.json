@@ -1,0 +1,46 @@
+{
+  "native_reopened": true,
+  "native_asset_objects": 424,
+  "native_evaluated_triangles": 506691,
+  "external_images_fonts_libraries": 0,
+  "original_master_unchanged": true,
+  "fbx_reimported": true,
+  "fbx_triangles": 506691,
+  "fbx_scale_and_bounds_match": true,
+  "finite_uvs": true,
+  "glb_embedded_no_external_files": true,
+  "glb_reimported": true,
+  "glb_triangles": 506691,
+  "gallery": [
+    {
+      "file": "01_Hero.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 181246
+    },
+    {
+      "file": "02_Front.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 146711
+    },
+    {
+      "file": "03_Cabin.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 306654
+    },
+    {
+      "file": "04_Crown.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 287682
+    },
+    {
+      "file": "05_Rear.jpg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 154348
+    }
+  ]
+}

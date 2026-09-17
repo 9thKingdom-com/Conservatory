@@ -1,0 +1,25 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-12T12:41:32.113599",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\LiftManual\\20260912-124130",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "upper_cm": [
+    -15838.308589672291,
+    -1384.281790743853,
+    6336.0
+  ],
+  "yaw": 0.23004323216815692,
+  "changed_transforms": [
+    "StaticMeshActor_1858",
+    "TextRenderActor_18",
+    "PointLight_36",
+    "ServiceLift_0"
+  ],
+  "changed_properties": [
+    "ServiceLift_1.destination",
+    "ServiceLift_1.destination_yaw"
+  ],
+  "unrelated_transform_changes": [],
+  "actor_count": 2182,
+  "landscapes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "north": {
+    "distance_cm": 1487.9463602548904,
+    "grounded": true,
+    "passed": true,
+    "position": "<Struct 'Vector' (0x0000029C4B38F120) {x: -10600.000000, y: 837.946360, z: 6332.830413}>",
+    "sweep": null
+  },
+  "south": {
+    "distance_cm": 1487.9251547141082,
+    "grounded": true,
+    "passed": true,
+    "position": "<Struct 'Vector' (0x0000029C4B38F0D0) {x: -10600.000000, y: -837.925155, z: 6332.829510}>",
+    "sweep": null
+  },
+  "passed": true
+}

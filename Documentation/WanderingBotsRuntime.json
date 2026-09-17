@@ -1,0 +1,153 @@
+{
+  "count": 11,
+  "passed": true,
+  "max_displacement_cm": {
+    "C17Robot_0": 352.523314801803,
+    "C17Robot_1": 481.4672295599235,
+    "C17Robot_2": 362.56826063840066,
+    "C17Robot_3": 530.050951295068,
+    "C17Robot_4": 305.8268632454844,
+    "C17Robot_5": 450.5593626987926,
+    "C17Robot_6": 427.51005661185775,
+    "C17Robot_7": 274.0695256274525,
+    "C17Robot_8": 440.45068359306345,
+    "C17Robot_9": 532.7421271267617,
+    "C17Robot_10": 152.08813555371236
+  },
+  "samples": {
+    "C17Robot_0": {
+      "moving_samples": 1282,
+      "grounded_samples": 2454,
+      "min_z": 6298.1499980912695,
+      "max_z": 6298.1499980912695,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -9331.986370420092,
+        -2702.7536948203524,
+        6298.1499980912695
+      ]
+    },
+    "C17Robot_1": {
+      "moving_samples": 1228,
+      "grounded_samples": 2454,
+      "min_z": 6298.149996183921,
+      "max_z": 6310.907540224601,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -9233.665404791022,
+        -1647.0203551712696,
+        6298.149996183921
+      ]
+    },
+    "C17Robot_2": {
+      "moving_samples": 1037,
+      "grounded_samples": 2454,
+      "min_z": 6298.1499980912695,
+      "max_z": 6298.1499980912695,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -9259.15853708572,
+        -762.1638975868495,
+        6298.1499980912695
+      ]
+    },
+    "C17Robot_3": {
+      "moving_samples": 1043,
+      "grounded_samples": 2454,
+      "min_z": 6298.1499980912695,
+      "max_z": 6298.1499980912695,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -9299.774941281095,
+        730.0574005737222,
+        6298.1499980912695
+      ]
+    },
+    "C17Robot_4": {
+      "moving_samples": 1211,
+      "grounded_samples": 2454,
+      "min_z": 6298.1499980912695,
+      "max_z": 6298.1499980912695,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -9265.749413364414,
+        1624.199082725822,
+        6298.1499980912695
+      ]
+    },
+    "C17Robot_5": {
+      "moving_samples": 1067,
+      "grounded_samples": 2454,
+      "min_z": 6298.1499980912695,
+      "max_z": 6298.1499980912695,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -11941.82911744965,
+        -2974.417847718207,
+        6298.1499980912695
+      ]
+    },
+    "C17Robot_6": {
+      "moving_samples": 1193,
+      "grounded_samples": 2454,
+      "min_z": 6298.1499980912695,
+      "max_z": 6298.1499980912695,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -11989.707648366542,
+        -1784.9255366780515,
+        6298.1499980912695
+      ]
+    },
+    "C17Robot_7": {
+      "moving_samples": 923,
+      "grounded_samples": 2454,
+      "min_z": 6298.1499980912695,
+      "max_z": 6298.1499980912695,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -11947.118477486814,
+        -435.13626564963556,
+        6298.1499980912695
+      ]
+    },
+    "C17Robot_8": {
+      "moving_samples": 1055,
+      "grounded_samples": 2454,
+      "min_z": 6298.1499980912695,
+      "max_z": 6298.1499980912695,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -12006.67015721492,
+        560.6912474693062,
+        6298.1499980912695
+      ]
+    },
+    "C17Robot_9": {
+      "moving_samples": 1069,
+      "grounded_samples": 2454,
+      "min_z": 6298.1499980912695,
+      "max_z": 6298.1499980912695,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -11917.942477620189,
+        1827.7841867846848,
+        6298.1499980912695
+      ]
+    },
+    "C17Robot_10": {
+      "moving_samples": 650,
+      "grounded_samples": 2454,
+      "min_z": 6340.8788051605225,
+      "max_z": 6340.8788051605225,
+      "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+      "last_position": [
+        -10618.540113439074,
+        79.17965741977164,
+        6340.8788051605225
+      ]
+    }
+  },
+  "errors": [],
+  "criteria": "11 bots; each moves >70 cm; stays within configured XY bounds +5 cm; moves and is grounded; vertical travel <=25 cm character step height."
+}

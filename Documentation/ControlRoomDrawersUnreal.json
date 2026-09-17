@@ -1,0 +1,48 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-15T14:38:35.353918",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "asset": "/Game/Conservatory/Interiors/ControlRoom/Drawers5x3/SM_ControlRoom_Drawers_5x3.SM_ControlRoom_Drawers_5x3",
+  "actor": "StaticMeshActor_UAID_60CF84A9A659F60103_2137897183",
+  "label": "CONTROL ROOM | Walnut drawers 5x3",
+  "folder": "08 Bunker/01 Habitat/Control Room/Real assets",
+  "location": [
+    -13600.0,
+    -828.0,
+    4000.0
+  ],
+  "rotation": [
+    0.0,
+    -90.0,
+    0.0
+  ],
+  "bounds_min": [
+    -13600.272139817476,
+    -829.1639202833176,
+    4000.0
+  ],
+  "bounds_max": [
+    -13599.751943945885,
+    -826.8360797166824,
+    4001.2595398426056
+  ],
+  "materials": [
+    [
+      0,
+      "CR_Walnut_Dark",
+      "/Game/Conservatory/Interiors/ControlRoom/Drawers5x3/M_CR_Walnut_Dark.M_CR_Walnut_Dark"
+    ],
+    [
+      1,
+      "CR_Walnut_Trim",
+      "/Game/Conservatory/Interiors/ControlRoom/Drawers5x3/M_CR_Walnut_Trim.M_CR_Walnut_Trim"
+    ]
+  ],
+  "nanite": true,
+  "collision": "Imported UCX simple cabinet volume; Query and Physics enabled",
+  "actor_count_before": 1842,
+  "actor_count_after": 1843,
+  "unrelated_transform_changes": [],
+  "backup": "..\\..\\..\\..\\..\\..\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\ControlRoomDrawersUnreal\\20260915-143359",
+  "placement_reason": "Centred on open north wall; south suit line, east monitor and west doorway remain clear"
+}

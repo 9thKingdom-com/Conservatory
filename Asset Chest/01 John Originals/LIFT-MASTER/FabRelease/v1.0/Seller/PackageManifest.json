@@ -1,0 +1,35 @@
+[
+  {
+    "file": "Uploads\\LIFT-MASTER-Blender.zip",
+    "bytes": 6023440,
+    "sha256": "ca6aeb5fb06f61aa80d732be025d6ba581b87bd738ee9f51e0e5bdfda7e72d77",
+    "contents": [
+      "LIFT-MASTER.blend"
+    ]
+  },
+  {
+    "file": "Uploads\\LIFT-MASTER-FBX.zip",
+    "bytes": 10206124,
+    "sha256": "821c94bd0f375332eeb1feb9be84b5863ee73d0e507c913deb5cab19bf7840ff",
+    "contents": [
+      "SM_LiftMaster.fbx"
+    ]
+  },
+  {
+    "file": "Uploads\\LIFT-MASTER-GLB.zip",
+    "bytes": 8182906,
+    "sha256": "294471ec4834aee399d33ed27f614824461c3162a7ee7ed934d58b9e2bf0ce64",
+    "contents": [
+      "LIFT-MASTER.glb"
+    ]
+  },
+  {
+    "file": "Uploads\\LIFT-MASTER-Documentation.zip",
+    "bytes": 3211,
+    "sha256": "615b180fe52f64c24847bdc4c5a67ff92023d21633f0f9a2f353c0d9ccd656bd",
+    "contents": [
+      "MaterialParameters.csv",
+      "README.txt"
+    ]
+  }
+]

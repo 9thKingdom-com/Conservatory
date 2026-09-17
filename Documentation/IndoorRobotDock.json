@@ -1,0 +1,21 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_TerrainRobots",
+  "robot_id": 11,
+  "pad_center": [
+    -11480,
+    1161.05,
+    6242.75
+  ],
+  "robot_position": [
+    -11475,
+    1161.05,
+    6346.35
+  ],
+  "pad_size_cm": [
+    120,
+    100,
+    5.6
+  ],
+  "lift_side_gap_cm": 75,
+  "scope": "Physical charging dock and stationary idle robot; battery simulation is future work."
+}

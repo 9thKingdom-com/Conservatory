@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-09-17T11:50:36.962217",
+  "map_loaded": true,
+  "actor_methods_with_add": [
+    "add_tick_prerequisite_component"
+  ],
+  "actor_methods_with_component": [
+    "add_tick_prerequisite_component",
+    "attach_to_component",
+    "create_input_component",
+    "find_camera_component_when_view_target",
+    "find_component_by_tag",
+    "get_component_by_class",
+    "get_components_by_class",
+    "get_components_by_interface",
+    "get_components_by_tag",
+    "get_overlapping_components",
+    "get_parent_component",
+    "get_touching_components",
+    "remove_tick_prerequisite_component",
+    "root_component",
+    "static_mesh_component"
+  ]
+}

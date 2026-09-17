@@ -1,0 +1,15 @@
+{
+  "select_r11": true,
+  "monitor_open": true,
+  "task_assigned": true,
+  "task_status": "Travelling to Timber bundle",
+  "enter": true,
+  "correct_pawn": true,
+  "task_paused": true,
+  "feed_exists": true,
+  "returned": true,
+  "body_return_error": 0.0,
+  "ai_restored": true,
+  "task_retained": true,
+  "passed": true
+}

@@ -1,0 +1,30 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-12T19:37:07.047968",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\LiftMasterIntegration\\Unreal-20260912-193636",
+  "source": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\LiftMasterIntegration\\20260912-192904\\live-LIFT-MASTER.blend",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "position": [
+    -15838.308589672291,
+    -1384.281790743853,
+    6244.0,
+    0.0,
+    0.2300432324409485,
+    -0.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "mesh_assets": [
+    "/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Solid.SM_LiftMaster_Solid",
+    "/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Glass.SM_LiftMaster_Glass"
+  ],
+  "removed_old_plaque": "TextRenderActor_18",
+  "glass_actor": "StaticMeshActor_0",
+  "unrelated_transform_changes": [],
+  "lift_endpoints_preserved": true,
+  "actor_count": 2181,
+  "materials": "Source palette/metal/roughness recreated; procedural noise translated to Unreal, glass uses tested Fresnel transparency.",
+  "final_mesh_settings": "Legacy FBX reimport, actual solid/glass face split, unused material slots removed, Nanite disabled, full complex collision",
+  "final_validation": "LiftMasterRuntime.json: walking entry, downstairs, upstairs and walking exit passed; LiftMasterUnreal.png inspected after final reimport"
+}

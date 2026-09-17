@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-09-17T11:45:25.852005",
+  "meshes": {
+    "/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure": {
+      "bUseSimpleCollisionAsComplex": "ERROR: NavCollisionBase: Failed to find property 'bUseSimpleCollisionAsComplex' for attribute 'bUseSimpleCollisionAsComplex' on 'NavCollision'",
+      "bUseComplexCollisionAsSimple": "ERROR: NavCollisionBase: Failed to find property 'bUseComplexCollisionAsSimple' for attribute 'bUseComplexCollisionAsSimple' on 'NavCollision'",
+      "bUseSimpleCollision": "ERROR: NavCollisionBase: Failed to find property 'bUseSimpleCollision' for attribute 'bUseSimpleCollision' on 'NavCollision'",
+      "bUseComplexCollision": "ERROR: NavCollisionBase: Failed to find property 'bUseComplexCollision' for attribute 'bUseComplexCollision' on 'NavCollision'",
+      "bUseSimpleCollisionAsComplexCollision": "ERROR: NavCollisionBase: Failed to find property 'bUseSimpleCollisionAsComplexCollision' for attribute 'bUseSimpleCollisionAsComplexCollision' on 'NavCollision'",
+      "bUseComplexCollisionAsSimpleCollision": "ERROR: NavCollisionBase: Failed to find property 'bUseComplexCollisionAsSimpleCollision' for attribute 'bUseComplexCollisionAsSimpleCollision' on 'NavCollision'",
+      "bIsDynamicObstacle": "False",
+      "bObstacle": "ERROR: NavCollisionBase: Failed to find property 'bObstacle' for attribute 'bObstacle' on 'NavCollision'",
+      "bNavModifier": "ERROR: NavCollisionBase: Failed to find property 'bNavModifier' for attribute 'bNavModifier' on 'NavCollision'",
+      "bUseGeometry": "ERROR: NavCollisionBase: Failed to find property 'bUseGeometry' for attribute 'bUseGeometry' on 'NavCollision'"
+    },
+    "/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Solid": {
+      "bUseSimpleCollisionAsComplex": "ERROR: NavCollisionBase: Failed to find property 'bUseSimpleCollisionAsComplex' for attribute 'bUseSimpleCollisionAsComplex' on 'NavCollision'",
+      "bUseComplexCollisionAsSimple": "ERROR: NavCollisionBase: Failed to find property 'bUseComplexCollisionAsSimple' for attribute 'bUseComplexCollisionAsSimple' on 'NavCollision'",
+      "bUseSimpleCollision": "ERROR: NavCollisionBase: Failed to find property 'bUseSimpleCollision' for attribute 'bUseSimpleCollision' on 'NavCollision'",
+      "bUseComplexCollision": "ERROR: NavCollisionBase: Failed to find property 'bUseComplexCollision' for attribute 'bUseComplexCollision' on 'NavCollision'",
+      "bUseSimpleCollisionAsComplexCollision": "ERROR: NavCollisionBase: Failed to find property 'bUseSimpleCollisionAsComplexCollision' for attribute 'bUseSimpleCollisionAsComplexCollision' on 'NavCollision'",
+      "bUseComplexCollisionAsSimpleCollision": "ERROR: NavCollisionBase: Failed to find property 'bUseComplexCollisionAsSimpleCollision' for attribute 'bUseComplexCollisionAsSimpleCollision' on 'NavCollision'",
+      "bIsDynamicObstacle": "False",
+      "bObstacle": "ERROR: NavCollisionBase: Failed to find property 'bObstacle' for attribute 'bObstacle' on 'NavCollision'",
+      "bNavModifier": "ERROR: NavCollisionBase: Failed to find property 'bNavModifier' for attribute 'bNavModifier' on 'NavCollision'",
+      "bUseGeometry": "ERROR: NavCollisionBase: Failed to find property 'bUseGeometry' for attribute 'bUseGeometry' on 'NavCollision'"
+    }
+  }
+}

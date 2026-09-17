@@ -1,0 +1,7 @@
+{
+  "actor": "<Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.NavModifierVolume_UAID_60CF84A9A6594A0203_1303295967' (0x0000018B857B5000) Class 'NavModifierVolume'>",
+  "area_class": "<Object '/Script/NavigationSystem.NavArea_Null' (0x00007FF3FA9F4BF0) Class 'Class'>",
+  "area_class_to_replace": "None",
+  "area_after": "<Object '/Script/NavigationSystem.NavArea_Null' (0x00007FF3FA9F4BF0) Class 'Class'>",
+  "spatial_before": true
+}

@@ -1,0 +1,16 @@
+{
+  "resolution": [
+    505,
+    505
+  ],
+  "sample_spacing_metres": 2.5,
+  "world_origin_metres": [
+    -630,
+    -630
+  ],
+  "layers": [
+    "Gravel",
+    "Asphalt",
+    "Soil"
+  ]
+}

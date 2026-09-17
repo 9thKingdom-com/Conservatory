@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-09-17T11:36:02.398340",
+  "CollisionTraceFlag": [
+    "CTF_USE_COMPLEX_AS_SIMPLE",
+    "CTF_USE_DEFAULT",
+    "CTF_USE_SIMPLE_AND_COMPLEX",
+    "CTF_USE_SIMPLE_AS_COMPLEX",
+    "cast",
+    "get_display_name",
+    "name",
+    "static_enum",
+    "value"
+  ],
+  "CollisionTypeEnum": [
+    "CHAOS_SURFACE_VOLUMETRIC",
+    "CHAOS_VOLUMETRIC",
+    "cast",
+    "get_display_name",
+    "name",
+    "static_enum",
+    "value"
+  ]
+}

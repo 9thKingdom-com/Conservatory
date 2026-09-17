@@ -1,0 +1,14 @@
+{
+  "changed_meshes": [
+    "/Game/Conservatory/Architecture/CoreHabitat/SM_Core_Large_Bay.SM_Core_Large_Bay",
+    "/Game/Conservatory/Architecture/CoreHabitat/SM_Core_Large_Cap.SM_Core_Large_Cap",
+    "/Game/Conservatory/Architecture/CoreHabitat/SM_Core_Large_Portal.SM_Core_Large_Portal",
+    "/Game/Conservatory/Architecture/CoreHabitat/SM_Core_Small_Bay.SM_Core_Small_Bay",
+    "/Game/Conservatory/Architecture/CoreHabitat/SM_Core_Small_Cap.SM_Core_Small_Cap",
+    "/Game/Conservatory/Architecture/CoreHabitat/SM_Core_Small_Portal.SM_Core_Small_Portal",
+    "/Game/Conservatory/Architecture/CoreHabitat/SM_Core_WalkwayFrame.SM_Core_WalkwayFrame"
+  ],
+  "ivory_material": "/Game/Conservatory/Architecture/ModularMaster/M_MasterIvoryFrame.M_MasterIvoryFrame",
+  "brass_material": "/Game/Conservatory/Architecture/ModularMaster/M_MasterBrass.M_MasterBrass",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\HabitatIvory\\20260910-165301"
+}

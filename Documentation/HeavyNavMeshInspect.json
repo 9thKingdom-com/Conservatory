@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-09-17T11:40:07.331896",
+  "meshes": {
+    "/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure": {
+      "path": "/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure.SM_TreeMaster_Structure",
+      "name": "SM_TreeMaster_Structure",
+      "collision_complexity": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "simple_collision_count": "0",
+      "convex_collision_count": "0",
+      "num_triangles": "634862",
+      "num_vertices": "589625",
+      "num_lods": "1",
+      "lod_for_collision": "0"
+    },
+    "/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Solid": {
+      "path": "/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Solid.SM_LiftMaster_Solid",
+      "name": "SM_LiftMaster_Solid",
+      "collision_complexity": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "simple_collision_count": "0",
+      "convex_collision_count": "1",
+      "num_triangles": "502834",
+      "num_vertices": "682106",
+      "num_lods": "1",
+      "lod_for_collision": "0"
+    }
+  }
+}

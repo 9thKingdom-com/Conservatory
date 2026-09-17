@@ -1,0 +1,404 @@
+{
+  "timestamp": "2026-09-16T15:37:50.691684",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "robot_flags": {
+    "1": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "2": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "3": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "4": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "5": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "6": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "7": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "8": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "9": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "10": {
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true
+    },
+    "11": {
+      "keep_out": false,
+      "clearance": 0.0,
+      "mins": 0,
+      "maxs": 0,
+      "terrain_wander": false,
+      "wander_enabled": false,
+      "patrol_enabled": false
+    }
+  },
+  "robot_11": {
+    "start": [
+      -15799.39296235928,
+      -1114.1233669424937,
+      6345.8999982638725
+    ],
+    "last": [
+      -15799.39296235928,
+      -1114.1233669424937,
+      6345.8999982638725
+    ],
+    "distance_cm": 0.0,
+    "grounded": 8247,
+    "samples": 8247,
+    "inside_failures": 0,
+    "destination_failures": 0,
+    "destinations": []
+  },
+  "robots": {
+    "1": {
+      "start": [
+        -13296.969651078885,
+        5070.378710925348,
+        6273.119052891576
+      ],
+      "last": [
+        -732.312127504758,
+        5954.633087043162,
+        4392.415274469217
+      ],
+      "distance_cm": 12614.6338636553,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          30788.16068006337,
+          1265.1132301494124,
+          3989.406925594525
+        ]
+      ]
+    },
+    "2": {
+      "start": [
+        -4908.013373571989,
+        -4654.50303166635,
+        4119.61310922731
+      ],
+      "last": [
+        -1207.034913953789,
+        7371.53373404207,
+        5124.338048980569
+      ],
+      "distance_cm": 12614.6164065599,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          1641.1488126402205,
+          13568.390259705457,
+          6041.761249024746
+        ]
+      ]
+    },
+    "3": {
+      "start": [
+        14721.682972682798,
+        -1378.9489197182222,
+        4355.079758429497
+      ],
+      "last": [
+        27275.626351836607,
+        -142.98898627355808,
+        2943.414881521052
+      ],
+      "distance_cm": 12614.63797832031,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          32341.29418265344,
+          1068.1669681109342,
+          4825.840201915813
+        ]
+      ]
+    },
+    "4": {
+      "start": [
+        23741.6600588527,
+        -6819.971783813315,
+        2563.3408299262246
+      ],
+      "last": [
+        15962.661020629048,
+        -15774.70471305988,
+        965.3922818769331
+      ],
+      "distance_cm": 12111.091240524009,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          21778.6835756019,
+          -10922.90650051802,
+          1708.7985477679886
+        ],
+        [
+          -534.8310218111694,
+          -25383.559195769267,
+          1536.5377340883797
+        ]
+      ]
+    },
+    "5": {
+      "start": [
+        -32166.92677476533,
+        -22341.628463156638,
+        2972.264898203412
+      ],
+      "last": [
+        -23361.85940074604,
+        -31374.893643717034,
+        2624.742735215229
+      ],
+      "distance_cm": 12614.637976705659,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          -22488.905452818883,
+          -32270.47162933372,
+          2682.0687196223835
+        ]
+      ]
+    },
+    "6": {
+      "start": [
+        -32302.490140603106,
+        26576.80524069517,
+        7506.190265081283
+      ],
+      "last": [
+        -26468.07113530396,
+        16750.362994962416,
+        7823.51956101641
+      ],
+      "distance_cm": 12138.344172100984,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          -27630.28261278726,
+          16565.893652812338,
+          7915.438189165996
+        ],
+        [
+          -10875.774830533284,
+          16935.862882242054,
+          6898.840741670302
+        ]
+      ]
+    },
+    "7": {
+      "start": [
+        -340.7084942516164,
+        29712.518313120956,
+        8201.1621634019
+      ],
+      "last": [
+        -10458.374488644951,
+        22301.47589589229,
+        7633.733104856055
+      ],
+      "distance_cm": 12614.580681408228,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          -25914.0295520914,
+          15344.304059080067,
+          7520.6307533255185
+        ]
+      ]
+    },
+    "8": {
+      "start": [
+        32409.487607597468,
+        31780.498732672895,
+        3724.799081747825
+      ],
+      "last": [
+        30395.302689803986,
+        19364.433044284353,
+        2854.632414986683
+      ],
+      "distance_cm": 12614.60475479447,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          21170.320882833443,
+          -5368.1073114033525,
+          2066.996966594855
+        ]
+      ]
+    },
+    "9": {
+      "start": [
+        32332.011196672505,
+        -28605.188386480906,
+        949.2946605298348
+      ],
+      "last": [
+        28095.2253316125,
+        -17572.767619390175,
+        1311.181619449587
+      ],
+      "distance_cm": 11979.560983996533,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          30606.043438016386,
+          -21671.969832444884,
+          832.1003020411742
+        ],
+        [
+          17926.841106379587,
+          7477.255698856402,
+          4922.7991203584015
+        ]
+      ]
+    },
+    "10": {
+      "start": [
+        5314.308590059318,
+        -32405.350254129866,
+        1485.0744753466845
+      ],
+      "last": [
+        10866.668445117732,
+        -24836.97371682228,
+        1080.5161287720298
+      ],
+      "distance_cm": 11996.468863939417,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": [
+        [
+          11594.553919009204,
+          -30206.27948059445,
+          1075.3406291748745
+        ],
+        [
+          9435.433462430297,
+          -12160.738109046288,
+          1294.3783913954107
+        ]
+      ]
+    },
+    "11": {
+      "start": [
+        -15799.39296235928,
+        -1114.1233669424937,
+        6345.8999982638725
+      ],
+      "last": [
+        -15799.39296235928,
+        -1114.1233669424937,
+        6345.8999982638725
+      ],
+      "distance_cm": 0.0,
+      "grounded": 8247,
+      "samples": 8247,
+      "inside_failures": 0,
+      "destination_failures": 0,
+      "destinations": []
+    }
+  },
+  "passed": true
+}

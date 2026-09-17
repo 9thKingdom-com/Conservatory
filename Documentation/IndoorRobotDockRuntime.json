@@ -1,0 +1,8 @@
+{
+  "lift_entry_clear": true,
+  "count": 11,
+  "stationary_drift_cm": 0.0,
+  "grounded": true,
+  "patrol_enabled": false,
+  "passed": true
+}

@@ -1,0 +1,53 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "Games",
+	"Description": "A quiet woodland hill overlooking a reclaimed village.",
+	"Modules": [
+		{
+			"Name": "Conservatory",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "Habitat",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ConservatoryEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "MeshPartition",
+			"Enabled": false
+		},
+		{
+			"Name": "MeshTerrainMode",
+			"Enabled": false
+		},
+		{
+			"Name": "PCGPrimitives_MeshPartitionInterop",
+			"Enabled": false
+		},
+		{
+			"Name": "PCGMeshPartitionInterop",
+			"Enabled": false
+		},
+		{
+			"Name": "FastGeoStreaming",
+			"Enabled": false
+		}
+	]
+}

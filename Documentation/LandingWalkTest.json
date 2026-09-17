@@ -1,0 +1,15 @@
+{
+  "crossings": [
+    {
+      "direction": "stairs_to_corridor",
+      "z": 4090.1500002201674,
+      "passed": true
+    },
+    {
+      "direction": "corridor_to_stairs",
+      "z": 4090.1500002201674,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-09-14T12:30:32.315803",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\ReddishGreyRock\\20260914-122814",
+  "material": "/Game/Conservatory/Environment/MountainRock/M_MountainLandscape.M_MountainLandscape",
+  "standalone": "/Game/Conservatory/Environment/MountainRock/M_ReddishGreyRock.M_ReddishGreyRock",
+  "layer_info": "/Game/Conservatory/Environment/MountainRock/LI_ReddishGreyRock.LI_ReddishGreyRock",
+  "target_layers": "{\"__LANDSCAPE_VISIBILITY__\": {}, \"ReddishGreyRock\": {}}",
+  "actors": 2023,
+  "all_transforms_preserved": true,
+  "painting_applied": false
+}

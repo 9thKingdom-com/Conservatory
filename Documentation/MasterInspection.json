@@ -1,0 +1,9918 @@
+{
+  "units": 1.0,
+  "objects": [
+    {
+      "name": "Base | ashlar lower course",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7239646911621094,
+        0.8501794338226318,
+        0.20000000298023224
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | ashlar lower course.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.655785083770752,
+        0.7980719208717346,
+        0.20000000298023224
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | ashlar lower course.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.655785083770752,
+        0.7980719208717346,
+        0.20000000298023224
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | ashlar lower course.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7239646911621094,
+        0.8501794338226318,
+        0.20000000298023224
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | continuous moulded sill",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.8365249633789062,
+        3.2524476051330566,
+        0.05000000074505806
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | continuous moulded sill.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.8167109489440918,
+        3.248605966567993,
+        0.0650000274181366
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | continuous moulded sill.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.6681079864501953,
+        3.2197930812835693,
+        0.06499993801116943
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | continuous moulded sill.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7077350616455078,
+        3.2274763584136963,
+        0.034999966621398926
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel horizontal bead",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.10154342651367188,
+        0.4252493381500244,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel horizontal bead.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.10154342651367188,
+        0.4252493381500244,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel horizontal bead.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.4252490997314453,
+        0.10154306888580322,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel horizontal bead.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.4252490997314453,
+        0.10154306888580322,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel horizontal bead.004",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.10154342651367188,
+        0.4252493381500244,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel horizontal bead.005",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.10154342651367188,
+        0.4252493381500244,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel horizontal bead.006",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.4252486228942871,
+        0.10154306888580322,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel horizontal bead.007",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.4252486228942871,
+        0.10154306888580322,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel vertical bead",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel vertical bead.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel vertical bead.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel vertical bead.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel vertical bead.004",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel vertical bead.005",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel vertical bead.006",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | panel vertical bead.007",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | recessed ashlar course",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.5856409072875977,
+        0.829660952091217,
+        0.23000000417232513
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | recessed ashlar course.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.516115665435791,
+        0.791210412979126,
+        0.23000000417232513
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | recessed ashlar course.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.516115665435791,
+        0.791210412979126,
+        0.23000000417232513
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | recessed ashlar course.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.5856409072875977,
+        0.829660952091217,
+        0.23000000417232513
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | shared seam pedestal",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7725667953491211,
+        0.7725663185119629,
+        0.20000000298023224
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | shared seam pedestal.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7020139694213867,
+        0.7020137310028076,
+        0.07000000774860382
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | shared seam pedestal.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.6432204246520996,
+        0.6432199478149414,
+        0.20999997854232788
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | shared seam pedestal.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7255315780639648,
+        0.7255312204360962,
+        0.0599999725818634
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | shared seam pedestal.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.6079440116882324,
+        0.6079436540603638,
+        0.06000000238418579
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Base | shared seam pedestal.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.5021147727966309,
+        0.5021147727966309,
+        0.050000011920928955
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | abacus",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.5734477043151855,
+        0.5734477043151855,
+        0.06500005722045898
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | abacus.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.5028948783874512,
+        0.5028951168060303,
+        0.034999847412109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09239530563354492,
+        0.042638421058654785,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09239530563354492,
+        0.042638421058654785,
+        0.19995832443237305
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09342765808105469,
+        0.04760575294494629,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786262512207,
+        0.07582128047943115,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.004",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209228515625,
+        0.07447898387908936,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.005",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04760551452636719,
+        0.09342825412750244,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.006",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04263877868652344,
+        0.09239614009857178,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.007",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.042638301849365234,
+        0.09239602088928223,
+        0.19995832443237305
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.008",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04760551452636719,
+        0.09342825412750244,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.009",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209228515625,
+        0.07447898387908936,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.010",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786262512207,
+        0.07582128047943115,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.011",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09342813491821289,
+        0.04760575294494629,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.012",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09239625930786133,
+        0.042638421058654785,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.013",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09239625930786133,
+        0.042638540267944336,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.014",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09342813491821289,
+        0.04760575294494629,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.015",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786262512207,
+        0.07582128047943115,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.016",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209228515625,
+        0.07447898387908936,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.017",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04760551452636719,
+        0.09342825412750244,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.018",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.042638301849365234,
+        0.09239590167999268,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.019",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04263877868652344,
+        0.09239602088928223,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.020",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04760551452636719,
+        0.09342825412750244,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.021",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209228515625,
+        0.07447898387908936,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.022",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786262512207,
+        0.07582128047943115,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus leaf edge.023",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09342765808105469,
+        0.04760575294494629,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.10212182998657227,
+        0.019999980926513672,
+        0.20189523696899414
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09116601943969727,
+        0.06081545352935791,
+        0.20189762115478516
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.06081533432006836,
+        0.09116637706756592,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.020000457763671875,
+        0.10212182998657227,
+        0.20189666748046875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.004",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.06081533432006836,
+        0.09116637706756592,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.005",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09116649627685547,
+        0.06081545352935791,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.006",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.10212230682373047,
+        0.019999980926513672,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.007",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09116649627685547,
+        0.06081545352935791,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.008",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.06081533432006836,
+        0.09116637706756592,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.009",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.020000457763671875,
+        0.10212194919586182,
+        0.20189666748046875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.010",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.06081533432006836,
+        0.09116637706756592,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | acanthus midrib.011",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09116601943969727,
+        0.06081545352935791,
+        0.20189762115478516
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | neck and bell",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.4793415069580078,
+        0.4793424606323242,
+        0.2999999523162842
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | rolled corner volute",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.033761024475097656,
+        0.09057784080505371,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | rolled corner volute.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03376197814941406,
+        0.09057784080505371,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | rolled corner volute.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09057760238647461,
+        0.03376150131225586,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | rolled corner volute.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09057760238647461,
+        0.03376150131225586,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | rolled corner volute.004",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03376150131225586,
+        0.09057772159576416,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | rolled corner volute.005",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03376150131225586,
+        0.09057772159576416,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | rolled corner volute.006",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09057760238647461,
+        0.03376138210296631,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Capital | rolled corner volute.007",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09057855606079102,
+        0.03376150131225586,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.032000064849853516,
+        0.01399993896484375,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.029564380645751953,
+        0.019823670387268066,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.026728153228759766,
+        0.026727795600891113,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.019826889038085938,
+        0.029568076133728027,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.004",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.01399993896484375,
+        0.03199970722198486,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.005",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.019826889038085938,
+        0.029568076133728027,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.006",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.026728153228759766,
+        0.026727795600891113,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.007",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.029564380645751953,
+        0.019823670387268066,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.008",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.032000064849853516,
+        0.01399993896484375,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.009",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.029564380645751953,
+        0.019823670387268066,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.010",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.026728153228759766,
+        0.026727914810180664,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.011",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.019826889038085938,
+        0.029568076133728027,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.012",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.01399993896484375,
+        0.03199970722198486,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.013",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.019826889038085938,
+        0.029568076133728027,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.014",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.026728153228759766,
+        0.026727914810180664,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | full-height flute.015",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.029564380645751953,
+        0.019823670387268066,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | moulded foot",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.46000003814697266,
+        0.46000003814697266,
+        0.17000001668930054
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | tapered shaft",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.30597734451293945,
+        0.30597710609436035,
+        3.1500000953674316
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | upper panel bead",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        1.260000228881836
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | upper panel bead.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.017999887466430664,
+        1.260000228881836
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Column | upper pilaster",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.24459218978881836,
+        0.24459290504455566,
+        1.4499998092651367
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "CONTROLS | Bay count 1, half dome 8, full dome 16",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {
+        "Bay count": "1",
+        "Pitch degrees": "22.5",
+        "Radius metres": "8.0"
+      }
+    },
+    {
+      "name": "Cornice | column junction block",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.46800899505615234,
+        0.46800923347473145,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | column junction block.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.31514596939086914,
+        0.3151453733444214,
+        0.24000024795532227
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | column junction block.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.5032854080200195,
+        0.5032854080200195,
+        0.09000015258789062
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.10096359252929688,
+        0.0889129638671875,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09935855865478516,
+        0.08678507804870605,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09766101837158203,
+        0.08457827568054199,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09587478637695312,
+        0.08229416608810425,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09400177001953125,
+        0.07993495464324951,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09204292297363281,
+        0.07750284671783447,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.006",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09000015258789062,
+        0.07500000298023224,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.007",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09204292297363281,
+        0.07750284671783447,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.008",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09400177001953125,
+        0.07993495464324951,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.009",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09587478637695312,
+        0.08229416608810425,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.010",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09766101837158203,
+        0.08457827568054199,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.011",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09935855865478516,
+        0.08678507804870605,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | dentil.012",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.10096359252929688,
+        0.0889129638671875,
+        0.07499980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | pierced frieze roundel",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.059430599212646484,
+        0.21489036083221436,
+        0.21799945831298828
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | pierced frieze roundel.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.049097537994384766,
+        0.2165994644165039,
+        0.21799945831298828
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | pierced frieze roundel.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03860902786254883,
+        0.21762710809707642,
+        0.21799945831298828
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | pierced frieze roundel.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0279998779296875,
+        0.21797002851963043,
+        0.21799945831298828
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | pierced frieze roundel.004",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.038609981536865234,
+        0.21762710809707642,
+        0.21799945831298828
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | pierced frieze roundel.005",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.049097537994384766,
+        0.21659952402114868,
+        0.21799945831298828
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | pierced frieze roundel.006",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.059430599212646484,
+        0.21489036083221436,
+        0.21799945831298828
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | profiled ring course",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.4798769950866699,
+        3.1832966804504395,
+        0.09000015258789062
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | profiled ring course.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.5294113159179688,
+        3.192901134490967,
+        0.05500030517578125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | profiled ring course.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.5195050239562988,
+        3.1909801959991455,
+        0.08500003814697266
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | profiled ring course.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.6284799575805664,
+        3.2121095657348633,
+        0.06999969482421875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cornice | profiled ring course.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.549224853515625,
+        3.1967427730560303,
+        0.034999847412109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "CORRIDOR CONTROLS | repeat count and placement",
+      "type": "EMPTY",
+      "location": [
+        11.199999809265137,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {
+        "Bay count": "1",
+        "Bay length metres": "3.121445152258052",
+        "Column centre width metres": "3.121445152258052",
+        "Clear arch width metres": "2.721445152258052"
+      }
+    },
+    {
+      "name": "Corridor | arch crown keystone",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.2199999988079071,
+        0.14000000059604645,
+        0.19999980926513672
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | arch spring shoe",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.3400000035762787,
+        0.3399999141693115,
+        0.08500003814697266
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | arch spring shoe.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.3400000035762787,
+        0.3399999141693115,
+        0.08500003814697266
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | automatic final open arch",
+      "type": "EMPTY",
+      "location": [
+        3.1214451789855957,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | barrel longitudinal glazing bar",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.03600001335144043,
+        0.05000019073486328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | barrel longitudinal glazing bar.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.035999953746795654,
+        0.05000019073486328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | barrel longitudinal glazing bar.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.03600001335144043,
+        0.05000019073486328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | barrel longitudinal glazing bar.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.035999998450279236,
+        0.05000019073486328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | barrel longitudinal glazing bar.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.03600001335144043,
+        0.05000019073486328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | barrel longitudinal glazing bar.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.035999953746795654,
+        0.05000019073486328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | barrel longitudinal glazing bar.006",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.03600001335144043,
+        0.05000019073486328
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.10154341161251068,
+        0.42524927854537964,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.001",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.10154341161251068,
+        0.42524927854537964,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.002",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.42524904012680054,
+        0.10154305398464203,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.003",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.42524904012680054,
+        0.10154305398464203,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.004",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.10154341161251068,
+        0.42524927854537964,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.005",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.10154341161251068,
+        0.42524927854537964,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.006",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.42524856328964233,
+        0.10154305398464203,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.007",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.42524856328964233,
+        0.10154305398464203,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.008",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.10154341161251068,
+        0.42524927854537964,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.009",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.10154341161251068,
+        0.42524927854537964,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.010",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.42524904012680054,
+        0.10154305398464203,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.011",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.42524904012680054,
+        0.10154305398464203,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.012",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.10154341161251068,
+        0.42524927854537964,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.013",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.10154341161251068,
+        0.42524927854537964,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.014",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.42524856328964233,
+        0.10154305398464203,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel horizontal bead.015",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.42524856328964233,
+        0.10154305398464203,
+        0.018000006675720215
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.001",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.002",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.003",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.004",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.005",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.006",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.007",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.008",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.009",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.010",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.011",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.012",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.013",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.014",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | panel vertical bead.015",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.017999647185206413,
+        0.017999885603785515,
+        0.1550000011920929
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.7725666761398315,
+        0.7725661993026733,
+        0.20000000298023224
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.001",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.7020139098167419,
+        0.7020136713981628,
+        0.07000000774860382
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.002",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.6432203650474548,
+        0.6432198882102966,
+        0.20999997854232788
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.003",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.7255315184593201,
+        0.7255311608314514,
+        0.0599999725818634
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.004",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.6079439520835876,
+        0.607943594455719,
+        0.06000000238418579
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.005",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.5021147131919861,
+        0.5021147131919861,
+        0.050000011920928955
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.006",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.7725666761398315,
+        0.7725661993026733,
+        0.20000000298023224
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.007",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.7020139098167419,
+        0.7020136713981628,
+        0.07000000774860382
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.008",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.6432203650474548,
+        0.6432198882102966,
+        0.20999997854232788
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.009",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.7255315184593201,
+        0.7255311608314514,
+        0.0599999725818634
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.010",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.6079439520835876,
+        0.607943594455719,
+        0.06000000238418579
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Base | shared seam pedestal.011",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.5021147131919861,
+        0.5021147131919861,
+        0.050000011920928955
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | abacus",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.5734476447105408,
+        0.5734476447105408,
+        0.06500005722045898
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | abacus.001",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.5028948187828064,
+        0.5028950572013855,
+        0.034999847412109375
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | abacus.002",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.5734476447105408,
+        0.5734476447105408,
+        0.06500005722045898
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | abacus.003",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.5028948187828064,
+        0.5028950572013855,
+        0.034999847412109375
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09239529818296432,
+        0.04263841733336449,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.001",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09239529818296432,
+        0.04263841733336449,
+        0.19995832443237305
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.002",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09342765063047409,
+        0.04760574549436569,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.003",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786188006401,
+        0.07582127302885056,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.004",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209154009819,
+        0.07447897642850876,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.005",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.04760550707578659,
+        0.09342824667692184,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.006",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.04263877496123314,
+        0.09239613264799118,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.007",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.042638298124074936,
+        0.09239601343870163,
+        0.19995832443237305
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.008",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.04760550707578659,
+        0.09342824667692184,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.009",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209154009819,
+        0.07447897642850876,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.010",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786188006401,
+        0.07582127302885056,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.011",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0934281274676323,
+        0.04760574549436569,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.012",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09239625185728073,
+        0.04263841733336449,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.013",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09239625185728073,
+        0.04263853654265404,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.014",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0934281274676323,
+        0.04760574549436569,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.015",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786188006401,
+        0.07582127302885056,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.016",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209154009819,
+        0.07447897642850876,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.017",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.04760550707578659,
+        0.09342824667692184,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.018",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.042638298124074936,
+        0.09239589422941208,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.019",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.04263877496123314,
+        0.09239601343870163,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.020",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.04760550707578659,
+        0.09342824667692184,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.021",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209154009819,
+        0.07447897642850876,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.022",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786188006401,
+        0.07582127302885056,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.023",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09342765063047409,
+        0.04760574549436569,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.024",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09239529818296432,
+        0.04263841733336449,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.025",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09239529818296432,
+        0.04263841733336449,
+        0.19995832443237305
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.026",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09342765063047409,
+        0.04760574549436569,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.027",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786188006401,
+        0.07582127302885056,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.028",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209154009819,
+        0.07447897642850876,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.029",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.04760550707578659,
+        0.09342824667692184,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.030",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.04263877496123314,
+        0.09239613264799118,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.031",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.042638298124074936,
+        0.09239601343870163,
+        0.19995832443237305
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.032",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.04760550707578659,
+        0.09342824667692184,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.033",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209154009819,
+        0.07447897642850876,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.034",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786188006401,
+        0.07582127302885056,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.035",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0934281274676323,
+        0.04760574549436569,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.036",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09239625185728073,
+        0.04263841733336449,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.037",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09239625185728073,
+        0.04263853654265404,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.038",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0934281274676323,
+        0.04760574549436569,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.039",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786188006401,
+        0.07582127302885056,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.040",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209154009819,
+        0.07447897642850876,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.041",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.04760550707578659,
+        0.09342824667692184,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.042",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.042638298124074936,
+        0.09239589422941208,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.043",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.04263877496123314,
+        0.09239601343870163,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.044",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.04760550707578659,
+        0.09342824667692184,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.045",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0758209154009819,
+        0.07447897642850876,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.046",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0744786188006401,
+        0.07582127302885056,
+        0.19995880126953125
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus leaf edge.047",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09342765063047409,
+        0.04760574549436569,
+        0.19995927810668945
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.10212181508541107,
+        0.019999979063868523,
+        0.20189523696899414
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.001",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09116601198911667,
+        0.06081544607877731,
+        0.20189762115478516
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.002",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.06081532686948776,
+        0.09116636961698532,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.003",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.020000455901026726,
+        0.10212181508541107,
+        0.20189666748046875
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.004",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.06081532686948776,
+        0.09116636961698532,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.005",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09116648882627487,
+        0.06081544607877731,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.006",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.10212229192256927,
+        0.019999979063868523,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.007",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09116648882627487,
+        0.06081544607877731,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.008",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.06081532686948776,
+        0.09116636961698532,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.009",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.020000455901026726,
+        0.10212193429470062,
+        0.20189666748046875
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.010",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.06081532686948776,
+        0.09116636961698532,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.011",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09116601198911667,
+        0.06081544607877731,
+        0.20189762115478516
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.012",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.10212181508541107,
+        0.019999979063868523,
+        0.20189523696899414
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.013",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09116601198911667,
+        0.06081544607877731,
+        0.20189762115478516
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.014",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.06081532686948776,
+        0.09116636961698532,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.015",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.020000455901026726,
+        0.10212181508541107,
+        0.20189666748046875
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.016",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.06081532686948776,
+        0.09116636961698532,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.017",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09116648882627487,
+        0.06081544607877731,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.018",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.10212229192256927,
+        0.019999979063868523,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.019",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09116648882627487,
+        0.06081544607877731,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.020",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.06081532686948776,
+        0.09116636961698532,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.021",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.020000455901026726,
+        0.10212193429470062,
+        0.20189666748046875
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.022",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.06081532686948776,
+        0.09116636961698532,
+        0.20189619064331055
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | acanthus midrib.023",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09116601198911667,
+        0.06081544607877731,
+        0.20189762115478516
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | neck and bell",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.47934144735336304,
+        0.47934240102767944,
+        0.2999999523162842
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | neck and bell.001",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.47934144735336304,
+        0.47934240102767944,
+        0.2999999523162842
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.03376102074980736,
+        0.09057783335447311,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.001",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.033761974424123764,
+        0.09057783335447311,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.002",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09057759493589401,
+        0.03376149758696556,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.003",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09057759493589401,
+        0.03376149758696556,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.004",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.03376149758696556,
+        0.09057771414518356,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.005",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.03376149758696556,
+        0.09057771414518356,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.006",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09057759493589401,
+        0.03376137837767601,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.007",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.09057854861021042,
+        0.03376149758696556,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.008",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.03376102074980736,
+        0.09057783335447311,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.009",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.033761974424123764,
+        0.09057783335447311,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.010",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09057759493589401,
+        0.03376149758696556,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.011",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09057759493589401,
+        0.03376149758696556,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.012",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.03376149758696556,
+        0.09057771414518356,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.013",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.03376149758696556,
+        0.09057771414518356,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.014",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09057759493589401,
+        0.03376137837767601,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Capital | rolled corner volute.015",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.09057854861021042,
+        0.03376149758696556,
+        0.08118915557861328
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.03200006112456322,
+        0.0139999371021986,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.001",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.029564376920461655,
+        0.019823668524622917,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.002",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.026728149503469467,
+        0.026727791875600815,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.003",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.01982688717544079,
+        0.02956807240843773,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.004",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0139999371021986,
+        0.031999703496694565,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.005",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.01982688717544079,
+        0.02956807240843773,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.006",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.026728149503469467,
+        0.026727791875600815,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.007",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.029564376920461655,
+        0.019823668524622917,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.008",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.03200006112456322,
+        0.0139999371021986,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.009",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.029564376920461655,
+        0.019823668524622917,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.010",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.026728149503469467,
+        0.026727911084890366,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.011",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.01982688717544079,
+        0.02956807240843773,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.012",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.0139999371021986,
+        0.031999703496694565,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.013",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.01982688717544079,
+        0.02956807240843773,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.014",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.026728149503469467,
+        0.026727911084890366,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.015",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.029564376920461655,
+        0.019823668524622917,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.016",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.03200006112456322,
+        0.0139999371021986,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.017",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.029564376920461655,
+        0.019823668524622917,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.018",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.026728149503469467,
+        0.026727791875600815,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.019",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.01982688717544079,
+        0.02956807240843773,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.020",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0139999371021986,
+        0.031999703496694565,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.021",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.01982688717544079,
+        0.02956807240843773,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.022",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.026728149503469467,
+        0.026727791875600815,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.023",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.029564376920461655,
+        0.019823668524622917,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.024",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.03200006112456322,
+        0.0139999371021986,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.025",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.029564376920461655,
+        0.019823668524622917,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.026",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.026728149503469467,
+        0.026727911084890366,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.027",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.01982688717544079,
+        0.02956807240843773,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.028",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.0139999371021986,
+        0.031999703496694565,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.029",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.01982688717544079,
+        0.02956807240843773,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.030",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.026728149503469467,
+        0.026727911084890366,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | full-height flute.031",
+      "type": "CURVE",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.029564376920461655,
+        0.019823668524622917,
+        3.0500826835632324
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | moulded foot",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.4599999785423279,
+        0.4599999785423279,
+        0.17000001668930054
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | moulded foot.001",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.4599999785423279,
+        0.4599999785423279,
+        0.17000001668930054
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | tapered shaft",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        -1.5607231855392456,
+        0.0
+      ],
+      "dimensions": [
+        0.30597731471061707,
+        0.30597707629203796,
+        3.1500000953674316
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | Column | tapered shaft.001",
+      "type": "MESH",
+      "location": [
+        -7.999999523162842,
+        1.56072199344635,
+        0.0
+      ],
+      "dimensions": [
+        0.30597731471061707,
+        0.30597707629203796,
+        3.1500000953674316
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.19634965062141418
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | decorative side scroll",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.3250035345554352,
+        0.029999971389770508,
+        0.28103089332580566
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | decorative side scroll.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.32500338554382324,
+        0.029999971389770508,
+        0.28103089332580566
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | decorative side scroll.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.3250035345554352,
+        0.029999971389770508,
+        0.28103089332580566
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | decorative side scroll.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.32500338554382324,
+        0.029999971389770508,
+        0.28103089332580566
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | foundation slab",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        3.4614450931549072,
+        0.46000000834465027
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | intermediate barrel hoop",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03500008583068848,
+        2.8963732719421387,
+        1.4485578536987305
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | intermediate barrel hoop.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.034999847412109375,
+        2.8963732719421387,
+        1.4485578536987305
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | LINEAR PROCEDURAL REPEAT",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | longitudinal entablature",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.20000004768371582,
+        0.11999988555908203
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | longitudinal entablature.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.25999999046325684,
+        0.05500030517578125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | longitudinal entablature.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.23000001907348633,
+        0.03500032424926758
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | longitudinal entablature.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.20000004768371582,
+        0.11999988555908203
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | longitudinal entablature.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.25999999046325684,
+        0.05500030517578125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | longitudinal entablature.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.23000001907348633,
+        0.03500032424926758
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | open transverse arch",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.10999999940395355,
+        2.7963032722473145,
+        1.398770809173584
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | open transverse arch.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04500000178813934,
+        2.905308723449707,
+        1.4529681205749512
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | open transverse arch.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.027000000700354576,
+        2.9783103466033936,
+        1.4893784523010254
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08499999344348907,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500000834465027,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08499997854232788,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0849999189376831,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.006",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.007",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.008",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0849999189376831,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.009",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.010",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.011",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.012",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.013",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08499999344348907,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.014",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500000834465027,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.015",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08499997854232788,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.016",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.017",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.018",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0849999189376831,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.019",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.020",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.021",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0849999189376831,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.022",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.023",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.024",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side dentil.025",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.08500003814697266,
+        0.07500004768371582,
+        0.07500028610229492
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side plinth moulding",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.21000003814697266,
+        0.06499999761581421
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side plinth moulding.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.1799999475479126,
+        0.05500000715255737
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side plinth moulding.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.20000004768371582,
+        0.0350000262260437
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side plinth moulding.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.21000003814697266,
+        0.06499999761581421
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side plinth moulding.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.1799999475479126,
+        0.05500000715255737
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | side plinth moulding.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        3.1214451789855957,
+        0.20000004768371582,
+        0.0350000262260437
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612785339355,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612785339355,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612785339355,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612189292908,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612189292908,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612189292908,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.006",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612785339355,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.007",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612785339355,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.008",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612785339355,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.009",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612785339355,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.010",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612785339355,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Corridor | walking surface paving.011",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7723612785339355,
+        1.0324816703796387,
+        0.15000000596046448
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | cap cross ring",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        2.0731232166290283,
+        2.073336362838745,
+        0.034999847412109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | cap cross ring.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        1.116363525390625,
+        1.1165771484375,
+        0.034999847412109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "CUPOLA | Drop-in cap - seated Z 12.900",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.0,
+        13.649999618530273
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {
+        "Seated Z": "12.9",
+        "Display lift": "0.75",
+        "Placement": "Origin is at the crown seating datum. Set Location Z to 12.900 to seat on the dome; currently raised 0.750 for separation."
+      }
+    },
+    {
+      "name": "Cupola | intermediate upright",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.032000064849853516,
+        0.026000000536441803,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.032000064849853516,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.031999945640563965,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03200000524520874,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03200000151991844,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03200000524520874,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.006",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.031999945640563965,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.007",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.032000064849853516,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.008",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.032000064849853516,
+        0.026000000536441803,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.009",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.032000064849853516,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.010",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.031999945640563965,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.011",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03200000524520874,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.012",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03200000151991844,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.013",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03200000524520874,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.014",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.031999945640563965,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | intermediate upright.015",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.032000064849853516,
+        0.026000022888183594,
+        0.9399995803833008
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881932735443115,
+        0.14881931245326996,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881932735443115,
+        0.14881931245326996,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881926774978638,
+        0.14881932735443115,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881932735443115,
+        0.14881926774978638,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881931245326996,
+        0.14881932735443115,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881931245326996,
+        0.14881932735443115,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.006",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881932735443115,
+        0.14881926774978638,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.007",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881926774978638,
+        0.14881932735443115,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.008",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881932735443115,
+        0.14881931245326996,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.009",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881932735443115,
+        0.14881931245326996,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.010",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881926774978638,
+        0.14881932735443115,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.011",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881932735443115,
+        0.14881926774978638,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.012",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881931245326996,
+        0.14881932735443115,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.013",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881931245326996,
+        0.14881932735443115,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.014",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881932735443115,
+        0.14881926774978638,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | miniature baluster post.015",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14881926774978638,
+        0.14881932735443115,
+        0.9099998474121094
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | moulded circular course",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        2.609673261642456,
+        2.6100001335144043,
+        0.12999916076660156
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | moulded circular course.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        2.659642219543457,
+        2.6600000858306885,
+        0.06999969482421875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | moulded circular course.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        2.5696980953216553,
+        2.570000171661377,
+        0.06999969482421875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | moulded circular course.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        2.599679470062256,
+        2.6000001430511475,
+        0.07999992370605469
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | moulded circular course.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        2.6696360111236572,
+        2.6700000762939453,
+        0.07999992370605469
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        1.208177089691162,
+        0.27706262469291687,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        1.2081772089004517,
+        0.2770625948905945,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        1.0385079383850098,
+        0.7115445733070374,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7115445733070374,
+        1.0385078191757202,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.27706262469291687,
+        1.208177089691162,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.2770625948905945,
+        1.2081772089004517,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.006",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7115445733070374,
+        1.0385079383850098,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.007",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        1.0385078191757202,
+        0.7115445733070374,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.008",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        1.208177089691162,
+        0.27706262469291687,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.009",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        1.2081772089004517,
+        0.2770625948905945,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.010",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        1.0385079383850098,
+        0.7115445733070374,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.011",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7115445733070374,
+        1.0385078191757202,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.012",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.27706262469291687,
+        1.208177089691162,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.013",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.2770625948905945,
+        1.2081772089004517,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.014",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.7115445733070374,
+        1.0385079383850098,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | small dome rib.015",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        1.0385078191757202,
+        0.7115445733070374,
+        0.7453794479370117
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Cupola | turned finial",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.30000001192092896,
+        0.30000001192092896,
+        0.48999977111816406
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | cupola seating ring sector",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.18079960346221924,
+        0.4974128305912018,
+        0.12999916076660156
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | curved latitude purlin",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.19405555725097656,
+        3.057988166809082,
+        0.06499958038330078
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | curved latitude purlin.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.18378782272338867,
+        2.8494880199432373,
+        0.06500053405761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | curved latitude purlin.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.1671910285949707,
+        2.5124762058258057,
+        0.06500053405761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | curved latitude purlin.003",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.14501667022705078,
+        2.06219220161438,
+        0.06500053405761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | curved latitude purlin.004",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.11826658248901367,
+        1.5189929008483887,
+        0.06500053405761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | curved latitude purlin.005",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0881500244140625,
+        0.9074385762214661,
+        0.06500053405761719
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | eave junction rose circular rim",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.06648015975952148,
+        0.22360241413116455,
+        0.22799968719482422
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | eave junction rose petal",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.02701854705810547,
+        0.0644829273223877,
+        0.03275871276855469
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | eave junction rose petal.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.02454996109008789,
+        0.052162885665893555,
+        0.053185462951660156
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | eave junction rose petal.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.02053546905517578,
+        0.032129883766174316,
+        0.06574583053588867
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | eave junction rose petal.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.024549007415771484,
+        0.052162885665893555,
+        0.053185462951660156
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | eave junction rose petal.004",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.027018070220947266,
+        0.0644829273223877,
+        0.03275871276855469
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | eave junction rose petal.005",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.024549484252929688,
+        0.052162885665893555,
+        0.053185462951660156
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | eave junction rose petal.006",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.020534992218017578,
+        0.032129883766174316,
+        0.06574583053588867
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | eave junction rose petal.007",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.024549484252929688,
+        0.052162885665893555,
+        0.053185462951660156
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | fine meridian glazing bar",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        6.80717134475708,
+        0.7132842540740967,
+        6.731993675231934
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | fine meridian glazing bar.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        6.836365699768066,
+        0.04399999976158142,
+        6.731993675231934
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | fine meridian glazing bar.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        6.80717134475708,
+        0.7132842540740967,
+        6.731993675231934
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | principal rib edge bead",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        6.686279773712158,
+        1.3540757894515991,
+        6.713959217071533
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | principal rib edge bead.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        6.686280250549316,
+        1.3540763854980469,
+        6.713959217071533
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | rib foot shoe",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.36256980895996094,
+        0.36257076263427734,
+        0.06999969482421875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | rib foot shoe.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.2802586555480957,
+        0.280259370803833,
+        0.09999990463256836
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | rib foot shoe.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.23322343826293945,
+        0.23322439193725586,
+        0.039999961853027344
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | shared principal rib",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        6.804495334625244,
+        1.4835195541381836,
+        6.798886775970459
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | shoe rivet",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.05000019073486328,
+        0.04999995231628418,
+        0.039999961853027344
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Dome | shoe rivet.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.05000019073486328,
+        0.04999995231628418,
+        0.039999961853027344
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Foundation | PROCEDURAL REPEAT",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Main dome | PROCEDURAL REPEAT",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Tall windows | PROCEDURAL REPEAT",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "TERMINAL SEAM | automatic end column and rib",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.39269909262657166
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | crown rosette circular rim",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0279998779296875,
+        0.25798314809799194,
+        0.2579994201660156
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | crown rosette petal",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.07294631004333496,
+        0.034972190856933594
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | crown rosette petal.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.058486830443143845,
+        0.0584864616394043
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | crown rosette petal.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.034972671419382095,
+        0.07294607162475586
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | crown rosette petal.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.058486826717853546,
+        0.0584864616394043
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | crown rosette petal.004",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.07294631004333496,
+        0.034972190856933594
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | crown rosette petal.005",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.058486830443143845,
+        0.0584864616394043
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | crown rosette petal.006",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.034972671419382095,
+        0.07294607162475586
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | crown rosette petal.007",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.017999649047851562,
+        0.058486826717853546,
+        0.0584864616394043
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | fanlight radial bar",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.02200031280517578,
+        0.72970050573349,
+        0.050814151763916016
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | fanlight radial bar.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.02200031280517578,
+        0.02199999988079071,
+        0.3307223320007324
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | fanlight radial bar.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.02200031280517578,
+        0.72970050573349,
+        0.050814151763916016
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | horizontal glazing bar",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04499959945678711,
+        2.721445083618164,
+        0.029999971389770508
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | horizontal glazing bar.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04499959945678711,
+        2.721445083618164,
+        0.029999971389770508
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | horizontal glazing bar.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04499959945678711,
+        2.721445083618164,
+        0.029999971389770508
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | outer jamb",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09499979019165039,
+        0.07500004768371582,
+        3.7300000190734863
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | outer jamb.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.09499979019165039,
+        0.07500004768371582,
+        3.7300000190734863
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | semicircular arch moulding",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.0950002670288086,
+        2.7963032722473145,
+        1.398770809173584
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | semicircular arch moulding.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.05000019073486328,
+        2.907308578491211,
+        1.453984260559082
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | semicircular arch moulding.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.024999618530273438,
+        2.9783103466033936,
+        1.4893784523010254
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | slender vertical glazing bar",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04499959945678711,
+        0.0350000262260437,
+        4.908420562744141
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | slender vertical glazing bar.001",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04499959945678711,
+        0.03500000014901161,
+        5.090722560882568
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | slender vertical glazing bar.002",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.04499959945678711,
+        0.0350000262260437,
+        4.908420562744141
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | spandrel spiral",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03800010681152344,
+        0.3657182455062866,
+        0.3148064613342285
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | spandrel spiral.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03800010681152344,
+        0.3657182455062866,
+        0.3148064613342285
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | suspended roundel",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03600025177001953,
+        0.6559903621673584,
+        0.6560006141662598
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | suspended roundel.001",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.015999794006347656,
+        0.5459957122802734,
+        0.5460000038146973
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | suspended roundel.002",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.03600025177001953,
+        0.29599034786224365,
+        0.29600000381469727
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    },
+    {
+      "name": "Window | suspended roundel.003",
+      "type": "CURVE",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions": [
+        0.015999794006347656,
+        0.18599572777748108,
+        0.18599987030029297
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "properties": {}
+    }
+  ]
+}

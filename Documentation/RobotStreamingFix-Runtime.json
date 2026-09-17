@@ -1,0 +1,274 @@
+{
+  "robots_found_at_start": 11,
+  "robot_positions_at_start": {
+    "9": [
+      32222.453250462742,
+      -29024.105982048382,
+      951.3359069440194
+    ],
+    "4": [
+      23726.028901297985,
+      -5982.701120744949,
+      2507.8203356648355
+    ],
+    "6": [
+      -31868.10766953389,
+      26686.410877193168,
+      7316.883114914226
+    ],
+    "3": [
+      14541.671912754602,
+      -1383.8758635796721,
+      4457.436705653644
+    ],
+    "10": [
+      5034.97534884436,
+      -31940.682941074858,
+      1477.3584678515988
+    ],
+    "8": [
+      32069.361958264162,
+      32486.655740465147,
+      3865.8550853073566
+    ],
+    "11": [
+      -15799.39296235928,
+      -1114.1233669424937,
+      6345.89999754062
+    ],
+    "5": [
+      -32346.21936424889,
+      -21417.1306676455,
+      3070.831618757937
+    ],
+    "2": [
+      -4987.933423064139,
+      -4243.508538612575,
+      4199.9274806905
+    ],
+    "1": [
+      -14379.792831836616,
+      4979.617760561521,
+      6273.119052891576
+    ],
+    "7": [
+      -72.22194708053622,
+      29277.075665137934,
+      8178.617943241567
+    ]
+  },
+  "suits_found": 11,
+  "hub_found": true,
+  "select_robot_results": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": true,
+    "6": true,
+    "7": true,
+    "8": true,
+    "9": true,
+    "10": true,
+    "11": true
+  },
+  "all_selects_ok": true,
+  "suit_before_long_hold": [
+    -13355.0,
+    -2090.0,
+    4090.0
+  ],
+  "long_hold": {
+    "id": 8,
+    "can_use": true,
+    "wear": true,
+    "correct": true,
+    "start_z": 4090.3879307964935,
+    "min_z": 4090.3879307964935,
+    "held_ok": true,
+    "end_z": 4090.3879307964935,
+    "returned": true,
+    "pawn_is_human_after": true,
+    "return_pos_error": 0.0
+  },
+  "error": null,
+  "suits": [
+    {
+      "id": 1,
+      "can_use": true,
+      "camera_eye": [
+        -14090.0,
+        -2090.0,
+        4156.0
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 191.36897028045104,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 2,
+      "can_use": true,
+      "camera_eye": [
+        -13985.0,
+        -2090.0,
+        4156.0
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 196.10636630497802,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 3,
+      "can_use": true,
+      "camera_eye": [
+        -13880.0,
+        -2090.0,
+        4156.0
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 214.1089168934087,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 4,
+      "can_use": true,
+      "camera_eye": [
+        -13775.0,
+        -2090.0,
+        4156.150000406566
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 191.4743692794214,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 5,
+      "can_use": true,
+      "camera_eye": [
+        -13670.0,
+        -2090.0,
+        4156.150000426107
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 192.45719717925314,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 6,
+      "can_use": true,
+      "camera_eye": [
+        -13565.0,
+        -2090.0,
+        4156.0
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 192.19671471654297,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 7,
+      "can_use": true,
+      "camera_eye": [
+        -13460.0,
+        -2090.0,
+        4156.0
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 192.96777873984507,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 8,
+      "can_use": true,
+      "camera_eye": [
+        -13355.0,
+        -2090.0,
+        4156.150000188994
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 192.79490385534248,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 9,
+      "can_use": true,
+      "camera_eye": [
+        -13250.0,
+        -2090.0,
+        4156.149998761591
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 191.14126211002167,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 10,
+      "can_use": true,
+      "camera_eye": [
+        -13145.0,
+        -2090.0,
+        4156.149998884474
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 191.45322381546575,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 11,
+      "can_use": true,
+      "camera_eye": [
+        -14090.0,
+        -1900.0,
+        4156.15000017756
+      ],
+      "blocked_by": null,
+      "robots_within_600cm": [],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 192.54630226493308,
+      "returned": true,
+      "return_error": 0.0
+    }
+  ],
+  "passed": true
+}

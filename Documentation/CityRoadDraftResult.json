@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-09-13T14:51:07.271718",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\CityRoadDraft\\20260913-145104",
+  "original_material": "/Game/Conservatory/Environment/Materials/M_Ground.M_Ground",
+  "draft_material": "/Game/Conservatory/Environment/CityRoadDraft/M_CityRoadDraft_v1.M_CityRoadDraft_v1",
+  "road_count": 38,
+  "actor_count": 2186,
+  "actor_transforms_preserved": true,
+  "landscape_height_unchanged": true,
+  "buildings_preserved": true,
+  "source": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\SourceAssets\\CityRoadDraft\\RoadLayout.json",
+  "status": "Terrain surface colour road draft; no grading or final road engineering"
+}

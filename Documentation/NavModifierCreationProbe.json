@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-09-17T11:44:51.912784",
+  "create_method_probe": {
+    "NavModifierComponent.new_object": "None",
+    "NavModifierComponent_call": "<method-wrapper '__call__' of type object at 0x00000176F0D76948>",
+    "NavModifierComponent_cast": "<built-in method cast of type object at 0x00000176F0D76948>",
+    "NavModifierComponent_static_class": "<built-in method static_class of type object at 0x00000176F0D76948>",
+    "NavModifierVolume_new_object": "None",
+    "NavModifierVolume_static_class": "<built-in method static_class of type object at 0x0000017768CDCEC8>"
+  }
+}

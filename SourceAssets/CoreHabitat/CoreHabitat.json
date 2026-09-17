@@ -1,0 +1,1242 @@
+{
+  "source": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Reference images\\Conservatory-MAIN-PARTS1.blend",
+  "meshes": {
+    "SM_Core_Small_Bay": {
+      "kind": "frame",
+      "vertices": 146080,
+      "polygons": 144952
+    },
+    "SM_Core_Small_Portal": {
+      "kind": "frame",
+      "vertices": 130992,
+      "polygons": 129994
+    },
+    "SM_Core_Small_Cap": {
+      "kind": "frame",
+      "vertices": 25808,
+      "polygons": 25802
+    },
+    "SM_Core_Small_Floor": {
+      "kind": "floor",
+      "vertices": 256,
+      "polygons": 130
+    },
+    "SM_Core_Large_Bay": {
+      "kind": "frame",
+      "vertices": 146080,
+      "polygons": 144952
+    },
+    "SM_Core_Large_Portal": {
+      "kind": "frame",
+      "vertices": 130992,
+      "polygons": 129994
+    },
+    "SM_Core_Large_Cap": {
+      "kind": "frame",
+      "vertices": 25808,
+      "polygons": 25802
+    },
+    "SM_Core_Large_Floor": {
+      "kind": "floor",
+      "vertices": 256,
+      "polygons": 130
+    },
+    "SM_Core_WalkwayFrame": {
+      "kind": "frame",
+      "vertices": 1485216,
+      "polygons": 1471622
+    },
+    "SM_Core_WalkwayFloor": {
+      "kind": "floor",
+      "vertices": 1344,
+      "polygons": 1372
+    },
+    "SM_Core_Small_Glass": {
+      "kind": "glass",
+      "vertices": 12508,
+      "polygons": 3127
+    },
+    "SM_Core_Large_Glass": {
+      "kind": "glass",
+      "vertices": 13008,
+      "polygons": 3252
+    },
+    "SM_Core_WalkwayGlass": {
+      "kind": "glass",
+      "vertices": 200,
+      "polygons": 50
+    },
+    "SM_Core_Terrain": {
+      "kind": "terrain",
+      "vertices": 29241,
+      "polygons": 57800
+    }
+  },
+  "actors": [
+    {
+      "label": "Centre bay 1",
+      "mesh": "SM_Core_Large_Portal",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0.0
+    },
+    {
+      "label": "Centre bay 2",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 15.0
+    },
+    {
+      "label": "Centre bay 3",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 30.0
+    },
+    {
+      "label": "Centre bay 4",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 45.0
+    },
+    {
+      "label": "Centre bay 5",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 60.0
+    },
+    {
+      "label": "Centre bay 6",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 75.0
+    },
+    {
+      "label": "Centre bay 7",
+      "mesh": "SM_Core_Large_Portal",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 90.0
+    },
+    {
+      "label": "Centre bay 8",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 105.0
+    },
+    {
+      "label": "Centre bay 9",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 120.0
+    },
+    {
+      "label": "Centre bay 10",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 135.0
+    },
+    {
+      "label": "Centre bay 11",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 150.0
+    },
+    {
+      "label": "Centre bay 12",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 165.0
+    },
+    {
+      "label": "Centre bay 13",
+      "mesh": "SM_Core_Large_Portal",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 180.0
+    },
+    {
+      "label": "Centre bay 14",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 195.0
+    },
+    {
+      "label": "Centre bay 15",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 210.0
+    },
+    {
+      "label": "Centre bay 16",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 225.0
+    },
+    {
+      "label": "Centre bay 17",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 240.0
+    },
+    {
+      "label": "Centre bay 18",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 255.0
+    },
+    {
+      "label": "Centre bay 19",
+      "mesh": "SM_Core_Large_Portal",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 270.0
+    },
+    {
+      "label": "Centre bay 20",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 285.0
+    },
+    {
+      "label": "Centre bay 21",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 300.0
+    },
+    {
+      "label": "Centre bay 22",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 315.0
+    },
+    {
+      "label": "Centre bay 23",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 330.0
+    },
+    {
+      "label": "Centre bay 24",
+      "mesh": "SM_Core_Large_Bay",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 345.0
+    },
+    {
+      "label": "Centre Cap",
+      "mesh": "SM_Core_Large_Cap",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Centre Floor",
+      "mesh": "SM_Core_Large_Floor",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "Centre Glass",
+      "mesh": "SM_Core_Large_Glass",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "East bay 1",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 0.0
+    },
+    {
+      "label": "East bay 2",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 22.5
+    },
+    {
+      "label": "East bay 3",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 45.0
+    },
+    {
+      "label": "East bay 4",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 67.5
+    },
+    {
+      "label": "East bay 5",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 90.0
+    },
+    {
+      "label": "East bay 6",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 112.5
+    },
+    {
+      "label": "East bay 7",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 135.0
+    },
+    {
+      "label": "East bay 8",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 157.5
+    },
+    {
+      "label": "East bay 9",
+      "mesh": "SM_Core_Small_Portal",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 180.0
+    },
+    {
+      "label": "East bay 10",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 202.5
+    },
+    {
+      "label": "East bay 11",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 225.0
+    },
+    {
+      "label": "East bay 12",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 247.5
+    },
+    {
+      "label": "East bay 13",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 270.0
+    },
+    {
+      "label": "East bay 14",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 292.5
+    },
+    {
+      "label": "East bay 15",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 315.0
+    },
+    {
+      "label": "East bay 16",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 337.5
+    },
+    {
+      "label": "East Cap",
+      "mesh": "SM_Core_Small_Cap",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "East Floor",
+      "mesh": "SM_Core_Small_Floor",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "East Glass",
+      "mesh": "SM_Core_Small_Glass",
+      "position": [
+        46.63755,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "North bay 1",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 0.0
+    },
+    {
+      "label": "North bay 2",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 22.5
+    },
+    {
+      "label": "North bay 3",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 45.0
+    },
+    {
+      "label": "North bay 4",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 67.5
+    },
+    {
+      "label": "North bay 5",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 90.0
+    },
+    {
+      "label": "North bay 6",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 112.5
+    },
+    {
+      "label": "North bay 7",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 135.0
+    },
+    {
+      "label": "North bay 8",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 157.5
+    },
+    {
+      "label": "North bay 9",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 180.0
+    },
+    {
+      "label": "North bay 10",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 202.5
+    },
+    {
+      "label": "North bay 11",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 225.0
+    },
+    {
+      "label": "North bay 12",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 247.5
+    },
+    {
+      "label": "North bay 13",
+      "mesh": "SM_Core_Small_Portal",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 270.0
+    },
+    {
+      "label": "North bay 14",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 292.5
+    },
+    {
+      "label": "North bay 15",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 315.0
+    },
+    {
+      "label": "North bay 16",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 337.5
+    },
+    {
+      "label": "North Cap",
+      "mesh": "SM_Core_Small_Cap",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "North Floor",
+      "mesh": "SM_Core_Small_Floor",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "North Glass",
+      "mesh": "SM_Core_Small_Glass",
+      "position": [
+        0,
+        46.63755,
+        0
+      ],
+      "yaw": 90
+    },
+    {
+      "label": "West bay 1",
+      "mesh": "SM_Core_Small_Portal",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 0.0
+    },
+    {
+      "label": "West bay 2",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 22.5
+    },
+    {
+      "label": "West bay 3",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 45.0
+    },
+    {
+      "label": "West bay 4",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 67.5
+    },
+    {
+      "label": "West bay 5",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 90.0
+    },
+    {
+      "label": "West bay 6",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 112.5
+    },
+    {
+      "label": "West bay 7",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 135.0
+    },
+    {
+      "label": "West bay 8",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 157.5
+    },
+    {
+      "label": "West bay 9",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 180.0
+    },
+    {
+      "label": "West bay 10",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 202.5
+    },
+    {
+      "label": "West bay 11",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 225.0
+    },
+    {
+      "label": "West bay 12",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 247.5
+    },
+    {
+      "label": "West bay 13",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 270.0
+    },
+    {
+      "label": "West bay 14",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 292.5
+    },
+    {
+      "label": "West bay 15",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 315.0
+    },
+    {
+      "label": "West bay 16",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 337.5
+    },
+    {
+      "label": "West Cap",
+      "mesh": "SM_Core_Small_Cap",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "West Floor",
+      "mesh": "SM_Core_Small_Floor",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "West Glass",
+      "mesh": "SM_Core_Small_Glass",
+      "position": [
+        -46.63755,
+        0,
+        0
+      ],
+      "yaw": 180
+    },
+    {
+      "label": "South bay 1",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 0.0
+    },
+    {
+      "label": "South bay 2",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 22.5
+    },
+    {
+      "label": "South bay 3",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 45.0
+    },
+    {
+      "label": "South bay 4",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 67.5
+    },
+    {
+      "label": "South bay 5",
+      "mesh": "SM_Core_Small_Portal",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 90.0
+    },
+    {
+      "label": "South bay 6",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 112.5
+    },
+    {
+      "label": "South bay 7",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 135.0
+    },
+    {
+      "label": "South bay 8",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 157.5
+    },
+    {
+      "label": "South bay 9",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 180.0
+    },
+    {
+      "label": "South bay 10",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 202.5
+    },
+    {
+      "label": "South bay 11",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 225.0
+    },
+    {
+      "label": "South bay 12",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 247.5
+    },
+    {
+      "label": "South bay 13",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 270.0
+    },
+    {
+      "label": "South bay 14",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 292.5
+    },
+    {
+      "label": "South bay 15",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 315.0
+    },
+    {
+      "label": "South bay 16",
+      "mesh": "SM_Core_Small_Bay",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 337.5
+    },
+    {
+      "label": "South Cap",
+      "mesh": "SM_Core_Small_Cap",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "South Floor",
+      "mesh": "SM_Core_Small_Floor",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "South Glass",
+      "mesh": "SM_Core_Small_Glass",
+      "position": [
+        0,
+        -46.63755,
+        0
+      ],
+      "yaw": 270
+    },
+    {
+      "label": "East walkway Frame",
+      "mesh": "SM_Core_WalkwayFrame",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "East walkway Floor",
+      "mesh": "SM_Core_WalkwayFloor",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "East walkway Glass",
+      "mesh": "SM_Core_WalkwayGlass",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 0
+    },
+    {
+      "label": "North walkway Frame",
+      "mesh": "SM_Core_WalkwayFrame",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 90
+    },
+    {
+      "label": "North walkway Floor",
+      "mesh": "SM_Core_WalkwayFloor",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 90
+    },
+    {
+      "label": "North walkway Glass",
+      "mesh": "SM_Core_WalkwayGlass",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 90
+    },
+    {
+      "label": "West walkway Frame",
+      "mesh": "SM_Core_WalkwayFrame",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 180
+    },
+    {
+      "label": "West walkway Floor",
+      "mesh": "SM_Core_WalkwayFloor",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 180
+    },
+    {
+      "label": "West walkway Glass",
+      "mesh": "SM_Core_WalkwayGlass",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 180
+    },
+    {
+      "label": "South walkway Frame",
+      "mesh": "SM_Core_WalkwayFrame",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 270
+    },
+    {
+      "label": "South walkway Floor",
+      "mesh": "SM_Core_WalkwayFloor",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 270
+    },
+    {
+      "label": "South walkway Glass",
+      "mesh": "SM_Core_WalkwayGlass",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "yaw": 270
+    },
+    {
+      "label": "Fitted habitat terrain",
+      "mesh": "SM_Core_Terrain",
+      "position": [
+        0,
+        0,
+        -62.3095
+      ],
+      "yaw": 0
+    }
+  ],
+  "origin_cm": [
+    -11000,
+    0,
+    6230.95
+  ]
+}

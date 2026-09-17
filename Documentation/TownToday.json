@@ -1,0 +1,112 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_C17_Ready",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\TownToday\\20260909-092641\\L_Exterior_C17_Ready.umap",
+  "actors_added": 40,
+  "cleaned_cottages": 18,
+  "town_vegetation_instances_removed": 0,
+  "cars": 6,
+  "fuel_pumps": 2,
+  "replaced_cottage": "Cottage_07",
+  "protected_transforms_preserved": true,
+  "rockface_actors_preserved": 46,
+  "previous_fog": [
+    {
+      "actor": "Valley fog \u2014 low-lying blanket",
+      "density": 0.017999999225139618
+    }
+  ],
+  "shop_z_m": 9.12010516649925,
+  "source": "SourceAssets/TownToday/Town-Today.blend",
+  "original_cottages": [
+    {
+      "actor": "Cottage_01",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_1.SM_CleanCottage_1",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_02",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_2.SM_CleanCottage_2",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_03",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_3.SM_CleanCottage_3",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_04",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_4.SM_CleanCottage_4",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_05",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_1.SM_CleanCottage_1",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_06",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_2.SM_CleanCottage_2",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_07",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_3.SM_CleanCottage_3",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_08",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_4.SM_CleanCottage_4",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_09",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_1.SM_CleanCottage_1",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_10",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_2.SM_CleanCottage_2",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_11",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_3.SM_CleanCottage_3",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_12",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_4.SM_CleanCottage_4",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_13",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_1.SM_CleanCottage_1",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_14",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_2.SM_CleanCottage_2",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_15",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_3.SM_CleanCottage_3",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_16",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_4.SM_CleanCottage_4",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_17",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_1.SM_CleanCottage_1",
+      "hidden": false
+    },
+    {
+      "actor": "Cottage_18",
+      "mesh": "/Game/Conservatory/Environment/TownToday/SM_CleanCottage_2.SM_CleanCottage_2",
+      "hidden": false
+    }
+  ]
+}

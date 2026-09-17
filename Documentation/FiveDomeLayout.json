@@ -1,0 +1,22 @@
+{
+  "scene": "ASSEMBLY | Five domes - editable",
+  "source_scene_preserved": "CONSERVATORY | Single procedural bay",
+  "centre_factor": 1.5,
+  "centre_bays": 24,
+  "outer_domes": 4,
+  "outer_bays_each": 16,
+  "walkway_sections_each": 2,
+  "section_length_m": 9.1094,
+  "outer_centre_distance_m": 46.63755,
+  "objects": 387,
+  "meshes": 378,
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\FiveDomeLayout\\Before-layout-20260910-160126.blend",
+  "status": "Editable Blender layout saved after viewport review, clear centreline route checks, and floor connection probes. Not imported to Unreal.",
+  "corridor_pillars_per_side": 7,
+  "modifiers_remaining": 0,
+  "independent_meshes": 378,
+  "eye_height_routes_clear": true,
+  "floor_join_probe_count": 120,
+  "floor_join_misses": [],
+  "midpoint_revision": "User requested central pillars; added one pair and roof arch at each section join. See WalkwayMidpointPillars.json."
+}

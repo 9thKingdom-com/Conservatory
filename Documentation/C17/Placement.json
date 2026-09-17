@@ -1,0 +1,47 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_C17_Ready",
+  "robots": [
+    {
+      "label": "C-17 East patrol",
+      "position_cm": [
+        -9280,
+        -2100,
+        6320
+      ],
+      "patrol_offset_cm": [
+        0,
+        1100,
+        0
+      ]
+    },
+    {
+      "label": "C-18 West patrol",
+      "position_cm": [
+        -11930,
+        700,
+        6320
+      ],
+      "patrol_offset_cm": [
+        0,
+        700,
+        0
+      ]
+    }
+  ],
+  "workstation_cm": [
+    -13210,
+    1150,
+    4000
+  ],
+  "removed_surplus_fixtures": [
+    "Washroom privacy partition",
+    "Sanitary basin",
+    "Tap",
+    "Sanitation fixture",
+    "Washroom privacy partition",
+    "Sanitary basin",
+    "Tap",
+    "Sanitation fixture"
+  ],
+  "terminal_scope": "Single physical workstation reserved for future remote control; no resource collection gameplay yet"
+}

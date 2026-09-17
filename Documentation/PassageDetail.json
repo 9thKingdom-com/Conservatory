@@ -1,0 +1,15 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_C17_Ready",
+  "old_mesh": "/Game/Conservatory/Architecture/PassageDetail/SM_Passage_Detailed.SM_Passage_Detailed",
+  "new_mesh": "/Game/Conservatory/Architecture/PassageDetail/SM_Passage_Detailed.SM_Passage_Detailed",
+  "all_actor_transforms_preserved": true,
+  "socket_errors_cm": [
+    1.4210854715202004e-13,
+    1.4210854715202004e-13
+  ],
+  "reference_sha256": "a9fd366ab1804a17cae1b5ad7a4ba351dd3bd0e055fbe5cf407d44ebdaa36724",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\PassageDetail\\20260909-141103\\L_Exterior_C17_Ready.umap",
+  "body_triangles": 35092,
+  "standalone_joint_triangles": 102832,
+  "construction_gameplay_implemented": false
+}

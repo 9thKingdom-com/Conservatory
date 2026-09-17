@@ -1,0 +1,522 @@
+{
+  "timestamp": "2026-09-16T15:36:27.853918",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "actor_count_before": 1867,
+  "zones": [
+    {
+      "key": "West dome",
+      "min": [
+        -19217.744872523264,
+        -6314.0438719569265,
+        6231.317832183838
+      ],
+      "max": [
+        -15967.908300568484,
+        -3064.2073000021446,
+        8478.518115234376
+      ],
+      "actor_count": 19,
+      "center": [
+        -17592.826586545874,
+        -4689.125585979536,
+        7354.917973709107
+      ],
+      "extent": [
+        1624.91828597739,
+        1624.918285977391,
+        1123.600141525269
+      ]
+    },
+    {
+      "key": "North walkway",
+      "min": [
+        -17000.771038243136,
+        -366.94940383806124,
+        6231.222536277772
+      ],
+      "max": [
+        -15331.720412753497,
+        1294.1008017522304,
+        7052.0439331054695
+      ],
+      "actor_count": 3,
+      "center": [
+        -16166.245725498316,
+        463.57569895708457,
+        6641.633234691621
+      ],
+      "extent": [
+        834.5253127448195,
+        830.5251027951458,
+        410.4106984138489
+      ]
+    },
+    {
+      "key": "East walkway",
+      "min": [
+        -13297.131486379873,
+        -1627.687464455393,
+        6231.222536277771
+      ],
+      "max": [
+        -8949.685135671005,
+        1314.311277383996,
+        7052.0439331054695
+      ],
+      "actor_count": 7,
+      "center": [
+        -11123.40831102544,
+        -156.6880935356985,
+        6641.633234691621
+      ],
+      "extent": [
+        2173.723175354434,
+        1470.9993709196945,
+        410.41069841384933
+      ]
+    },
+    {
+      "key": "Centre dome",
+      "min": [
+        -16745.698350666567,
+        -3815.516268124768,
+        6231.317832183839
+      ],
+      "max": [
+        -11870.943492734394,
+        1059.2385898074058,
+        9177.302294921876
+      ],
+      "actor_count": 27,
+      "center": [
+        -14308.32092170048,
+        -1378.138839158681,
+        7704.310063552857
+      ],
+      "extent": [
+        2437.377428966087,
+        2437.377428966087,
+        1472.9922313690186
+      ]
+    },
+    {
+      "key": "West walkway",
+      "min": [
+        -16980.56056261126,
+        -4070.588955701472,
+        6231.222536277772
+      ],
+      "max": [
+        -15319.510357021023,
+        -2401.538330211774,
+        7052.0439331054695
+      ],
+      "actor_count": 3,
+      "center": [
+        -16150.035459816141,
+        -3236.063642956623,
+        6641.633234691621
+      ],
+      "extent": [
+        830.5251027951181,
+        834.5253127448491,
+        410.4106984138489
+      ]
+    },
+    {
+      "key": "South walkway",
+      "min": [
+        -13284.92143064739,
+        -4050.3784800694602,
+        6231.222536277772
+      ],
+      "max": [
+        -11615.870805157692,
+        -2389.328274479225,
+        7052.0439331054695
+      ],
+      "actor_count": 3,
+      "center": [
+        -12450.396117902541,
+        -3219.8533772743426,
+        6641.633234691621
+      ],
+      "extent": [
+        834.5253127448486,
+        830.5251027951176,
+        410.4106984138489
+      ]
+    },
+    {
+      "key": "South dome",
+      "min": [
+        -12622.252460857011,
+        -6287.562789981456,
+        6231.317832183838
+      ],
+      "max": [
+        -9372.415888902231,
+        -3037.7262180266744,
+        8478.518115234376
+      ],
+      "actor_count": 19,
+      "center": [
+        -10997.334174879621,
+        -4662.644504004065,
+        7354.917973709107
+      ],
+      "extent": [
+        1624.91828597739,
+        1624.918285977391,
+        1123.600141525269
+      ]
+    },
+    {
+      "key": "North dome",
+      "min": [
+        -19244.225954498714,
+        281.4485397093149,
+        6231.317832183838
+      ],
+      "max": [
+        -15994.389382543934,
+        3531.2851116640977,
+        8478.518115234376
+      ],
+      "actor_count": 19,
+      "center": [
+        -17619.307668521324,
+        1906.3668256867063,
+        7354.917973709107
+      ],
+      "extent": [
+        1624.91828597739,
+        1624.9182859773914,
+        1123.600141525269
+      ]
+    },
+    {
+      "key": "East dome",
+      "min": [
+        -12648.733542832475,
+        307.9296216847906,
+        6231.317832183838
+      ],
+      "max": [
+        -9398.896970877691,
+        3557.7661936395725,
+        8478.518115234376
+      ],
+      "actor_count": 19,
+      "center": [
+        -11023.815256855083,
+        1932.8479076621816,
+        7354.917973709107
+      ],
+      "extent": [
+        1624.9182859773919,
+        1624.918285977391,
+        1123.600141525269
+      ]
+    }
+  ],
+  "robots": [
+    {
+      "id": 1,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        -14000.0,
+        5000.0,
+        6274.969052796208
+      ]
+    },
+    {
+      "id": 2,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        -5000.0,
+        -5000.0,
+        4159.395864805061
+      ]
+    },
+    {
+      "id": 3,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        14000.0,
+        -1450.0,
+        4771.879052224016
+      ]
+    },
+    {
+      "id": 4,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        24000.0,
+        -6280.0,
+        2599.3512296864064
+      ]
+    },
+    {
+      "id": 5,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        -32500.0,
+        -22000.0,
+        3027.1401711246144
+      ]
+    },
+    {
+      "id": 6,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        -32500.0,
+        27000.0,
+        7664.687710879356
+      ]
+    },
+    {
+      "id": 7,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        0.0,
+        30000.0,
+        8387.38412680247
+      ]
+    },
+    {
+      "id": 8,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        32500.0,
+        32500.0,
+        3828.8250398547098
+      ]
+    },
+    {
+      "id": 9,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        32500.0,
+        -29280.0,
+        954.0162348363228
+      ]
+    },
+    {
+      "id": 10,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "location": [
+        5000.0,
+        -32500.0,
+        1512.3999275732785
+      ]
+    },
+    {
+      "id": 11,
+      "keep_out": false,
+      "clearance": 0.0,
+      "mins": 0,
+      "maxs": 0,
+      "terrain_wander": false,
+      "wander_enabled": false,
+      "patrol_enabled": false,
+      "location": [
+        -15799.39296235928,
+        -1114.1233669424937,
+        6346.35
+      ],
+      "position_preserved": [
+        -15799.39296235928,
+        -1114.1233669424937,
+        6346.35
+      ]
+    }
+  ],
+  "transforms_preserved": true,
+  "actor_count_after_reload": 1867,
+  "after_reload": [
+    {
+      "id": 1,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 2,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 3,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 4,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 5,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 6,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 7,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 8,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 9,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 10,
+      "keep_out": true,
+      "clearance": 200.0,
+      "mins": 9,
+      "maxs": 9,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "inside_keep_out": false
+    },
+    {
+      "id": 11,
+      "keep_out": false,
+      "clearance": 0.0,
+      "mins": 0,
+      "maxs": 0,
+      "terrain_wander": false,
+      "wander_enabled": false,
+      "patrol_enabled": false,
+      "inside_keep_out": false
+    }
+  ],
+  "saved_and_reloaded": true
+}

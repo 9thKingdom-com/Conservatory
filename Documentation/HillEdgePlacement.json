@@ -1,0 +1,18 @@
+{
+  "centre_cm": [
+    -10600,
+    0,
+    6200
+  ],
+  "module_scale": 1.5,
+  "approx_footprint_m": [
+    21.6,
+    66
+  ],
+  "terrace_m": [
+    30,
+    74
+  ],
+  "floor_surface_cm": 6242.75,
+  "village_terrain_sightline_min_clearance_m": 7.121516966003289
+}

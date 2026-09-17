@@ -1,0 +1,6 @@
+import unreal as u,json
+from pathlib import Path
+mesh=u.load_asset('/Game/Conservatory/Robots/C17/SK_C17');d=mesh.get_editor_property('asset_import_data');r={'scale':d.get_editor_property('import_uniform_scale'),'force_x':d.get_editor_property('force_front_x_axis')}
+t=u.AssetImportTask();t.filename=str(Path(u.Paths.project_dir())/'SourceAssets/C17/SK_C17.fbx');t.destination_path='/Game/Conservatory/Robots/C17';t.destination_name='SK_C17_ScaleCheck';t.automated=True;t.save=True
+opts=u.FbxImportUI();opts.import_mesh=True;opts.import_as_skeletal=True;opts.mesh_type_to_import=u.FBXImportType.FBXIT_SKELETAL_MESH;opts.automated_import_should_detect_type=False;opts.import_materials=False;opts.import_textures=False;opts.skeletal_mesh_import_data.import_uniform_scale=100;opts.skeletal_mesh_import_data.force_front_x_axis=True;t.options=opts
+u.AssetToolsHelpers.get_asset_tools().import_asset_tasks([t]);m=u.load_asset('/Game/Conservatory/Robots/C17/SK_C17_ScaleCheck');r['test_extent']=list(m.get_bounds().box_extent.to_tuple());r['test_scale']=m.get_editor_property('asset_import_data').get_editor_property('import_uniform_scale');Path(u.Paths.project_dir(),'Saved/C17ScaleCheck.json').write_text(json.dumps(r,indent=2))

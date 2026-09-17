@@ -1,0 +1,2974 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-16T11:19:34.026939",
+  "registry_api": "get_all_assets",
+  "total_assets": 12472,
+  "external_actor_classes": {
+    "None": 1883
+  },
+  "registry_meshpartition_megamesh_assets": [
+    {
+      "package": "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/1/CK/SKTF0P7L97T1N14C8OQS4D",
+      "object": "MeshPartition_UAID_60CF84A9A659E20103_1522962665",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/Materials/M_MeshPartition_Default",
+      "object": "M_MeshPartition_Default",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/DataAssets/MPD_Default",
+      "object": "MPD_Default",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/Textures/Void2DArray",
+      "object": "Void2DArray",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/Materials/MF_MeshPartition_WorldAlignedTexture",
+      "object": "MF_MeshPartition_WorldAlignedTexture",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/DataAssets/TP_DefaultPreviewSection",
+      "object": "TP_DefaultPreviewSection",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/DataAssets/TP_DefaultLowEndPlatformRenderData",
+      "object": "TP_DefaultLowEndPlatformRenderData",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/DataAssets/TP_DefaultHighEndPlatformRenderData",
+      "object": "TP_DefaultHighEndPlatformRenderData",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/DataAssets/TP_DefaultCommonGameplayData",
+      "object": "TP_DefaultCommonGameplayData",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/Icons/S_ModifierIcon",
+      "object": "S_ModifierIcon",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/Materials/MF_PaintGrid",
+      "object": "MF_PaintGrid",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/Materials/M_MegaMeshPalette",
+      "object": "M_MegaMeshPalette",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/Materials/M_MeshPartitionInspector",
+      "object": "M_MeshPartitionInspector",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/Textures/Void",
+      "object": "Void",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/MeshPartitionUnitTests",
+      "object": "MeshPartitionUnitTests",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/PreviewSectionTransforms_Test",
+      "object": "PreviewSectionTransforms_Test",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/L_MeshTerrain_Basic",
+      "object": "L_MeshTerrain_Basic",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/L_MeshTerrain_Default",
+      "object": "L_MeshTerrain_Default",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/Materials/Blends/MLB_MT_Blend",
+      "object": "MLB_MT_Blend",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Boolean_Modifier_Affected",
+      "object": "Boolean_Modifier_Affected",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Boolean_Modifier_Affected_B",
+      "object": "Boolean_Modifier_Affected_B",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Boolean_Modifier_Unaffected",
+      "object": "Boolean_Modifier_Unaffected",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Different_Priority_Layer_Unaffected",
+      "object": "Different_Priority_Layer_Unaffected",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Affected_X",
+      "object": "ExpandBounds_Affected_X",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Affected_Y",
+      "object": "ExpandBounds_Affected_Y",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Affected_Z",
+      "object": "ExpandBounds_Affected_Z",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Unaffected_X",
+      "object": "ExpandBounds_Unaffected_X",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Unaffected_Y",
+      "object": "ExpandBounds_Unaffected_Y",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Unaffected_Z",
+      "object": "ExpandBounds_Unaffected_Z",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Assignment_To_MeshTerrain_GroundTruth",
+      "object": "Verify_Boolean_Modifier_Assignment_To_MeshTerrain_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Rotation_Applies_Operation_To_Terrain_GroundTruth",
+      "object": "Verify_Boolean_Modifier_Rotation_Applies_Operation_To_Terrain_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Scaling_Applies_Operation_To_Terrain_GroundTruth",
+      "object": "Verify_Boolean_Modifier_Scaling_Applies_Operation_To_Terrain_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Translation_Applies_Operation_To_Terrain_GroundTruth",
+      "object": "Verify_Boolean_Modifier_Translation_Applies_Operation_To_Terrain_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/DataAssets/MeshPartitionPriorityLayerDefinition",
+      "object": "MeshPartitionPriorityLayerDefinition",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/DataAssets/MPD_AutomationTestDefault",
+      "object": "MPD_AutomationTestDefault",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/DataAssets/TexturePatchModifierDefinition",
+      "object": "TexturePatchModifierDefinition",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/HeightmapImport/x0y0",
+      "object": "x0y0",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/HeightmapImport/x0y1",
+      "object": "x0y1",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/HeightmapImport/x1y0",
+      "object": "x1y0",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/HeightmapImport/x1y1",
+      "object": "x1y1",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/PatchModifierTests/Verify_PatchModifier_Priority_System_Applies_Higher_Priority_First_GroundTruth",
+      "object": "Verify_PatchModifier_Priority_System_Applies_Higher_Priority_First_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Can_Be_Added_GroundTruth",
+      "object": "Verify_RemeshModifier_Can_Be_Added_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Can_Be_Disabled_GroundTruth",
+      "object": "Verify_RemeshModifier_Can_Be_Disabled_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_EdgeLength_Affects_Triangulation_GroundTruth",
+      "object": "Verify_RemeshModifier_EdgeLength_Affects_Triangulation_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Iterations_Are_Adjustable_GroundTruth",
+      "object": "Verify_RemeshModifier_Iterations_Are_Adjustable_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Rotation_Functions_Correctly_GroundTruth",
+      "object": "Verify_RemeshModifier_Rotation_Functions_Correctly_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Scaling_Functions_Correctly_GroundTruth",
+      "object": "Verify_RemeshModifier_Scaling_Functions_Correctly_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Smoothing_Is_Adjustable_GroundTruth",
+      "object": "Verify_RemeshModifier_Smoothing_Is_Adjustable_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Translation_Functions_Correctly_GroundTruth",
+      "object": "Verify_RemeshModifier_Translation_Functions_Correctly_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Manually_Updating_Spline_Data_Rotation_GroundTruth",
+      "object": "Manually_Updating_Spline_Data_Rotation_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Manually_Updating_Spline_Data_Scale_GroundTruth",
+      "object": "Manually_Updating_Spline_Data_Scale_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Manually_Updating_Spline_Data_Translation_GroundTruth",
+      "object": "Manually_Updating_Spline_Data_Translation_GroundTruth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Initial",
+      "object": "Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Initial",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Updated",
+      "object": "Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Updated",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Projection_Bounds_Expand_Bounds",
+      "object": "Verify_Adjusting_Projection_Bounds_Expand_Bounds",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Projection_Bounds_Out_Of_Bounds",
+      "object": "Verify_Adjusting_Projection_Bounds_Out_Of_Bounds",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Initial",
+      "object": "Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Initial",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Updated",
+      "object": "Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Updated",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_DetailPreserving",
+      "object": "Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_DetailPreserving",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Simple",
+      "object": "Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Simple",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Smooth",
+      "object": "Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Smooth",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Disabled",
+      "object": "Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Disabled",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Enabled",
+      "object": "Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Enabled",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Display_Neareset_Frame_Ignored_When_Closed_Loop",
+      "object": "Verify_Display_Neareset_Frame_Ignored_When_Closed_Loop",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop",
+      "object": "Verify_Display_Neareset_Frame_Ignored_When_Closed_Loop",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop",
+      "object": "Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Extending_Spline_Falloff_Bounds_Initial",
+      "object": "Verify_Extending_Spline_Falloff_Bounds_Initial",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Extending_Spline_Falloff_Bounds_Updated",
+      "object": "Verify_Extending_Spline_Falloff_Bounds_Updated",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Rotation_Initial",
+      "object": "Verify_Relative_Projection_Direction_Rotation_Initial",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Rotation_Updated",
+      "object": "Verify_Relative_Projection_Direction_Rotation_Updated",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Scale_Initial",
+      "object": "Verify_Relative_Projection_Direction_Scale_Initial",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Scale_Updated",
+      "object": "Verify_Relative_Projection_Direction_Scale_Updated",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Translation_Initial",
+      "object": "Verify_Relative_Projection_Direction_Translation_Initial",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Translation_Updated",
+      "object": "Verify_Relative_Projection_Direction_Translation_Updated",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Initial",
+      "object": "Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Initial",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Updated",
+      "object": "Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Updated",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Disabled",
+      "object": "Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Disabled",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Enabled",
+      "object": "Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Enabled",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Using_Nearest_Spline_Frame_For_Displacement_Initial",
+      "object": "Verify_Using_Nearest_Spline_Frame_For_Displacement_Initial",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Using_Nearest_Spline_Frame_For_Displacement_Updated",
+      "object": "Verify_Using_Nearest_Spline_Frame_For_Displacement_Updated",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/TexturePatchModifierValueCurve",
+      "object": "TexturePatchModifierValueCurve",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_AlphaMode_ThisAlpha_Uses_Specified_Channel",
+      "object": "Verify_TexturePatch_Modifier_AlphaMode_ThisAlpha_Uses_Specified_Channel",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_ApplyComponentZScale_Scales_ZAxis",
+      "object": "Verify_TexturePatch_Modifier_ApplyComponentZScale_Scales_ZAxis",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_BlendMode_Max_Limits_Upward_Vertices",
+      "object": "Verify_TexturePatch_Modifier_BlendMode_Max_Limits_Upward_Vertices",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_IsDisabled_Removes_Modifier",
+      "object": "Verify_TexturePatch_Modifier_IsDisabled_Removes_Modifier",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_Rotation_Applies_Correct_Angle",
+      "object": "Verify_TexturePatch_Modifier_Rotation_Applies_Correct_Angle",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_TessellationFast_Applies",
+      "object": "Verify_TexturePatch_Modifier_TessellationFast_Applies",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_TextureAsset_Input_Projects_To_MeshTerrain",
+      "object": "Verify_TexturePatch_Modifier_TextureAsset_Input_Projects_To_MeshTerrain",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_TextureChannel_Projects_Specified_Channel",
+      "object": "Verify_TexturePatch_Modifier_TextureChannel_Projects_Specified_Channel",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_Translation_Moves_To_Target_Location",
+      "object": "Verify_TexturePatch_Modifier_Translation_Moves_To_Target_Location",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_UnscaledPatchCoverage_Adjusts_Terrain",
+      "object": "Verify_TexturePatch_Modifier_UnscaledPatchCoverage_Adjusts_Terrain",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_ValueCurve_Remaps_TextureValues",
+      "object": "Verify_TexturePatch_Modifier_ValueCurve_Remaps_TextureValues",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/UnitTests/Textures/T_UELogo_FromTG",
+      "object": "T_UELogo_FromTG",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_ApplyHueShiftDarken",
+      "object": "MF_ApplyHueShiftDarken",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_ComputeHueAndDarkenNoise",
+      "object": "MF_ComputeHueAndDarkenNoise",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_WorldAlignedGrid",
+      "object": "MF_WorldAlignedGrid",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_WorldAlignedTextureSet",
+      "object": "MF_WorldAlignedTextureSet",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_WorldAlignedTextureTextColor",
+      "object": "MF_WorldAlignedTextureTextColor",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/M_MeshTerrain_Basic",
+      "object": "M_MeshTerrain_Basic",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/M_MeshTerrain_Default",
+      "object": "M_MeshTerrain_Default",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/MeshPartitionDefinitions/MPD_Basic",
+      "object": "MPD_Basic",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/MeshPartitionDefinitions/MPD_Default",
+      "object": "MPD_Default",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_BasicForest",
+      "object": "MeshTerrain_BasicForest",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Erosion",
+      "object": "MeshTerrain_Erosion",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Erosion_WithMask",
+      "object": "MeshTerrain_Erosion_WithMask",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_ForestPath",
+      "object": "MeshTerrain_ForestPath",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills",
+      "object": "MeshTerrain_Hills",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_CityFootprint",
+      "object": "MeshTerrain_Hills_CityFootprint",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_Forest",
+      "object": "MeshTerrain_Hills_Forest",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_ForestWithRoad",
+      "object": "MeshTerrain_Hills_ForestWithRoad",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_Forest_with_Hexagon_Dirt_Patch",
+      "object": "MeshTerrain_Hills_Forest_with_Hexagon_Dirt_Patch",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_Road",
+      "object": "MeshTerrain_Hills_Road",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Occlusion_Texturing",
+      "object": "MeshTerrain_Occlusion_Texturing",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Scatter",
+      "object": "MeshTerrain_Scatter",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/L_TransformProject_UnitTest",
+      "object": "L_TransformProject_UnitTest",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/MPD_TransformProject_UnitTest",
+      "object": "MPD_TransformProject_UnitTest",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/M_TransformProject_UnitTest",
+      "object": "M_TransformProject_UnitTest",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/PCG_TransformProject_UnitTest",
+      "object": "PCG_TransformProject_UnitTest",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Extract/Extract_MeshTerrainPoints",
+      "object": "Extract_MeshTerrainPoints",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Get/Get_MeshTerrain",
+      "object": "Get_MeshTerrain",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Transform/Transform_MeshTerrain_Erosion",
+      "object": "Transform_MeshTerrain_Erosion",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Write_MeshTerrain",
+      "object": "Write_MeshTerrain",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Write_MeshTerrain_AO",
+      "object": "Write_MeshTerrain_AO",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Heightmaps/Heightmap_Mountain_1km_01",
+      "object": "Heightmap_Mountain_1km_01",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Heightmaps/Heightmap_Mountain_1km_02",
+      "object": "Heightmap_Mountain_1km_02",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Heightmaps/Heightmap_Valley_2km",
+      "object": "Heightmap_Valley_2km",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Dirt",
+      "object": "Text_Dirt",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_ForestFloor",
+      "object": "Text_ForestFloor",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Grass",
+      "object": "Text_Grass",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Gravel",
+      "object": "Text_Gravel",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Mud",
+      "object": "Text_Mud",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Rock",
+      "object": "Text_Rock",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Extract/Subgraphs/Extract_MeshTerrainPoints_CoreProcess",
+      "object": "Extract_MeshTerrainPoints_CoreProcess",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Get/Subgraphs/Get_MeshTerrain_CoreProcess",
+      "object": "Get_MeshTerrain_CoreProcess",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Transform/Subgraphs/Transform_MeshTerrain_Erosion_CoreProcess",
+      "object": "Transform_MeshTerrain_Erosion_CoreProcess",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Subgraphs/Write_MeshTerrain_AO_CoreProcess",
+      "object": "Write_MeshTerrain_AO_CoreProcess",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Subgraphs/Write_MeshTerrain_CoreProcess",
+      "object": "Write_MeshTerrain_CoreProcess",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/__ExternalActors__/UnitTests/MeshPartitionUnitTests/1/6F/FI42IZDT6J49V5UQD1F7TR",
+      "object": "WorldPartitionMiniMap_UAID_E04F43E6235376AC02_1828146895",
+      "class": "None"
+    },
+    {
+      "package": "/MeshPartition/__ExternalActors__/UnitTests/MeshPartitionUnitTests/5/AN/0NC6ODC6NYWBKMZDGGKEJ9",
+      "object": "WorldDataLayers",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/2I/Q5W67OJBJ9DHDHCTTXM2MV",
+      "object": "Actor_UAID_387C76495919FFCA02_1518520698",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/GV/BBG47QAC2MU3ZLHZQMGZYX",
+      "object": "WorldPartitionMiniMap_UAID_387C76495919FFCA02_1263368687",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/JF/E9VQBKGV92JPBPOUMF73D5",
+      "object": "PCGVolume_UAID_387C76495919F3CB02_1910178640",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/VY/LQOFKRGJDTC82DAMOQW45W",
+      "object": "Actor_UAID_387C76495919FFCA02_1518519697",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/XG/ZAEDO8MEN20DTIZE1I3TVW",
+      "object": "StaticMeshActor_UAID_387C76495919FFCA02_1264446692",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/1/XD/19WS7KFDVWZ647M0B37DOS",
+      "object": "Actor_UAID_387C76495919FFCA02_1518528710",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/2/1C/FVZIBH9HVRU7UKPDJN0DO2",
+      "object": "Actor_UAID_387C76495919FFCA02_1518525706",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/4/HI/X0L63ZAB6869PA5CES7HN9",
+      "object": "Actor_UAID_387C76495919FFCA02_1518526707",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/4/TQ/5Y060I396N0PTVU8R5LHCN",
+      "object": "ExponentialHeightFog_UAID_387C76495919FFCA02_1264443689",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/5/8X/7TSTUATXWFKBPE9MJOYRXK",
+      "object": "MeshPartition_UAID_387C76495919FFCA02_1518518696",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/5/AV/NBCRP4G6F2PODG3J1HQDFY",
+      "object": "Actor_UAID_387C76495919FFCA02_1518523703",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/5/H6/7C32B5P9298XI1KMORKZXR",
+      "object": "Actor_UAID_387C76495919FFCA02_1518523702",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/5/JG/T2XRP7ZD1HAIZO26YJQ6I5",
+      "object": "SkyAtmosphere_UAID_387C76495919FFCA02_1264445690",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/7/C0/9E6J7RU80VOKK36U7ZFKO0",
+      "object": "Actor_UAID_387C76495919FFCA02_1518525705",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/8/0Y/UPZPQE3C4TOI6F5S4PJN58",
+      "object": "WorldDataLayers",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/8/5Q/RSX3RBRA6M8JVIM5NZKFW7",
+      "object": "VolumetricCloud_UAID_387C76495919FFCA02_1264447693",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/3Q/R7LAI59HOILLD922FNV6ZA",
+      "object": "SkyLight_UAID_387C76495919FFCA02_1264445691",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/4M/0TI0DS48I3CHR7GDPBFFVM",
+      "object": "Actor_UAID_387C76495919FFCA02_1518527708",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/5B/2GKBUA3DDKAIFTCD669APG",
+      "object": "StaticMeshActor_UAID_387C76495919EACB02_1680601047",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/DH/JBK0CXZT5ANQFCIVRH8WNN",
+      "object": "Actor_UAID_387C76495919FFCA02_1518524704",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/G1/LA9RL4M42ULT6TO93WRHZB",
+      "object": "PCGWorldActor_UAID_387C76495919F3CB02_1910198641",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/A/QZ/QU04X7A2P0VB44H1ZQO5UH",
+      "object": "Actor_UAID_387C76495919FFCA02_1518522700",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/C/7W/75VACII1RWM58L5ZQ5MHAO",
+      "object": "Actor_UAID_387C76495919FFCA02_1518529712",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/D/RN/EEQOQG76BZUA5HTLR6OKL0",
+      "object": "Actor_UAID_387C76495919FFCA02_1518527709",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/E/AG/V0JD8DK2LD1I65VFAVNPTH",
+      "object": "Actor_UAID_387C76495919FFCA02_1518521699",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/E/ED/2FNZG07WGR9D8B0AIQAOMM",
+      "object": "DirectionalLight_UAID_387C76495919FFCA02_1264440688",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/E/H5/MJTDOXCY9GXHA1BC15ZOXS",
+      "object": "Actor_UAID_387C76495919FFCA02_1518522701",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/E/KP/6KEICM82R494H26ASCIYBB",
+      "object": "Actor_UAID_387C76495919FFCA02_1518529711",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/0/3X/7ECBCYB8RQW631L4YW67U4",
+      "object": "Actor_UAID_387C76498394F9B902_1917510683",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/0/8K/4YRG37F7Y57AAVL5IUTWX5",
+      "object": "VolumetricCloud_UAID_387C76498394F9B902_1599227684",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/2/PH/C9KKSAMHEG5KNFZ2I9X07E",
+      "object": "TextRenderActor_UAID_387C76498394F9B902_1599225681",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/3/F2/OYBO76V1Z2PF45PLJOBQ8W",
+      "object": "StaticMeshActor_UAID_387C76498394F9B902_1599228685",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/4/EX/3CVLY643VAQVTLNYBFUF3A",
+      "object": "TextRenderActor_UAID_387C76498394F9B902_1599224680",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/4/KW/BPSN6C84FZL6DC8ACQ6M1W",
+      "object": "Actor_UAID_387C76498394F9B902_1917507680",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/4/M2/JT7FS1YZAIT8WU02FBW23E",
+      "object": "SkyAtmosphere_UAID_387C76498394F9B902_1599230687",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/6/ER/34VI3UAR1YCR17UA3R9EAK",
+      "object": "SkyLight_UAID_387C76498394F9B902_1599229686",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/6/RG/457CD6RX8WODI2YG3GAZ81",
+      "object": "MeshPartition_UAID_387C76498394F9B902_1917505679",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/7/NP/DD2FZBD76TP6UXB4DE3FLE",
+      "object": "TextRenderActor_UAID_387C76498394F9B902_1599226682",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/8/C7/LHL8U4294861N7C7OYIHAQ",
+      "object": "PostProcessVolume_UAID_387C76498394F9B902_1599230688",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/8/DX/8FA5SSQDAN7XN9DVYT0969",
+      "object": "WorldPartitionMiniMap_UAID_387C76498394F9B902_1597625679",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/8/I6/7R3TKK0GFI3LH1BG4KF23V",
+      "object": "ExponentialHeightFog_UAID_387C76498394F9B902_1599231689",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/B/HY/U0W41OOWZ9WSSGB6X0S96Q",
+      "object": "Actor_UAID_387C76498394F9B902_1917509681",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/C/KU/WI07JYNLG5C99Q1VWMVLSP",
+      "object": "WorldDataLayers",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/E/C6/WNMF11X1X4GZSN6WFOPTVP",
+      "object": "DirectionalLight_UAID_387C76498394F9B902_1599232690",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/E/P6/RE688ZQ3ZD9TCXIZSGX1AD",
+      "object": "Actor_UAID_387C76498394F9B902_1917509682",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/L_MeshTerrain_Basic/0/QW/AQZYBSG5T87NXGFQN5CPE2",
+      "object": "ActorFolder_UID_5DB44F7E-4A2237D1-F2A414A2-2A4D4D28",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/L_MeshTerrain_Default/2/G1/UO30BBRXXRJLK1KFSW2Y6U",
+      "object": "ActorFolder_UID_A669219C-4A616CA9-481E47B6-74053629",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/L_MeshTerrain_Default/5/RZ/1JJSLJ9QOX71A5KP1NFURU",
+      "object": "ActorFolder_UID_5321A325-4403596E-735414A4-F354B3DA",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/1/6K/SZJV7PHT08UKOO5NMW18AL",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409028270",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/1/CP/H40I4E7IE81BPOHK8X8S8A",
+      "object": "DirectionalLight_UAID_387C76495919AFC902_1428922552",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/1/Z1/1XCL7X3P7RPVD1XLK0NQY1",
+      "object": "Actor_UAID_387C76495919AFC902_1791004561",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/2/18/6QPTEOYLWS8V4FPLHJ6AZH",
+      "object": "SkyLight_UAID_387C76495919AFC902_1428925555",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/2/HR/GCARUTWXFIH262ZR0VG5UP",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409025268",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/5/NN/4XWQZFIM5LLRQ3E6G0B5WW",
+      "object": "ExponentialHeightFog_UAID_387C76495919AFC902_1428923553",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/6/74/UG9MMRFYV3VYYX70GZPJ08",
+      "object": "PCGWorldActor_UAID_387C76495919AFC902_1432586559",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/6/D3/8I7WFH7U6K59579GAMU8K0",
+      "object": "VolumetricCloud_UAID_387C76495919AFC902_1428927557",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/6/RE/IMSC6O1MSM5Q2YMGAYXAQI",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409030272",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/6/XL/FI2845U7GTRE55H4NGTBWG",
+      "object": "WorldPartitionMiniMap_UAID_387C76495919AFC902_1428146551",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/7/FE/OCZE4B127OLQ86R09TP4UF",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409023267",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/8/DX/JZMHKW4TU48X0VVFTSSA97",
+      "object": "MeshPartition_UAID_387C76495919AFC902_1791002560",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/9/7E/C5Z67JM2LX137B8LSE59CQ",
+      "object": "ModifierActor_UAID_387C76495919B3C902_1349659266",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/9/GX/Z267V6SY2DUV362H1FZGQF",
+      "object": "TextRenderActor_UAID_387C76495919BDC902_1786058036",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/A/6O/JV3I3B40JLDJIC3FQP6WDW",
+      "object": "TextRenderActor_UAID_387C76495919B8C902_1338742153",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/A/Q9/QU19ZXQR7A1SW70H5O6QOH",
+      "object": "WorldDataLayers",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/B/IO/32F8603KOCGWWXGPISV74R",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409026269",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/B/MN/TXC4MATVB1LAJNXEAI1JQ0",
+      "object": "StaticMeshActor_UAID_387C76495919AFC902_1428926556",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/D/2Y/0RHLHBGKYX1VP4GQZRWTXP",
+      "object": "TextRenderActor_UAID_387C76495919B8C902_1338744154",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/D/YV/IV2OBOBO4GRW2B1C7J9LXB",
+      "object": "TextRenderActor_UAID_387C76495919B8C902_1533160155",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/E/L8/S261UYRXOYLV4LZKXTEWFR",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409028271",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/E/QW/CBVL8YHS4VS63EFSHXBLYK",
+      "object": "TextRenderActor_UAID_387C76495919BDC902_1839370037",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/E/TO/FB9EUAQRIP94Q12R35BEHC",
+      "object": "SkyAtmosphere_UAID_387C76495919AFC902_1428924554",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/F/4L/7VJP1ENOKI7YMV8BRCCHLH",
+      "object": "PCGVolume_UAID_387C76495919AFC902_1432561558",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/UnitTests/L_TransformProject_UnitTest/6/7W/XJ1TRUEDTSZYNEANIGLC8L",
+      "object": "ActorFolder_UID_F93545FE-478F8E8B-D95D0B81-2344ED5C",
+      "class": "None"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/UnitTests/L_TransformProject_UnitTest/6/HE/OGGAGY4P4N41CJ3LOD3M3E",
+      "object": "ActorFolder_UID_6B5AD7CE-487F41A2-E2A2B0A0-1197BF38",
+      "class": "None"
+    }
+  ],
+  "asset_data_dir_sample": {
+    "dir": [
+      "asset_class",
+      "asset_class_path",
+      "asset_name",
+      "assign",
+      "cast",
+      "copy",
+      "export_text",
+      "find_asset_native_class",
+      "get_asset",
+      "get_class",
+      "get_editor_property",
+      "get_export_text_name",
+      "get_full_name",
+      "get_tag_value",
+      "has_editor_only_data",
+      "import_text",
+      "is_asset_loaded",
+      "is_cooked",
+      "is_redirector",
+      "is_u_asset",
+      "is_valid",
+      "package_name",
+      "package_path",
+      "set_editor_properties",
+      "set_editor_property",
+      "static_struct",
+      "to_dict",
+      "to_soft_object_path",
+      "to_tuple"
+    ],
+    "package_name": "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/1/CK/SKTF0P7L97T1N14C8OQS4D",
+    "asset_name": "MeshPartition_UAID_60CF84A9A659E20103_1522962665",
+    "class": "None"
+  },
+  "flagged_details": [
+    {
+      "package": "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/1/CK/SKTF0P7L97T1N14C8OQS4D",
+      "object": "MeshPartition_UAID_60CF84A9A659E20103_1522962665",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/MeshPartition/Materials/M_MeshPartition_Default",
+      "object": "M_MeshPartition_Default",
+      "class": "None",
+      "loaded_class": "Material",
+      "loaded_path": "/MeshPartition/Materials/M_MeshPartition_Default.M_MeshPartition_Default",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/DataAssets/MPD_Default",
+      "object": "MPD_Default",
+      "class": "None",
+      "loaded_class": "MeshPartitionDefinition",
+      "loaded_path": "/MeshPartition/DataAssets/MPD_Default.MPD_Default",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/Textures/Void2DArray",
+      "object": "Void2DArray",
+      "class": "None",
+      "loaded_class": "Texture2DArray",
+      "loaded_path": "/MeshPartition/Textures/Void2DArray.Void2DArray",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/Materials/MF_MeshPartition_WorldAlignedTexture",
+      "object": "MF_MeshPartition_WorldAlignedTexture",
+      "class": "None",
+      "loaded_class": "MaterialFunction",
+      "loaded_path": "/MeshPartition/Materials/MF_MeshPartition_WorldAlignedTexture.MF_MeshPartition_WorldAlignedTexture",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/DataAssets/TP_DefaultPreviewSection",
+      "object": "TP_DefaultPreviewSection",
+      "class": "None",
+      "loaded_class": "TransformerPipeline",
+      "loaded_path": "/MeshPartition/DataAssets/TP_DefaultPreviewSection.TP_DefaultPreviewSection",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/DataAssets/TP_DefaultLowEndPlatformRenderData",
+      "object": "TP_DefaultLowEndPlatformRenderData",
+      "class": "None",
+      "loaded_class": "TransformerPipeline",
+      "loaded_path": "/MeshPartition/DataAssets/TP_DefaultLowEndPlatformRenderData.TP_DefaultLowEndPlatformRenderData",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/DataAssets/TP_DefaultHighEndPlatformRenderData",
+      "object": "TP_DefaultHighEndPlatformRenderData",
+      "class": "None",
+      "loaded_class": "TransformerPipeline",
+      "loaded_path": "/MeshPartition/DataAssets/TP_DefaultHighEndPlatformRenderData.TP_DefaultHighEndPlatformRenderData",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/DataAssets/TP_DefaultCommonGameplayData",
+      "object": "TP_DefaultCommonGameplayData",
+      "class": "None",
+      "loaded_class": "TransformerPipeline",
+      "loaded_path": "/MeshPartition/DataAssets/TP_DefaultCommonGameplayData.TP_DefaultCommonGameplayData",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/Icons/S_ModifierIcon",
+      "object": "S_ModifierIcon",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/MeshPartition/Icons/S_ModifierIcon.S_ModifierIcon",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/Materials/MF_PaintGrid",
+      "object": "MF_PaintGrid",
+      "class": "None",
+      "loaded_class": "MaterialFunction",
+      "loaded_path": "/MeshPartition/Materials/MF_PaintGrid.MF_PaintGrid",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/Materials/M_MegaMeshPalette",
+      "object": "M_MegaMeshPalette",
+      "class": "None",
+      "loaded_class": "Material",
+      "loaded_path": "/MeshPartition/Materials/M_MegaMeshPalette.M_MegaMeshPalette",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/Materials/M_MeshPartitionInspector",
+      "object": "M_MeshPartitionInspector",
+      "class": "None",
+      "loaded_class": "Material",
+      "loaded_path": "/MeshPartition/Materials/M_MeshPartitionInspector.M_MeshPartitionInspector",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/Textures/Void",
+      "object": "Void",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/MeshPartition/Textures/Void.Void",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/MeshPartitionUnitTests",
+      "object": "MeshPartitionUnitTests",
+      "class": "None",
+      "loaded_class": "World",
+      "loaded_path": "/MeshPartition/UnitTests/MeshPartitionUnitTests.MeshPartitionUnitTests",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/PreviewSectionTransforms_Test",
+      "object": "PreviewSectionTransforms_Test",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/PreviewSectionTransforms_Test.PreviewSectionTransforms_Test",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/L_MeshTerrain_Basic",
+      "object": "L_MeshTerrain_Basic",
+      "class": "None",
+      "loaded_class": "World",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Levels/L_MeshTerrain_Basic.L_MeshTerrain_Basic",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/L_MeshTerrain_Default",
+      "object": "L_MeshTerrain_Default",
+      "class": "None",
+      "loaded_class": "World",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Levels/L_MeshTerrain_Default.L_MeshTerrain_Default",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/Materials/Blends/MLB_MT_Blend",
+      "object": "MLB_MT_Blend",
+      "class": "None",
+      "loaded_class": "MaterialFunctionMaterialLayerBlend",
+      "loaded_path": "/MeshPartition/Materials/Blends/MLB_MT_Blend.MLB_MT_Blend",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Boolean_Modifier_Affected",
+      "object": "Boolean_Modifier_Affected",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/Boolean_Modifier_Affected.Boolean_Modifier_Affected",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Boolean_Modifier_Affected_B",
+      "object": "Boolean_Modifier_Affected_B",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/Boolean_Modifier_Affected_B.Boolean_Modifier_Affected_B",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Boolean_Modifier_Unaffected",
+      "object": "Boolean_Modifier_Unaffected",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/Boolean_Modifier_Unaffected.Boolean_Modifier_Unaffected",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Different_Priority_Layer_Unaffected",
+      "object": "Different_Priority_Layer_Unaffected",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/Different_Priority_Layer_Unaffected.Different_Priority_Layer_Unaffected",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Affected_X",
+      "object": "ExpandBounds_Affected_X",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Affected_X.ExpandBounds_Affected_X",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Affected_Y",
+      "object": "ExpandBounds_Affected_Y",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Affected_Y.ExpandBounds_Affected_Y",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Affected_Z",
+      "object": "ExpandBounds_Affected_Z",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Affected_Z.ExpandBounds_Affected_Z",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Unaffected_X",
+      "object": "ExpandBounds_Unaffected_X",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Unaffected_X.ExpandBounds_Unaffected_X",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Unaffected_Y",
+      "object": "ExpandBounds_Unaffected_Y",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Unaffected_Y.ExpandBounds_Unaffected_Y",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Unaffected_Z",
+      "object": "ExpandBounds_Unaffected_Z",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/ExpandBounds_Unaffected_Z.ExpandBounds_Unaffected_Z",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Assignment_To_MeshTerrain_GroundTruth",
+      "object": "Verify_Boolean_Modifier_Assignment_To_MeshTerrain_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Assignment_To_MeshTerrain_GroundTruth.Verify_Boolean_Modifier_Assignment_To_MeshTerrain_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Rotation_Applies_Operation_To_Terrain_GroundTruth",
+      "object": "Verify_Boolean_Modifier_Rotation_Applies_Operation_To_Terrain_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Rotation_Applies_Operation_To_Terrain_GroundTruth.Verify_Boolean_Modifier_Rotation_Applies_Operation_To_Terrain_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Scaling_Applies_Operation_To_Terrain_GroundTruth",
+      "object": "Verify_Boolean_Modifier_Scaling_Applies_Operation_To_Terrain_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Scaling_Applies_Operation_To_Terrain_GroundTruth.Verify_Boolean_Modifier_Scaling_Applies_Operation_To_Terrain_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Translation_Applies_Operation_To_Terrain_GroundTruth",
+      "object": "Verify_Boolean_Modifier_Translation_Applies_Operation_To_Terrain_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/BooleanModifierTests/Verify_Boolean_Modifier_Translation_Applies_Operation_To_Terrain_GroundTruth.Verify_Boolean_Modifier_Translation_Applies_Operation_To_Terrain_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/DataAssets/MeshPartitionPriorityLayerDefinition",
+      "object": "MeshPartitionPriorityLayerDefinition",
+      "class": "None",
+      "loaded_class": "MeshPartitionDefinition",
+      "loaded_path": "/MeshPartition/UnitTests/DataAssets/MeshPartitionPriorityLayerDefinition.MeshPartitionPriorityLayerDefinition",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/DataAssets/MPD_AutomationTestDefault",
+      "object": "MPD_AutomationTestDefault",
+      "class": "None",
+      "loaded_class": "MeshPartitionDefinition",
+      "loaded_path": "/MeshPartition/UnitTests/DataAssets/MPD_AutomationTestDefault.MPD_AutomationTestDefault",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/DataAssets/TexturePatchModifierDefinition",
+      "object": "TexturePatchModifierDefinition",
+      "class": "None",
+      "loaded_class": "MeshPartitionDefinition",
+      "loaded_path": "/MeshPartition/UnitTests/DataAssets/TexturePatchModifierDefinition.TexturePatchModifierDefinition",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/HeightmapImport/x0y0",
+      "object": "x0y0",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/HeightmapImport/x0y0.x0y0",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/HeightmapImport/x0y1",
+      "object": "x0y1",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/HeightmapImport/x0y1.x0y1",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/HeightmapImport/x1y0",
+      "object": "x1y0",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/HeightmapImport/x1y0.x1y0",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/HeightmapImport/x1y1",
+      "object": "x1y1",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/HeightmapImport/x1y1.x1y1",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/PatchModifierTests/Verify_PatchModifier_Priority_System_Applies_Higher_Priority_First_GroundTruth",
+      "object": "Verify_PatchModifier_Priority_System_Applies_Higher_Priority_First_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/PatchModifierTests/Verify_PatchModifier_Priority_System_Applies_Higher_Priority_First_GroundTruth.Verify_PatchModifier_Priority_System_Applies_Higher_Priority_First_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Can_Be_Added_GroundTruth",
+      "object": "Verify_RemeshModifier_Can_Be_Added_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Can_Be_Added_GroundTruth.Verify_RemeshModifier_Can_Be_Added_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Can_Be_Disabled_GroundTruth",
+      "object": "Verify_RemeshModifier_Can_Be_Disabled_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Can_Be_Disabled_GroundTruth.Verify_RemeshModifier_Can_Be_Disabled_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_EdgeLength_Affects_Triangulation_GroundTruth",
+      "object": "Verify_RemeshModifier_EdgeLength_Affects_Triangulation_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_EdgeLength_Affects_Triangulation_GroundTruth.Verify_RemeshModifier_EdgeLength_Affects_Triangulation_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Iterations_Are_Adjustable_GroundTruth",
+      "object": "Verify_RemeshModifier_Iterations_Are_Adjustable_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Iterations_Are_Adjustable_GroundTruth.Verify_RemeshModifier_Iterations_Are_Adjustable_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Rotation_Functions_Correctly_GroundTruth",
+      "object": "Verify_RemeshModifier_Rotation_Functions_Correctly_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Rotation_Functions_Correctly_GroundTruth.Verify_RemeshModifier_Rotation_Functions_Correctly_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Scaling_Functions_Correctly_GroundTruth",
+      "object": "Verify_RemeshModifier_Scaling_Functions_Correctly_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Scaling_Functions_Correctly_GroundTruth.Verify_RemeshModifier_Scaling_Functions_Correctly_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Smoothing_Is_Adjustable_GroundTruth",
+      "object": "Verify_RemeshModifier_Smoothing_Is_Adjustable_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Smoothing_Is_Adjustable_GroundTruth.Verify_RemeshModifier_Smoothing_Is_Adjustable_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Translation_Functions_Correctly_GroundTruth",
+      "object": "Verify_RemeshModifier_Translation_Functions_Correctly_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/RemeshModifierTests/Verify_RemeshModifier_Translation_Functions_Correctly_GroundTruth.Verify_RemeshModifier_Translation_Functions_Correctly_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Manually_Updating_Spline_Data_Rotation_GroundTruth",
+      "object": "Manually_Updating_Spline_Data_Rotation_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Manually_Updating_Spline_Data_Rotation_GroundTruth.Manually_Updating_Spline_Data_Rotation_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Manually_Updating_Spline_Data_Scale_GroundTruth",
+      "object": "Manually_Updating_Spline_Data_Scale_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Manually_Updating_Spline_Data_Scale_GroundTruth.Manually_Updating_Spline_Data_Scale_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Manually_Updating_Spline_Data_Translation_GroundTruth",
+      "object": "Manually_Updating_Spline_Data_Translation_GroundTruth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Manually_Updating_Spline_Data_Translation_GroundTruth.Manually_Updating_Spline_Data_Translation_GroundTruth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Initial",
+      "object": "Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Initial",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Initial.Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Initial",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Updated",
+      "object": "Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Updated",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Updated.Verify_Adjusting_Error_Tolerance_For_The_Spline_Modifier_Interior_Updated",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Projection_Bounds_Expand_Bounds",
+      "object": "Verify_Adjusting_Projection_Bounds_Expand_Bounds",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Projection_Bounds_Expand_Bounds.Verify_Adjusting_Projection_Bounds_Expand_Bounds",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Projection_Bounds_Out_Of_Bounds",
+      "object": "Verify_Adjusting_Projection_Bounds_Out_Of_Bounds",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Projection_Bounds_Out_Of_Bounds.Verify_Adjusting_Projection_Bounds_Out_Of_Bounds",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Initial",
+      "object": "Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Initial",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Initial.Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Initial",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Updated",
+      "object": "Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Updated",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Updated.Verify_Adjusting_Tri_Count_For_The_Spline_Modifier_Interior_Updated",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_DetailPreserving",
+      "object": "Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_DetailPreserving",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_DetailPreserving.Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_DetailPreserving",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Simple",
+      "object": "Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Simple",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Simple.Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Simple",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Smooth",
+      "object": "Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Smooth",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Smooth.Verify_Applying_Smooth_Modes_For_The_Spline_Modifier_Interior_Smooth",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Disabled",
+      "object": "Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Disabled",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Disabled.Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Disabled",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Enabled",
+      "object": "Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Enabled",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Enabled.Verify_Completely_Disabling_Processing_Of_The_Spline_Modifier_Enabled",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Display_Neareset_Frame_Ignored_When_Closed_Loop",
+      "object": "Verify_Display_Neareset_Frame_Ignored_When_Closed_Loop",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Display_Neareset_Frame_Ignored_When_Closed_Loop.Verify_Display_Neareset_Frame_Ignored_When_Closed_Loop",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop",
+      "object": "Verify_Display_Neareset_Frame_Ignored_When_Closed_Loop",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop.Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop",
+      "object": "Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop.Verify_Display_Nearest_Frame_Ignored_When_Closed_Loop",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Extending_Spline_Falloff_Bounds_Initial",
+      "object": "Verify_Extending_Spline_Falloff_Bounds_Initial",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Extending_Spline_Falloff_Bounds_Initial.Verify_Extending_Spline_Falloff_Bounds_Initial",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Extending_Spline_Falloff_Bounds_Updated",
+      "object": "Verify_Extending_Spline_Falloff_Bounds_Updated",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Extending_Spline_Falloff_Bounds_Updated.Verify_Extending_Spline_Falloff_Bounds_Updated",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Rotation_Initial",
+      "object": "Verify_Relative_Projection_Direction_Rotation_Initial",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Rotation_Initial.Verify_Relative_Projection_Direction_Rotation_Initial",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Rotation_Updated",
+      "object": "Verify_Relative_Projection_Direction_Rotation_Updated",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Rotation_Updated.Verify_Relative_Projection_Direction_Rotation_Updated",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Scale_Initial",
+      "object": "Verify_Relative_Projection_Direction_Scale_Initial",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Scale_Initial.Verify_Relative_Projection_Direction_Scale_Initial",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Scale_Updated",
+      "object": "Verify_Relative_Projection_Direction_Scale_Updated",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Scale_Updated.Verify_Relative_Projection_Direction_Scale_Updated",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Translation_Initial",
+      "object": "Verify_Relative_Projection_Direction_Translation_Initial",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Translation_Initial.Verify_Relative_Projection_Direction_Translation_Initial",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Translation_Updated",
+      "object": "Verify_Relative_Projection_Direction_Translation_Updated",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Relative_Projection_Direction_Translation_Updated.Verify_Relative_Projection_Direction_Translation_Updated",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Initial",
+      "object": "Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Initial",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Initial.Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Initial",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Updated",
+      "object": "Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Updated",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Updated.Verify_Specifying_A_Falloff_Distance_For_The_Spline_Modifier_Updated",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Disabled",
+      "object": "Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Disabled",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Disabled.Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Disabled",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Enabled",
+      "object": "Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Enabled",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Enabled.Verify_Temporarily_Disabling_Processing_Of_The_Spline_Modifier_In_Preview_Sections_Enabled",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Using_Nearest_Spline_Frame_For_Displacement_Initial",
+      "object": "Verify_Using_Nearest_Spline_Frame_For_Displacement_Initial",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Using_Nearest_Spline_Frame_For_Displacement_Initial.Verify_Using_Nearest_Spline_Frame_For_Displacement_Initial",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Using_Nearest_Spline_Frame_For_Displacement_Updated",
+      "object": "Verify_Using_Nearest_Spline_Frame_For_Displacement_Updated",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/SplineModifierTests/Verify_Using_Nearest_Spline_Frame_For_Displacement_Updated.Verify_Using_Nearest_Spline_Frame_For_Displacement_Updated",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/TexturePatchModifierValueCurve",
+      "object": "TexturePatchModifierValueCurve",
+      "class": "None",
+      "loaded_class": "CurveFloat",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/TexturePatchModifierValueCurve.TexturePatchModifierValueCurve",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_AlphaMode_ThisAlpha_Uses_Specified_Channel",
+      "object": "Verify_TexturePatch_Modifier_AlphaMode_ThisAlpha_Uses_Specified_Channel",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_AlphaMode_ThisAlpha_Uses_Specified_Channel.Verify_TexturePatch_Modifier_AlphaMode_ThisAlpha_Uses_Specified_Channel",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_ApplyComponentZScale_Scales_ZAxis",
+      "object": "Verify_TexturePatch_Modifier_ApplyComponentZScale_Scales_ZAxis",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_ApplyComponentZScale_Scales_ZAxis.Verify_TexturePatch_Modifier_ApplyComponentZScale_Scales_ZAxis",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_BlendMode_Max_Limits_Upward_Vertices",
+      "object": "Verify_TexturePatch_Modifier_BlendMode_Max_Limits_Upward_Vertices",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_BlendMode_Max_Limits_Upward_Vertices.Verify_TexturePatch_Modifier_BlendMode_Max_Limits_Upward_Vertices",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_IsDisabled_Removes_Modifier",
+      "object": "Verify_TexturePatch_Modifier_IsDisabled_Removes_Modifier",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_IsDisabled_Removes_Modifier.Verify_TexturePatch_Modifier_IsDisabled_Removes_Modifier",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_Rotation_Applies_Correct_Angle",
+      "object": "Verify_TexturePatch_Modifier_Rotation_Applies_Correct_Angle",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_Rotation_Applies_Correct_Angle.Verify_TexturePatch_Modifier_Rotation_Applies_Correct_Angle",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_TessellationFast_Applies",
+      "object": "Verify_TexturePatch_Modifier_TessellationFast_Applies",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_TessellationFast_Applies.Verify_TexturePatch_Modifier_TessellationFast_Applies",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_TextureAsset_Input_Projects_To_MeshTerrain",
+      "object": "Verify_TexturePatch_Modifier_TextureAsset_Input_Projects_To_MeshTerrain",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_TextureAsset_Input_Projects_To_MeshTerrain.Verify_TexturePatch_Modifier_TextureAsset_Input_Projects_To_MeshTerrain",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_TextureChannel_Projects_Specified_Channel",
+      "object": "Verify_TexturePatch_Modifier_TextureChannel_Projects_Specified_Channel",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_TextureChannel_Projects_Specified_Channel.Verify_TexturePatch_Modifier_TextureChannel_Projects_Specified_Channel",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_Translation_Moves_To_Target_Location",
+      "object": "Verify_TexturePatch_Modifier_Translation_Moves_To_Target_Location",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_Translation_Moves_To_Target_Location.Verify_TexturePatch_Modifier_Translation_Moves_To_Target_Location",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_UnscaledPatchCoverage_Adjusts_Terrain",
+      "object": "Verify_TexturePatch_Modifier_UnscaledPatchCoverage_Adjusts_Terrain",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_UnscaledPatchCoverage_Adjusts_Terrain.Verify_TexturePatch_Modifier_UnscaledPatchCoverage_Adjusts_Terrain",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_ValueCurve_Remaps_TextureValues",
+      "object": "Verify_TexturePatch_Modifier_ValueCurve_Remaps_TextureValues",
+      "class": "None",
+      "loaded_class": "StaticMesh",
+      "loaded_path": "/MeshPartition/UnitTests/TexturePatchModifierTests/Verify_TexturePatch_Modifier_ValueCurve_Remaps_TextureValues.Verify_TexturePatch_Modifier_ValueCurve_Remaps_TextureValues",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/UnitTests/Textures/T_UELogo_FromTG",
+      "object": "T_UELogo_FromTG",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/MeshPartition/UnitTests/Textures/T_UELogo_FromTG.T_UELogo_FromTG",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_ApplyHueShiftDarken",
+      "object": "MF_ApplyHueShiftDarken",
+      "class": "None",
+      "loaded_class": "MaterialFunction",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_ApplyHueShiftDarken.MF_ApplyHueShiftDarken",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_ComputeHueAndDarkenNoise",
+      "object": "MF_ComputeHueAndDarkenNoise",
+      "class": "None",
+      "loaded_class": "MaterialFunction",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_ComputeHueAndDarkenNoise.MF_ComputeHueAndDarkenNoise",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_WorldAlignedGrid",
+      "object": "MF_WorldAlignedGrid",
+      "class": "None",
+      "loaded_class": "MaterialFunction",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_WorldAlignedGrid.MF_WorldAlignedGrid",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_WorldAlignedTextureSet",
+      "object": "MF_WorldAlignedTextureSet",
+      "class": "None",
+      "loaded_class": "MaterialFunction",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_WorldAlignedTextureSet.MF_WorldAlignedTextureSet",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_WorldAlignedTextureTextColor",
+      "object": "MF_WorldAlignedTextureTextColor",
+      "class": "None",
+      "loaded_class": "MaterialFunction",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/MF_WorldAlignedTextureTextColor.MF_WorldAlignedTextureTextColor",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/M_MeshTerrain_Basic",
+      "object": "M_MeshTerrain_Basic",
+      "class": "None",
+      "loaded_class": "Material",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/M_MeshTerrain_Basic.M_MeshTerrain_Basic",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/M_MeshTerrain_Default",
+      "object": "M_MeshTerrain_Default",
+      "class": "None",
+      "loaded_class": "Material",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Materials/M_MeshTerrain_Default.M_MeshTerrain_Default",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/MeshPartitionDefinitions/MPD_Basic",
+      "object": "MPD_Basic",
+      "class": "None",
+      "loaded_class": "MeshPartitionDefinition",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/MeshPartitionDefinitions/MPD_Basic.MPD_Basic",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/MeshPartitionDefinitions/MPD_Default",
+      "object": "MPD_Default",
+      "class": "None",
+      "loaded_class": "MeshPartitionDefinition",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/MeshPartitionDefinitions/MPD_Default.MPD_Default",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_BasicForest",
+      "object": "MeshTerrain_BasicForest",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_BasicForest.MeshTerrain_BasicForest",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Erosion",
+      "object": "MeshTerrain_Erosion",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Erosion.MeshTerrain_Erosion",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Erosion_WithMask",
+      "object": "MeshTerrain_Erosion_WithMask",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Erosion_WithMask.MeshTerrain_Erosion_WithMask",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_ForestPath",
+      "object": "MeshTerrain_ForestPath",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_ForestPath.MeshTerrain_ForestPath",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills",
+      "object": "MeshTerrain_Hills",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills.MeshTerrain_Hills",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_CityFootprint",
+      "object": "MeshTerrain_Hills_CityFootprint",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_CityFootprint.MeshTerrain_Hills_CityFootprint",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_Forest",
+      "object": "MeshTerrain_Hills_Forest",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_Forest.MeshTerrain_Hills_Forest",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_ForestWithRoad",
+      "object": "MeshTerrain_Hills_ForestWithRoad",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_ForestWithRoad.MeshTerrain_Hills_ForestWithRoad",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_Forest_with_Hexagon_Dirt_Patch",
+      "object": "MeshTerrain_Hills_Forest_with_Hexagon_Dirt_Patch",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_Forest_with_Hexagon_Dirt_Patch.MeshTerrain_Hills_Forest_with_Hexagon_Dirt_Patch",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_Road",
+      "object": "MeshTerrain_Hills_Road",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Hills_Road.MeshTerrain_Hills_Road",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Occlusion_Texturing",
+      "object": "MeshTerrain_Occlusion_Texturing",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Occlusion_Texturing.MeshTerrain_Occlusion_Texturing",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Scatter",
+      "object": "MeshTerrain_Scatter",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Examples/MeshTerrain/MeshTerrain_Scatter.MeshTerrain_Scatter",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/L_TransformProject_UnitTest",
+      "object": "L_TransformProject_UnitTest",
+      "class": "None",
+      "loaded_class": "World",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/L_TransformProject_UnitTest.L_TransformProject_UnitTest",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/MPD_TransformProject_UnitTest",
+      "object": "MPD_TransformProject_UnitTest",
+      "class": "None",
+      "loaded_class": "MeshPartitionDefinition",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/MPD_TransformProject_UnitTest.MPD_TransformProject_UnitTest",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/M_TransformProject_UnitTest",
+      "object": "M_TransformProject_UnitTest",
+      "class": "None",
+      "loaded_class": "Material",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/M_TransformProject_UnitTest.M_TransformProject_UnitTest",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/PCG_TransformProject_UnitTest",
+      "object": "PCG_TransformProject_UnitTest",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Levels/UnitTests/PCG_TransformProject_UnitTest.PCG_TransformProject_UnitTest",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Extract/Extract_MeshTerrainPoints",
+      "object": "Extract_MeshTerrainPoints",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Extract/Extract_MeshTerrainPoints.Extract_MeshTerrainPoints",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Get/Get_MeshTerrain",
+      "object": "Get_MeshTerrain",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Get/Get_MeshTerrain.Get_MeshTerrain",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Transform/Transform_MeshTerrain_Erosion",
+      "object": "Transform_MeshTerrain_Erosion",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Transform/Transform_MeshTerrain_Erosion.Transform_MeshTerrain_Erosion",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Write_MeshTerrain",
+      "object": "Write_MeshTerrain",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Write_MeshTerrain.Write_MeshTerrain",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Write_MeshTerrain_AO",
+      "object": "Write_MeshTerrain_AO",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Write_MeshTerrain_AO.Write_MeshTerrain_AO",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Heightmaps/Heightmap_Mountain_1km_01",
+      "object": "Heightmap_Mountain_1km_01",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Heightmaps/Heightmap_Mountain_1km_01.Heightmap_Mountain_1km_01",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Heightmaps/Heightmap_Mountain_1km_02",
+      "object": "Heightmap_Mountain_1km_02",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Heightmaps/Heightmap_Mountain_1km_02.Heightmap_Mountain_1km_02",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Heightmaps/Heightmap_Valley_2km",
+      "object": "Heightmap_Valley_2km",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Heightmaps/Heightmap_Valley_2km.Heightmap_Valley_2km",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Dirt",
+      "object": "Text_Dirt",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Dirt.Text_Dirt",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_ForestFloor",
+      "object": "Text_ForestFloor",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_ForestFloor.Text_ForestFloor",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Grass",
+      "object": "Text_Grass",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Grass.Text_Grass",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Gravel",
+      "object": "Text_Gravel",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Gravel.Text_Gravel",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Mud",
+      "object": "Text_Mud",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Mud.Text_Mud",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Rock",
+      "object": "Text_Rock",
+      "class": "None",
+      "loaded_class": "Texture2D",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Assets/Textures/Text/Text_Rock.Text_Rock",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Extract/Subgraphs/Extract_MeshTerrainPoints_CoreProcess",
+      "object": "Extract_MeshTerrainPoints_CoreProcess",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Extract/Subgraphs/Extract_MeshTerrainPoints_CoreProcess.Extract_MeshTerrainPoints_CoreProcess",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Get/Subgraphs/Get_MeshTerrain_CoreProcess",
+      "object": "Get_MeshTerrain_CoreProcess",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Get/Subgraphs/Get_MeshTerrain_CoreProcess.Get_MeshTerrain_CoreProcess",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Transform/Subgraphs/Transform_MeshTerrain_Erosion_CoreProcess",
+      "object": "Transform_MeshTerrain_Erosion_CoreProcess",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Transform/Subgraphs/Transform_MeshTerrain_Erosion_CoreProcess.Transform_MeshTerrain_Erosion_CoreProcess",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Subgraphs/Write_MeshTerrain_AO_CoreProcess",
+      "object": "Write_MeshTerrain_AO_CoreProcess",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Subgraphs/Write_MeshTerrain_AO_CoreProcess.Write_MeshTerrain_AO_CoreProcess",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Subgraphs/Write_MeshTerrain_CoreProcess",
+      "object": "Write_MeshTerrain_CoreProcess",
+      "class": "None",
+      "loaded_class": "PCGGraph",
+      "loaded_path": "/PCGPrimitives_MeshPartitionInterop/Primitives/Write/Subgraphs/Write_MeshTerrain_CoreProcess.Write_MeshTerrain_CoreProcess",
+      "label": null,
+      "location": null,
+      "components": null
+    },
+    {
+      "package": "/MeshPartition/__ExternalActors__/UnitTests/MeshPartitionUnitTests/1/6F/FI42IZDT6J49V5UQD1F7TR",
+      "object": "WorldPartitionMiniMap_UAID_E04F43E6235376AC02_1828146895",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/MeshPartition/__ExternalActors__/UnitTests/MeshPartitionUnitTests/5/AN/0NC6ODC6NYWBKMZDGGKEJ9",
+      "object": "WorldDataLayers",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/2I/Q5W67OJBJ9DHDHCTTXM2MV",
+      "object": "Actor_UAID_387C76495919FFCA02_1518520698",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/GV/BBG47QAC2MU3ZLHZQMGZYX",
+      "object": "WorldPartitionMiniMap_UAID_387C76495919FFCA02_1263368687",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/JF/E9VQBKGV92JPBPOUMF73D5",
+      "object": "PCGVolume_UAID_387C76495919F3CB02_1910178640",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/VY/LQOFKRGJDTC82DAMOQW45W",
+      "object": "Actor_UAID_387C76495919FFCA02_1518519697",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/0/XG/ZAEDO8MEN20DTIZE1I3TVW",
+      "object": "StaticMeshActor_UAID_387C76495919FFCA02_1264446692",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/1/XD/19WS7KFDVWZ647M0B37DOS",
+      "object": "Actor_UAID_387C76495919FFCA02_1518528710",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/2/1C/FVZIBH9HVRU7UKPDJN0DO2",
+      "object": "Actor_UAID_387C76495919FFCA02_1518525706",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/4/HI/X0L63ZAB6869PA5CES7HN9",
+      "object": "Actor_UAID_387C76495919FFCA02_1518526707",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/4/TQ/5Y060I396N0PTVU8R5LHCN",
+      "object": "ExponentialHeightFog_UAID_387C76495919FFCA02_1264443689",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/5/8X/7TSTUATXWFKBPE9MJOYRXK",
+      "object": "MeshPartition_UAID_387C76495919FFCA02_1518518696",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/5/AV/NBCRP4G6F2PODG3J1HQDFY",
+      "object": "Actor_UAID_387C76495919FFCA02_1518523703",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/5/H6/7C32B5P9298XI1KMORKZXR",
+      "object": "Actor_UAID_387C76495919FFCA02_1518523702",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/5/JG/T2XRP7ZD1HAIZO26YJQ6I5",
+      "object": "SkyAtmosphere_UAID_387C76495919FFCA02_1264445690",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/7/C0/9E6J7RU80VOKK36U7ZFKO0",
+      "object": "Actor_UAID_387C76495919FFCA02_1518525705",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/8/0Y/UPZPQE3C4TOI6F5S4PJN58",
+      "object": "WorldDataLayers",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/8/5Q/RSX3RBRA6M8JVIM5NZKFW7",
+      "object": "VolumetricCloud_UAID_387C76495919FFCA02_1264447693",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/3Q/R7LAI59HOILLD922FNV6ZA",
+      "object": "SkyLight_UAID_387C76495919FFCA02_1264445691",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/4M/0TI0DS48I3CHR7GDPBFFVM",
+      "object": "Actor_UAID_387C76495919FFCA02_1518527708",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/5B/2GKBUA3DDKAIFTCD669APG",
+      "object": "StaticMeshActor_UAID_387C76495919EACB02_1680601047",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/DH/JBK0CXZT5ANQFCIVRH8WNN",
+      "object": "Actor_UAID_387C76495919FFCA02_1518524704",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/9/G1/LA9RL4M42ULT6TO93WRHZB",
+      "object": "PCGWorldActor_UAID_387C76495919F3CB02_1910198641",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/A/QZ/QU04X7A2P0VB44H1ZQO5UH",
+      "object": "Actor_UAID_387C76495919FFCA02_1518522700",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/C/7W/75VACII1RWM58L5ZQ5MHAO",
+      "object": "Actor_UAID_387C76495919FFCA02_1518529712",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/D/RN/EEQOQG76BZUA5HTLR6OKL0",
+      "object": "Actor_UAID_387C76495919FFCA02_1518527709",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/E/AG/V0JD8DK2LD1I65VFAVNPTH",
+      "object": "Actor_UAID_387C76495919FFCA02_1518521699",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/E/ED/2FNZG07WGR9D8B0AIQAOMM",
+      "object": "DirectionalLight_UAID_387C76495919FFCA02_1264440688",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/E/H5/MJTDOXCY9GXHA1BC15ZOXS",
+      "object": "Actor_UAID_387C76495919FFCA02_1518522701",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Basic/E/KP/6KEICM82R494H26ASCIYBB",
+      "object": "Actor_UAID_387C76495919FFCA02_1518529711",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/0/3X/7ECBCYB8RQW631L4YW67U4",
+      "object": "Actor_UAID_387C76498394F9B902_1917510683",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/0/8K/4YRG37F7Y57AAVL5IUTWX5",
+      "object": "VolumetricCloud_UAID_387C76498394F9B902_1599227684",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/2/PH/C9KKSAMHEG5KNFZ2I9X07E",
+      "object": "TextRenderActor_UAID_387C76498394F9B902_1599225681",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/3/F2/OYBO76V1Z2PF45PLJOBQ8W",
+      "object": "StaticMeshActor_UAID_387C76498394F9B902_1599228685",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/4/EX/3CVLY643VAQVTLNYBFUF3A",
+      "object": "TextRenderActor_UAID_387C76498394F9B902_1599224680",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/4/KW/BPSN6C84FZL6DC8ACQ6M1W",
+      "object": "Actor_UAID_387C76498394F9B902_1917507680",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/4/M2/JT7FS1YZAIT8WU02FBW23E",
+      "object": "SkyAtmosphere_UAID_387C76498394F9B902_1599230687",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/6/ER/34VI3UAR1YCR17UA3R9EAK",
+      "object": "SkyLight_UAID_387C76498394F9B902_1599229686",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/6/RG/457CD6RX8WODI2YG3GAZ81",
+      "object": "MeshPartition_UAID_387C76498394F9B902_1917505679",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/7/NP/DD2FZBD76TP6UXB4DE3FLE",
+      "object": "TextRenderActor_UAID_387C76498394F9B902_1599226682",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/8/C7/LHL8U4294861N7C7OYIHAQ",
+      "object": "PostProcessVolume_UAID_387C76498394F9B902_1599230688",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/8/DX/8FA5SSQDAN7XN9DVYT0969",
+      "object": "WorldPartitionMiniMap_UAID_387C76498394F9B902_1597625679",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/8/I6/7R3TKK0GFI3LH1BG4KF23V",
+      "object": "ExponentialHeightFog_UAID_387C76498394F9B902_1599231689",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/B/HY/U0W41OOWZ9WSSGB6X0S96Q",
+      "object": "Actor_UAID_387C76498394F9B902_1917509681",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/C/KU/WI07JYNLG5C99Q1VWMVLSP",
+      "object": "WorldDataLayers",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/E/C6/WNMF11X1X4GZSN6WFOPTVP",
+      "object": "DirectionalLight_UAID_387C76498394F9B902_1599232690",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/L_MeshTerrain_Default/E/P6/RE688ZQ3ZD9TCXIZSGX1AD",
+      "object": "Actor_UAID_387C76498394F9B902_1917509682",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/L_MeshTerrain_Basic/0/QW/AQZYBSG5T87NXGFQN5CPE2",
+      "object": "ActorFolder_UID_5DB44F7E-4A2237D1-F2A414A2-2A4D4D28",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/L_MeshTerrain_Default/2/G1/UO30BBRXXRJLK1KFSW2Y6U",
+      "object": "ActorFolder_UID_A669219C-4A616CA9-481E47B6-74053629",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/L_MeshTerrain_Default/5/RZ/1JJSLJ9QOX71A5KP1NFURU",
+      "object": "ActorFolder_UID_5321A325-4403596E-735414A4-F354B3DA",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/1/6K/SZJV7PHT08UKOO5NMW18AL",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409028270",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/1/CP/H40I4E7IE81BPOHK8X8S8A",
+      "object": "DirectionalLight_UAID_387C76495919AFC902_1428922552",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/1/Z1/1XCL7X3P7RPVD1XLK0NQY1",
+      "object": "Actor_UAID_387C76495919AFC902_1791004561",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/2/18/6QPTEOYLWS8V4FPLHJ6AZH",
+      "object": "SkyLight_UAID_387C76495919AFC902_1428925555",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/2/HR/GCARUTWXFIH262ZR0VG5UP",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409025268",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/5/NN/4XWQZFIM5LLRQ3E6G0B5WW",
+      "object": "ExponentialHeightFog_UAID_387C76495919AFC902_1428923553",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/6/74/UG9MMRFYV3VYYX70GZPJ08",
+      "object": "PCGWorldActor_UAID_387C76495919AFC902_1432586559",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/6/D3/8I7WFH7U6K59579GAMU8K0",
+      "object": "VolumetricCloud_UAID_387C76495919AFC902_1428927557",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/6/RE/IMSC6O1MSM5Q2YMGAYXAQI",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409030272",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/6/XL/FI2845U7GTRE55H4NGTBWG",
+      "object": "WorldPartitionMiniMap_UAID_387C76495919AFC902_1428146551",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/7/FE/OCZE4B127OLQ86R09TP4UF",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409023267",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/8/DX/JZMHKW4TU48X0VVFTSSA97",
+      "object": "MeshPartition_UAID_387C76495919AFC902_1791002560",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/9/7E/C5Z67JM2LX137B8LSE59CQ",
+      "object": "ModifierActor_UAID_387C76495919B3C902_1349659266",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/9/GX/Z267V6SY2DUV362H1FZGQF",
+      "object": "TextRenderActor_UAID_387C76495919BDC902_1786058036",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/A/6O/JV3I3B40JLDJIC3FQP6WDW",
+      "object": "TextRenderActor_UAID_387C76495919B8C902_1338742153",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/A/Q9/QU19ZXQR7A1SW70H5O6QOH",
+      "object": "WorldDataLayers",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/B/IO/32F8603KOCGWWXGPISV74R",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409026269",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/B/MN/TXC4MATVB1LAJNXEAI1JQ0",
+      "object": "StaticMeshActor_UAID_387C76495919AFC902_1428926556",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/D/2Y/0RHLHBGKYX1VP4GQZRWTXP",
+      "object": "TextRenderActor_UAID_387C76495919B8C902_1338744154",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/D/YV/IV2OBOBO4GRW2B1C7J9LXB",
+      "object": "TextRenderActor_UAID_387C76495919B8C902_1533160155",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/E/L8/S261UYRXOYLV4LZKXTEWFR",
+      "object": "TextRenderActor_UAID_387C76495919B3C902_1409028271",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/E/QW/CBVL8YHS4VS63EFSHXBLYK",
+      "object": "TextRenderActor_UAID_387C76495919BDC902_1839370037",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/E/TO/FB9EUAQRIP94Q12R35BEHC",
+      "object": "SkyAtmosphere_UAID_387C76495919AFC902_1428924554",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalActors__/Levels/UnitTests/L_TransformProject_UnitTest/F/4L/7VJP1ENOKI7YMV8BRCCHLH",
+      "object": "PCGVolume_UAID_387C76495919AFC902_1432561558",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/UnitTests/L_TransformProject_UnitTest/6/7W/XJ1TRUEDTSZYNEANIGLC8L",
+      "object": "ActorFolder_UID_F93545FE-478F8E8B-D95D0B81-2344ED5C",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    },
+    {
+      "package": "/PCGPrimitives_MeshPartitionInterop/__ExternalObjects__/Levels/UnitTests/L_TransformProject_UnitTest/6/HE/OGGAGY4P4N41CJ3LOD3M3E",
+      "object": "ActorFolder_UID_6B5AD7CE-487F41A2-E2A2B0A0-1197BF38",
+      "class": "None",
+      "error": "AttributeError(\"'NoneType' object has no attribute 'get_class'\")"
+    }
+  ],
+  "loaded_actor_count": 1845,
+  "loaded_actor_classes": {
+    "WorldDataLayers": 1,
+    "RecastNavMesh": 1,
+    "MeshPartition": 1,
+    "ExponentialHeightFog": 1,
+    "SkyAtmosphere": 1,
+    "DirectionalLight": 1,
+    "WorldPartitionMiniMap": 1,
+    "SkyLight": 1,
+    "Landscape": 1,
+    "PlayerStart": 1,
+    "NavMeshBoundsVolume": 1,
+    "StaticMeshActor": 1706,
+    "LandscapeStreamingProxy": 4,
+    "C17Robot": 11,
+    "TextRenderActor": 34,
+    "VRSuitStation": 11,
+    "RobotVRHub": 1,
+    "IntercomStation": 21,
+    "PointLight": 39,
+    "TargetPoint": 1,
+    "ServiceLift": 2,
+    "Actor": 4
+  },
+  "loaded_meshpartition_megamesh": [
+    {
+      "name": "MeshPartition_UAID_60CF84A9A659E20103_1522962665",
+      "label": "MeshPartition",
+      "class": "MeshPartition",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.MeshPartition_UAID_60CF84A9A659E20103_1522962665"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "timestamp": "2026-09-17T11:45:43.435840",
+  "methods": {},
+  "error": "Traceback (most recent call last):\n  File \"<string>\", line 6, in <module>\nAttributeError: module 'unreal' has no attribute 'get_editor_world'\n"
+}

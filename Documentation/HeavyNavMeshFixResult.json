@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-09-17T11:42:08.856840",
+  "meshes": {
+    "/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure": {
+      "path": "/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure.SM_TreeMaster_Structure",
+      "name": "SM_TreeMaster_Structure",
+      "before_collision_complexity": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "before_simple_collision_count": "0",
+      "before_convex_collision_count": "0",
+      "before_num_triangles": "634862",
+      "before_num_vertices": "589625",
+      "before_nav_collision": "<Object '/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure.SM_TreeMaster_Structure:NavCollision_0' (0x000001F117D56540) Class 'NavCollision'>",
+      "added_simple_collision_count": "0",
+      "collision_trace_flag_after_set": "<CollisionTraceFlag.CTF_USE_SIMPLE_AS_COMPLEX: 2>",
+      "saved": true,
+      "after_collision_complexity": "<CollisionTraceFlag.CTF_USE_SIMPLE_AS_COMPLEX: 2>",
+      "after_simple_collision_count": "0",
+      "after_convex_collision_count": "1",
+      "after_nav_collision": "<Object '/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure.SM_TreeMaster_Structure:NavCollision_0' (0x000001F117D56540) Class 'NavCollision'>"
+    },
+    "/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Solid": {
+      "path": "/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Solid.SM_LiftMaster_Solid",
+      "name": "SM_LiftMaster_Solid",
+      "before_collision_complexity": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "before_simple_collision_count": "0",
+      "before_convex_collision_count": "1",
+      "before_num_triangles": "502834",
+      "before_num_vertices": "682106",
+      "before_nav_collision": "<Object '/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Solid.SM_LiftMaster_Solid:NavCollision_2' (0x000001F117D56CC0) Class 'NavCollision'>",
+      "collision_trace_flag_after_set": "<CollisionTraceFlag.CTF_USE_SIMPLE_AS_COMPLEX: 2>",
+      "saved": true,
+      "after_collision_complexity": "<CollisionTraceFlag.CTF_USE_SIMPLE_AS_COMPLEX: 2>",
+      "after_simple_collision_count": "0",
+      "after_convex_collision_count": "1",
+      "after_nav_collision": "<Object '/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Solid.SM_LiftMaster_Solid:NavCollision_2' (0x000001F117D56CC0) Class 'NavCollision'>"
+    }
+  }
+}

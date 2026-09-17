@@ -1,0 +1,1176 @@
+{
+  "passed": true,
+  "checks": 130,
+  "tests": [
+    {
+      "robot": 1,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 1,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 1,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 1,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 1,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 1,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 1,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 1,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 1,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 1,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 1,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 1,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 1,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 2,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 2,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 2,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 2,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 2,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 2,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 2,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 2,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 2,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 2,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 2,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 2,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 2,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 3,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 3,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 3,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 3,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 3,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 3,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 3,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 3,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 3,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 3,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 3,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 3,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 3,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 4,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 4,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 4,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 4,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 4,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 4,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 4,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 4,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 4,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 4,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 4,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 4,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 4,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 5,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 5,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 5,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 5,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 5,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 5,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 5,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 5,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 5,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 5,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 5,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 5,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 5,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 6,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 6,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 6,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 6,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 6,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 6,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 6,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 6,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 6,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 6,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 6,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 6,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 6,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 7,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 7,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 7,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 7,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 7,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 7,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 7,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 7,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 7,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 7,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 7,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 7,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 7,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 8,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 8,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 8,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 8,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 8,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 8,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 8,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 8,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 8,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 8,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 8,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 8,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 8,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 9,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 9,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 9,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 9,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 9,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 9,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 9,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 9,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 9,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 9,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 9,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 9,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 9,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 10,
+      "point": [
+        0,
+        0
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 10,
+      "point": [
+        -32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 10,
+      "point": [
+        32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 10,
+      "point": [
+        -32799,
+        32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 10,
+      "point": [
+        32799,
+        -32799
+      ],
+      "expected": true,
+      "actual": true
+    },
+    {
+      "robot": 10,
+      "point": [
+        -33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 10,
+      "point": [
+        33000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 10,
+      "point": [
+        0,
+        -33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 10,
+      "point": [
+        0,
+        33000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 10,
+      "point": [
+        -34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 10,
+      "point": [
+        34000,
+        0
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 10,
+      "point": [
+        0,
+        -34000
+      ],
+      "expected": false,
+      "actual": false
+    },
+    {
+      "robot": 10,
+      "point": [
+        0,
+        34000
+      ],
+      "expected": false,
+      "actual": false
+    }
+  ]
+}

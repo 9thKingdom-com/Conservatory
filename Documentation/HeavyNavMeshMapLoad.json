@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-09-17T11:42:47.897348",
+  "map_loaded": true,
+  "loaded_actor_count": 1865,
+  "found_targets": [
+    "StaticMeshActor_5",
+    "StaticMeshActor_1858"
+  ],
+  "StaticMeshActor_5": {
+    "label": "TREE-MASTER | positional olive structure",
+    "class": "StaticMeshActor",
+    "component": {
+      "name": "StaticMeshComponent0",
+      "class": "StaticMeshComponent",
+      "static_mesh": "/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure.SM_TreeMaster_Structure"
+    }
+  },
+  "StaticMeshActor_1858": {
+    "label": "LIFT-MASTER | finished conservatory lift",
+    "class": "StaticMeshActor",
+    "component": {
+      "name": "StaticMeshComponent0",
+      "class": "StaticMeshComponent",
+      "static_mesh": "/Game/Conservatory/Architecture/LiftMaster/SM_LiftMaster_Solid.SM_LiftMaster_Solid"
+    }
+  }
+}

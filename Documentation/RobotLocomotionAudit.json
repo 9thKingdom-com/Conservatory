@@ -1,0 +1,38 @@
+{
+  "MM_Idle": {
+    "length": 7.566666603088379,
+    "additive": "<AdditiveAnimationType.AAT_NONE: 0>",
+    "root_motion": false,
+    "poses": [
+      "<Struct 'Transform' (0x0000024269BA8840) {rotation: {x: 0.086372, y: 0.073945, z: -0.006273, w: 0.993495}, translation: {x: -42.217991, y: 0.000005, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA88D0) {rotation: {x: 0.087322, y: 0.074393, z: -0.005278, w: 0.993385}, translation: {x: -42.217991, y: 0.000005, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA8840) {rotation: {x: 0.088880, y: 0.074825, z: -0.004566, w: 0.993217}, translation: {x: -42.217991, y: 0.000005, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA88D0) {rotation: {x: 0.089946, y: 0.074843, z: -0.003980, w: 0.993123}, translation: {x: -42.217991, y: 0.000005, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA8840) {rotation: {x: 0.090228, y: 0.075442, z: -0.004227, w: 0.993051}, translation: {x: -42.217991, y: 0.000005, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+    ]
+  },
+  "MM_Walk_InPlace": {
+    "length": 2.7333333492279053,
+    "additive": "<AdditiveAnimationType.AAT_NONE: 0>",
+    "root_motion": false,
+    "poses": [
+      "<Struct 'Transform' (0x0000024269BA88D0) {rotation: {x: 0.059509, y: 0.087748, z: 0.068565, w: 0.991997}, translation: {x: -42.217999, y: 0.000000, z: -0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA8840) {rotation: {x: 0.041965, y: 0.067017, z: -0.043170, w: 0.995934}, translation: {x: -42.217999, y: 0.000000, z: -0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA88D0) {rotation: {x: 0.045749, y: 0.060009, z: -0.080063, w: 0.993929}, translation: {x: -42.217999, y: 0.000000, z: -0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA8840) {rotation: {x: 0.025510, y: 0.051732, z: -0.011560, w: 0.998268}, translation: {x: -42.217999, y: 0.000000, z: -0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA88D0) {rotation: {x: 0.029932, y: 0.051921, z: 0.011337, w: 0.998138}, translation: {x: -42.217999, y: 0.000000, z: -0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+    ]
+  },
+  "MM_Walk_Fwd": {
+    "length": 2.7333333492279053,
+    "additive": "<AdditiveAnimationType.AAT_NONE: 0>",
+    "root_motion": false,
+    "poses": [
+      "<Struct 'Transform' (0x0000024269BA8840) {rotation: {x: 0.030621, y: 0.047190, z: 0.078243, w: 0.995346}, translation: {x: -42.217995, y: -0.000070, z: 0.000006}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA88D0) {rotation: {x: -0.036506, y: -0.005838, z: -0.018863, w: 0.999138}, translation: {x: -42.217995, y: -0.000070, z: 0.000006}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA8840) {rotation: {x: -0.040200, y: -0.032812, z: 0.086273, w: 0.994919}, translation: {x: -42.217995, y: -0.000070, z: 0.000006}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA88D0) {rotation: {x: -0.078217, y: -0.038142, z: -0.087305, w: 0.992373}, translation: {x: -42.217995, y: -0.000070, z: 0.000006}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "<Struct 'Transform' (0x0000024269BA8840) {rotation: {x: -0.064764, y: -0.011249, z: -0.061399, w: 0.995946}, translation: {x: -42.217995, y: -0.000070, z: 0.000006}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+    ]
+  }
+}

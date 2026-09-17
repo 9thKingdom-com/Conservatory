@@ -1,0 +1,60 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-16T11:22:57.974342",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "backup": "Saved/Backups/MeshPartitionRemoval/20260916-110827",
+  "actor_count_before": 1845,
+  "mesh_partition_actors": [
+    {
+      "name": "MeshPartition_UAID_60CF84A9A659E20103_1522962665",
+      "label": "MeshPartition",
+      "class": "MeshPartition",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "SceneComponent",
+        "SceneComponent",
+        "MeshPartitionEditorComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.MeshPartition_UAID_60CF84A9A659E20103_1522962665"
+    }
+  ],
+  "megamesh_component_actors": [],
+  "delete_targets": [
+    {
+      "name": "MeshPartition_UAID_60CF84A9A659E20103_1522962665",
+      "label": "MeshPartition",
+      "class": "MeshPartition",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "SceneComponent",
+        "SceneComponent",
+        "MeshPartitionEditorComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.MeshPartition_UAID_60CF84A9A659E20103_1522962665"
+    }
+  ],
+  "external_files_before": 1845,
+  "actor_count_after_destroy": 1844,
+  "saved": true,
+  "registry_leftover_packages": [
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/1/CK/SKTF0P7L97T1N14C8OQS4D"
+  ],
+  "explicitly_deleted_packages": [
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/1/CK/SKTF0P7L97T1N14C8OQS4D"
+  ],
+  "actor_count_after_reload": 1844,
+  "external_files_after": 1844,
+  "external_files_removed": 1,
+  "transforms_preserved": true,
+  "reload_verified": true
+}

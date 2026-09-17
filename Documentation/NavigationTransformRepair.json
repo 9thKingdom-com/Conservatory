@@ -1,0 +1,5 @@
+{
+  "before": "<Struct 'Transform' (0x00000228AD6EDD10) {rotation: {x: -0.000000, y: -0.000000, z: 0.384537, w: 0.923109}, translation: {x: -6561.438353, y: 4151.202392, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+  "after": "<Struct 'Transform' (0x00000228AD6EE340) {rotation: {x: 0.000000, y: -0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+  "rebuilt": true
+}

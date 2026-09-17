@@ -1,0 +1,22 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_Modular",
+  "upper_cm": [
+    -11600,
+    1411.0507229032305,
+    6244
+  ],
+  "lower_cm": [
+    -15000,
+    -2700,
+    3998
+  ],
+  "width_m": 2.5,
+  "depth_m": 2.35,
+  "upper_height_m": 4.32,
+  "clear_entrance_m": 1.48,
+  "upper_station_cm": [
+    -11600.0,
+    1411.0507229032305,
+    6336.0
+  ]
+}

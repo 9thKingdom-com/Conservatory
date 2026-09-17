@@ -1,0 +1,5 @@
+{
+  "map": "/Game/Conservatory/Maps/L_LandscapePaintStudy",
+  "material": "/Game/Conservatory/Environment/LandscapePaintStudy/M_PaintedValley.M_PaintedValley",
+  "target_layers": "{\"__LANDSCAPE_VISIBILITY__\": {}}"
+}

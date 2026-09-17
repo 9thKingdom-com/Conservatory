@@ -1,0 +1,48 @@
+{
+  "source_sha256": "a9fd366ab1804a17cae1b5ad7a4ba351dd3bd0e055fbe5cf407d44ebdaa36724",
+  "native_length_m": 3.121445152258052,
+  "floor_datum_m": 0.61,
+  "clear_width_m": 2.721445152258052,
+  "game_scale": 1.5,
+  "sockets": [
+    {
+      "name": "Attach_PositiveX",
+      "position_m": [
+        1.560722576129026,
+        0,
+        0.61
+      ],
+      "yaw": 0
+    },
+    {
+      "name": "Attach_NegativeX",
+      "position_m": [
+        -1.560722576129026,
+        0,
+        0.61
+      ],
+      "yaw": 180
+    }
+  ],
+  "meshes": {
+    "Body": {
+      "editable_parts": 788,
+      "triangles": 35092
+    },
+    "JoinFrame": {
+      "editable_parts": 180,
+      "triangles": 102832
+    }
+  },
+  "restored_master_details": [
+    "Corridor | barrel longitudinal glazing bar",
+    "Corridor | decorative side scroll",
+    "Corridor | foundation slab",
+    "Corridor | intermediate barrel hoop",
+    "Corridor | longitudinal entablature",
+    "Corridor | side dentil",
+    "Corridor | side plinth moulding",
+    "Corridor | walking surface paving"
+  ],
+  "assembly_rule": "Dome portal owns end frame. At a passage-to-passage seam place exactly one JoinFrame at the shared socket, offset down by floor datum. No duplicate end columns."
+}

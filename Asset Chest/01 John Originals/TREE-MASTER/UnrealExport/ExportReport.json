@@ -1,0 +1,180 @@
+{
+  "source": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Asset Chest\\01 John Originals\\TREE-MASTER\\TREE-MASTER.blend",
+  "materials": {
+    "Bark | weathered warm grey": {
+      "slot": "Tree00",
+      "color": [
+        0.1899999976158142,
+        0.13500000536441803,
+        0.07999999821186066
+      ],
+      "rough": 0.8899999856948853,
+      "metal": 0.0,
+      "foliage": false,
+      "back_color": null
+    },
+    "Olive foliage | silver underside 0": {
+      "slot": "Tree01",
+      "color": [
+        0.06499999761581421,
+        0.10499999672174454,
+        0.03799999877810478
+      ],
+      "rough": 0.6299999952316284,
+      "metal": 0.0,
+      "foliage": true,
+      "back_color": [
+        0.25,
+        0.28999999165534973,
+        0.20499999821186066
+      ]
+    },
+    "Olive foliage | silver underside 1": {
+      "slot": "Tree02",
+      "color": [
+        0.10000000149011612,
+        0.14499999582767487,
+        0.05900000035762787
+      ],
+      "rough": 0.6299999952316284,
+      "metal": 0.0,
+      "foliage": true,
+      "back_color": [
+        0.3400000035762787,
+        0.3700000047683716,
+        0.27000001072883606
+      ]
+    },
+    "Olive foliage | silver underside 2": {
+      "slot": "Tree03",
+      "color": [
+        0.14000000059604645,
+        0.1850000023841858,
+        0.07800000160932541
+      ],
+      "rough": 0.6299999952316284,
+      "metal": 0.0,
+      "foliage": true,
+      "back_color": [
+        0.38999998569488525,
+        0.4099999964237213,
+        0.3100000023841858
+      ]
+    },
+    "Olives | green to purple": {
+      "slot": "Tree04",
+      "color": [
+        0.07999999821186066,
+        0.10499999672174454,
+        0.02199999988079071
+      ],
+      "rough": 0.30000001192092896,
+      "metal": 0.0,
+      "foliage": true,
+      "back_color": null
+    },
+    "Leaf | forest": {
+      "slot": "Tree05",
+      "color": [
+        0.03959999978542328,
+        0.0807499960064888,
+        0.00863999966531992
+      ],
+      "rough": 0.6200000047683716,
+      "metal": 0.0,
+      "foliage": true,
+      "back_color": null
+    },
+    "Leaf | olive": {
+      "slot": "Tree06",
+      "color": [
+        0.1151999980211258,
+        0.18700000643730164,
+        0.020879998803138733
+      ],
+      "rough": 0.6200000047683716,
+      "metal": 0.0,
+      "foliage": true,
+      "back_color": null
+    },
+    "Leaf | young": {
+      "slot": "Tree07",
+      "color": [
+        0.19440001249313354,
+        0.289000004529953,
+        0.046799998730421066
+      ],
+      "rough": 0.6200000047683716,
+      "metal": 0.0,
+      "foliage": true,
+      "back_color": null
+    },
+    "Leaf | sage": {
+      "slot": "Tree08",
+      "color": [
+        0.07559999823570251,
+        0.1614999920129776,
+        0.030239999294281006
+      ],
+      "rough": 0.6200000047683716,
+      "metal": 0.0,
+      "foliage": true,
+      "back_color": null
+    },
+    "Circular base | recessed limestone": {
+      "slot": "Tree09",
+      "color": [
+        0.4300000071525574,
+        0.38499999046325684,
+        0.30000001192092896
+      ],
+      "rough": 0.699999988079071,
+      "metal": 0.0,
+      "foliage": false,
+      "back_color": null
+    },
+    "Circular base | pale warm limestone": {
+      "slot": "Tree10",
+      "color": [
+        0.5600000023841858,
+        0.5,
+        0.38999998569488525
+      ],
+      "rough": 0.699999988079071,
+      "metal": 0.0,
+      "foliage": false,
+      "back_color": null
+    },
+    "Planter | aged brass": {
+      "slot": "Tree11",
+      "color": [
+        0.4300000071525574,
+        0.2800000011920929,
+        0.09000000357627869
+      ],
+      "rough": 0.3199999928474426,
+      "metal": 0.7799999713897705,
+      "foliage": false,
+      "back_color": null
+    },
+    "Soil | cultivated earth": {
+      "slot": "Tree12",
+      "color": [
+        0.03200000151991844,
+        0.023000000044703484,
+        0.013000000268220901
+      ],
+      "rough": 1.0,
+      "metal": 0.0,
+      "foliage": false,
+      "back_color": null
+    }
+  },
+  "triangles": {
+    "Structure": 634862,
+    "Foliage": 1096032
+  },
+  "source_geometry_unchanged": true,
+  "units": "metres exported to Unreal centimetres",
+  "purpose": "Positional; re-export after John refines the master"
+}

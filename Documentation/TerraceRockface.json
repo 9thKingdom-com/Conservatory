@@ -1,0 +1,9 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_C17_Ready",
+  "actors_added": 46,
+  "existing_actor_transforms_preserved": true,
+  "rockface_top_cm": 6132.0,
+  "terrace_deck_bottom_cm": 6140,
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\TerraceRockface\\20260909-090859\\L_Exterior_C17_Ready.umap",
+  "source": "SourceAssets/TerraceRockface/Terrace-Rockface.blend"
+}

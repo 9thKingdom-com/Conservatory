@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-09-17T11:36:27.939060",
+  "try_props": {
+    "collision_complexity": "ERROR: StaticMesh: Failed to find property 'collision_complexity' for attribute 'collision_complexity' on 'StaticMesh'",
+    "collision_trace_flag": "ERROR: StaticMesh: Failed to find property 'collision_trace_flag' for attribute 'collision_trace_flag' on 'StaticMesh'",
+    "collision_settings": "ERROR: StaticMesh: Failed to find property 'collision_settings' for attribute 'collision_settings' on 'StaticMesh'",
+    "body_setup": "<Object '/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure.SM_TreeMaster_Structure:BodySetup_0' (0x0000016739107800) Class 'BodySetup'>",
+    "body_instance": "ERROR: StaticMesh: Failed to find property 'body_instance' for attribute 'body_instance' on 'StaticMesh'",
+    "nav_collision": "<Object '/Game/Conservatory/Botanical/TreeMaster/SM_TreeMaster_Structure.SM_TreeMaster_Structure:NavCollision_0' (0x0000016739481A40) Class 'NavCollision'>",
+    "collision_complexity_enum": "ERROR: StaticMesh: Failed to find property 'collision_complexity_enum' for attribute 'collision_complexity_enum' on 'StaticMesh'",
+    "collision_trace_enum": "ERROR: StaticMesh: Failed to find property 'collision_trace_enum' for attribute 'collision_trace_enum' on 'StaticMesh'",
+    "collision_complexity_value": "ERROR: StaticMesh: Failed to find property 'collision_complexity_value' for attribute 'collision_complexity_value' on 'StaticMesh'"
+  }
+}

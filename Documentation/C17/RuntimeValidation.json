@@ -1,0 +1,114 @@
+{
+  "clips": {
+    "Idle": {
+      "accepted": true,
+      "head_distance_from_actor_cm": 55.99999517441016,
+      "head_z_above_capsule_base_cm": 131.99999517440574,
+      "hand_r_cm": [
+        -0.8651799013041455,
+        37.47457518778174,
+        -1.6749236818695863
+      ],
+      "scale_and_pose_valid": true,
+      "bone_count": 39,
+      "hand_pose_changes": true
+    },
+    "Walk": {
+      "accepted": true,
+      "head_distance_from_actor_cm": 56.28108469726054,
+      "head_z_above_capsule_base_cm": 132.28108469725612,
+      "hand_r_cm": [
+        8.299638670667264,
+        37.669417513113785,
+        0.48620667606792267
+      ],
+      "scale_and_pose_valid": true,
+      "bone_count": 39,
+      "hand_pose_changes": true
+    },
+    "CarryWalk": {
+      "accepted": true,
+      "head_distance_from_actor_cm": 57.089150765294875,
+      "head_z_above_capsule_base_cm": 133.08915076529047,
+      "hand_r_cm": [
+        29.60652806754115,
+        20.57797721394877,
+        21.089139939595952
+      ],
+      "scale_and_pose_valid": true,
+      "bone_count": 39,
+      "hand_pose_changes": true
+    },
+    "Lift": {
+      "accepted": true,
+      "head_distance_from_actor_cm": 32.18909177291487,
+      "head_z_above_capsule_base_cm": 108.1890917729097,
+      "hand_r_cm": [
+        24.561087979460353,
+        20.24988941247466,
+        -19.8399038966254
+      ],
+      "scale_and_pose_valid": true,
+      "bone_count": 39,
+      "hand_pose_changes": true
+    },
+    "ShelfPick": {
+      "accepted": true,
+      "head_distance_from_actor_cm": 55.99999517441016,
+      "head_z_above_capsule_base_cm": 131.99999517440574,
+      "hand_r_cm": [
+        37.30644635018689,
+        20.644519045594734,
+        41.50871024363914
+      ],
+      "scale_and_pose_valid": true,
+      "bone_count": 39,
+      "hand_pose_changes": true
+    },
+    "Chop": {
+      "accepted": true,
+      "head_distance_from_actor_cm": 55.99999517441016,
+      "head_z_above_capsule_base_cm": 131.99999517440574,
+      "hand_r_cm": [
+        37.474707982328255,
+        12.74150126836662,
+        22.84596115017939
+      ],
+      "scale_and_pose_valid": true,
+      "bone_count": 39,
+      "hand_pose_changes": true
+    },
+    "BreakStone": {
+      "accepted": true,
+      "head_distance_from_actor_cm": 55.99999517441016,
+      "head_z_above_capsule_base_cm": 131.99999517440574,
+      "hand_r_cm": [
+        33.695690584690965,
+        13.90183386729609,
+        13.196727700058545
+      ],
+      "scale_and_pose_valid": true,
+      "bone_count": 39,
+      "hand_pose_changes": true
+    }
+  },
+  "patrol_distance_cm": [
+    289.91737554000144,
+    289.91737554000144
+  ],
+  "robot_positions_cm": [
+    [
+      -9280.0,
+      -1812.3409644800631,
+      6278.1499968245525
+    ],
+    [
+      -11930.0,
+      987.6590355199369,
+      6278.1499968245525
+    ]
+  ],
+  "patrol_passed": true,
+  "sensor_facing_dot_actor_forward": 0.9230771235682085,
+  "passed": true
+}

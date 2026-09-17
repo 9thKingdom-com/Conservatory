@@ -1,0 +1,287 @@
+{
+  "collision_enabled": true,
+  "buildings": [
+    {
+      "id": "V01",
+      "kind": "Cottage",
+      "travel_cm": 2059.2682373801545,
+      "distance_to_rear_cm": 20.73176261984554,
+      "capsule_z": 1109.6346923314445,
+      "floor_z": 1019.4847205688694,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V02",
+      "kind": "Cottage",
+      "travel_cm": 2056.2286343971705,
+      "distance_to_rear_cm": 23.771365602829064,
+      "capsule_z": 1033.0971404759305,
+      "floor_z": 942.9536438054562,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V03",
+      "kind": "Cottage",
+      "travel_cm": 2057.5531365940383,
+      "distance_to_rear_cm": 22.446863405961267,
+      "capsule_z": 842.3727283617176,
+      "floor_z": 752.2673932460746,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V04",
+      "kind": "Cottage",
+      "travel_cm": 2058.073715482415,
+      "distance_to_rear_cm": 21.926284517584918,
+      "capsule_z": 1010.6416609639199,
+      "floor_z": 920.5391879279236,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V05",
+      "kind": "Cottage",
+      "travel_cm": 2057.212557614298,
+      "distance_to_rear_cm": 22.78744238570198,
+      "capsule_z": 1007.2268147231089,
+      "floor_z": 917.1846304216223,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V06",
+      "kind": "Cottage",
+      "travel_cm": 2056.713480256595,
+      "distance_to_rear_cm": 23.286519743404824,
+      "capsule_z": 882.1194795286414,
+      "floor_z": 792.0700795922523,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V07",
+      "kind": "Cottage",
+      "travel_cm": 2056.592236545077,
+      "distance_to_rear_cm": 23.407763454923042,
+      "capsule_z": 1012.3467212939148,
+      "floor_z": 922.3113799273875,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V08",
+      "kind": "Cottage",
+      "travel_cm": 2056.987000072937,
+      "distance_to_rear_cm": 23.012999927062992,
+      "capsule_z": 890.572526020144,
+      "floor_z": 800.5323052037883,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V09",
+      "kind": "Cottage",
+      "travel_cm": 2057.095279825079,
+      "distance_to_rear_cm": 22.90472017492084,
+      "capsule_z": 849.4545281772351,
+      "floor_z": 759.4192300503913,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V10",
+      "kind": "Cottage",
+      "travel_cm": 2057.7815205465085,
+      "distance_to_rear_cm": 22.218479453491454,
+      "capsule_z": 1065.3580963607544,
+      "floor_z": 975.26023169102,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V11",
+      "kind": "Cottage",
+      "travel_cm": 2056.5674355021447,
+      "distance_to_rear_cm": 23.43256449785531,
+      "capsule_z": 700.3331904641141,
+      "floor_z": 610.2973385505773,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V12",
+      "kind": "Cottage",
+      "travel_cm": 2056.5251194325165,
+      "distance_to_rear_cm": 23.474880567483524,
+      "capsule_z": 723.7748397064586,
+      "floor_z": 633.7388742243099,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V13",
+      "kind": "Store",
+      "travel_cm": 2105.414402333693,
+      "distance_to_rear_cm": 24.58559766630674,
+      "capsule_z": 887.6084453498021,
+      "floor_z": 797.5722652295099,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V14",
+      "kind": "Workshop",
+      "travel_cm": 2106.714748828673,
+      "distance_to_rear_cm": 23.285251171327218,
+      "capsule_z": 829.2135340034564,
+      "floor_z": 739.1128858549986,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V15",
+      "kind": "Workshop",
+      "travel_cm": 2105.4151082003455,
+      "distance_to_rear_cm": 24.58489179965477,
+      "capsule_z": 1346.2431441588471,
+      "floor_z": 1256.2066286119446,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V16",
+      "kind": "Cottage",
+      "travel_cm": 2056.51199073091,
+      "distance_to_rear_cm": 23.48800926909007,
+      "capsule_z": 729.3564240286867,
+      "floor_z": 639.3205418055722,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V17",
+      "kind": "Cottage",
+      "travel_cm": 2056.5057580665416,
+      "distance_to_rear_cm": 22.993147286408202,
+      "capsule_z": 897.0679650229325,
+      "floor_z": 806.9947826058795,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V18",
+      "kind": "Cottage",
+      "travel_cm": 2056.537734183432,
+      "distance_to_rear_cm": 23.462265816568106,
+      "capsule_z": 1029.1120722692772,
+      "floor_z": 939.0747807835978,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V19",
+      "kind": "Cottage",
+      "travel_cm": 2056.6071983631336,
+      "distance_to_rear_cm": 23.389153221884044,
+      "capsule_z": 924.077351352482,
+      "floor_z": 834.0377790827702,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V20",
+      "kind": "Workshop",
+      "travel_cm": 2105.885595690881,
+      "distance_to_rear_cm": 23.93769789072394,
+      "capsule_z": 971.4282472773631,
+      "floor_z": 881.378771555097,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V21",
+      "kind": "Cottage",
+      "travel_cm": 2056.963072966966,
+      "distance_to_rear_cm": 23.036927033033862,
+      "capsule_z": 755.044611533968,
+      "floor_z": 664.9786469384705,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V22",
+      "kind": "Cottage",
+      "travel_cm": 2056.729309175391,
+      "distance_to_rear_cm": 23.270690824610938,
+      "capsule_z": 819.3111101054056,
+      "floor_z": 729.2750850546707,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V23",
+      "kind": "Cottage",
+      "travel_cm": 2056.502918469032,
+      "distance_to_rear_cm": 21.73763257112114,
+      "capsule_z": 663.3235101598094,
+      "floor_z": 573.1891884110563,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V24",
+      "kind": "Workshop",
+      "travel_cm": 2105.930316764827,
+      "distance_to_rear_cm": 23.303481132261368,
+      "capsule_z": 728.5623394403096,
+      "floor_z": 638.4725175540254,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V25",
+      "kind": "Farmhouse",
+      "travel_cm": 2158.8145444693655,
+      "distance_to_rear_cm": 21.1854555306345,
+      "capsule_z": 1266.5673973811452,
+      "floor_z": 1176.5254436975051,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V26",
+      "kind": "Barn",
+      "travel_cm": 2305.4637598031004,
+      "distance_to_rear_cm": 24.5362401968996,
+      "capsule_z": 1055.2939979891041,
+      "floor_z": 965.2564247574272,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V27",
+      "kind": "Farmhouse",
+      "travel_cm": 2158.761393420755,
+      "distance_to_rear_cm": 21.238606579244788,
+      "capsule_z": 859.6849093104969,
+      "floor_z": 769.647417278245,
+      "navigation_path": true,
+      "passed": true
+    },
+    {
+      "id": "V28",
+      "kind": "Barn",
+      "travel_cm": 2306.144834802351,
+      "distance_to_rear_cm": 23.855165197648603,
+      "capsule_z": 822.519996846572,
+      "floor_z": 732.43159401215,
+      "navigation_path": true,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "tested_at_unix": 1789104955.2661266
+}

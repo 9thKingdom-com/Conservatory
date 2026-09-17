@@ -1,0 +1,11 @@
+{
+  "Gravel": true,
+  "Asphalt": true,
+  "Soil": true,
+  "target_layers": [
+    "Gravel",
+    "Asphalt",
+    "Soil"
+  ],
+  "saved": true
+}

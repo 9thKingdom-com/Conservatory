@@ -1,0 +1,28 @@
+{
+  "source_references": [
+    "References/robot-1a.png",
+    "References/robot-1b.png",
+    "References/robot-1c.png"
+  ],
+  "body_height_m": 1.805,
+  "antenna_height_m": 1.91,
+  "scale_note": "Assumed human-scale 1.8 m body; reference drawings have no measured dimension.",
+  "editable_mesh_parts": 830,
+  "base_mesh_triangles": 218988,
+  "bones": 34,
+  "materials": [
+    "Safety yellow",
+    "Chassis graphite",
+    "Machined steel",
+    "Dark titanium",
+    "Rubber",
+    "Recess black",
+    "Optical glass",
+    "Stencil ivory",
+    "Amber indicator",
+    "Copper"
+  ],
+  "rig": "Rigid single-bone weights; FK poseable joints, not animation-retargeted.",
+  "game_robot_replaced": false,
+  "master_file": "C17-Detailed-Reference.blend"
+}

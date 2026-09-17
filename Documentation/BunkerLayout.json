@@ -1,0 +1,179 @@
+{
+  "rooms": [
+    {
+      "name": "Seed laboratory",
+      "centre": [
+        -154,
+        -15,
+        40
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Library & study",
+      "centre": [
+        -136,
+        -15,
+        40
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Sleeping quarters",
+      "centre": [
+        -154,
+        0,
+        40
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Food reserve",
+      "centre": [
+        -136,
+        0,
+        40
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Clinic",
+      "centre": [
+        -154,
+        15,
+        40
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Kitchen & washrooms",
+      "centre": [
+        -136,
+        15,
+        40
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Water & pumping",
+      "centre": [
+        -154,
+        -15,
+        34
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Air & oxygen",
+      "centre": [
+        -136,
+        -15,
+        34
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Power reserve",
+      "centre": [
+        -154,
+        0,
+        34
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Workshop",
+      "centre": [
+        -136,
+        0,
+        34
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Waste treatment",
+      "centre": [
+        -154,
+        15,
+        34
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    },
+    {
+      "name": "Equipment stores",
+      "centre": [
+        -136,
+        15,
+        34
+      ],
+      "size": [
+        12,
+        14,
+        3.6
+      ]
+    }
+  ],
+  "main_floor_m": 40,
+  "utilities_floor_m": 34,
+  "spiral": {
+    "treads": 49,
+    "rise_cm": 12.5,
+    "turn_degrees": 540,
+    "headroom_per_turn_m": 4
+  },
+  "lift_top_cm": [
+    -11600.0,
+    1411.0507229032305,
+    6336.0
+  ],
+  "lift_bottom_cm": [
+    -15000,
+    -2700,
+    4090
+  ],
+  "simulation": "Architectural equipment only; no resource consumption or inventory"
+}

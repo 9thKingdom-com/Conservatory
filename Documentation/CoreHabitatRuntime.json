@@ -1,0 +1,39 @@
+{
+  "lift_down": true,
+  "bunker_arrival": true,
+  "lift_up": true,
+  "habitat_arrival": true,
+  "walkways": [
+    {
+      "direction": 0,
+      "travel_cm": 3775.567859465832,
+      "capsule_z": 6332.89999628067,
+      "passed": true
+    },
+    {
+      "direction": 1,
+      "travel_cm": 3772.467068898729,
+      "capsule_z": 6332.89999628067,
+      "passed": true
+    },
+    {
+      "direction": 2,
+      "travel_cm": 3769.5971858560006,
+      "capsule_z": 6332.90026807785,
+      "passed": true
+    },
+    {
+      "direction": 3,
+      "travel_cm": 3773.6366035321307,
+      "capsule_z": 6332.900266165164,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "tested_origin_cm": [
+    -11000,
+    0,
+    6230.95
+  ],
+  "tested_at_unix": 1789050620.3076477
+}

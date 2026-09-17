@@ -1,0 +1,731 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-16T15:16:07.495593",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "actor_count": 1867,
+  "robots": [
+    {
+      "id": 1,
+      "name": "C17Robot_0",
+      "label": "Outdoor robot 01",
+      "location": [
+        -14000.0,
+        5000.0,
+        6274.969052796208
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 2,
+      "name": "C17Robot_1",
+      "label": "Outdoor robot 02",
+      "location": [
+        -5000.0,
+        -5000.0,
+        4159.395864805061
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 3,
+      "name": "C17Robot_2",
+      "label": "Outdoor robot 03",
+      "location": [
+        14000.0,
+        -1450.0,
+        4771.879052224016
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 4,
+      "name": "C17Robot_3",
+      "label": "Outdoor robot 04",
+      "location": [
+        24000.0,
+        -6280.0,
+        2599.3512296864064
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 5,
+      "name": "C17Robot_4",
+      "label": "Outdoor robot 05",
+      "location": [
+        -32500.0,
+        -22000.0,
+        3027.1401711246144
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 6,
+      "name": "C17Robot_5",
+      "label": "Outdoor robot 06",
+      "location": [
+        -32500.0,
+        27000.0,
+        7664.687710879356
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 7,
+      "name": "C17Robot_6",
+      "label": "Outdoor robot 07",
+      "location": [
+        0.0,
+        30000.0,
+        8387.38412680247
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 8,
+      "name": "C17Robot_7",
+      "label": "Outdoor robot 08",
+      "location": [
+        32500.0,
+        32500.0,
+        3828.8250398547098
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 9,
+      "name": "C17Robot_8",
+      "label": "Outdoor robot 09",
+      "location": [
+        32500.0,
+        -29280.0,
+        954.0162348363228
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 10,
+      "name": "C17Robot_9",
+      "label": "Outdoor robot 10",
+      "location": [
+        5000.0,
+        -32500.0,
+        1512.3999275732785
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": true,
+      "wander_enabled": true,
+      "patrol_enabled": true,
+      "limit_terrain_wander": true,
+      "wander_bounds_min": [
+        -33000.0,
+        -33000.0,
+        439.84375
+      ],
+      "wander_bounds_max": [
+        33000.0,
+        33000.0,
+        25098.4375
+      ]
+    },
+    {
+      "id": 11,
+      "name": "C17Robot_10",
+      "label": "Indoor robot 11 - charging dock",
+      "location": [
+        -15799.39296235928,
+        -1114.1233669424937,
+        6346.35
+      ],
+      "folder": "10 Wandering Mannequins",
+      "is_spatially_loaded": false,
+      "terrain_wander": false,
+      "wander_enabled": false,
+      "patrol_enabled": false,
+      "limit_terrain_wander": false,
+      "wander_bounds_min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "wander_bounds_max": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "habitat_union_bounds": {
+    "min": [
+      -19244.225954498714,
+      -6314.0438719569265,
+      6231.222536277771
+    ],
+    "max": [
+      -8949.685135671005,
+      3557.7661936395725,
+      9177.302294921876
+    ],
+    "actor_count": 119
+  },
+  "habitat_actors_sample": [
+    {
+      "name": "StaticMeshActor_1926",
+      "label": "Core habitat | West bay 2",
+      "box": {
+        "min": [
+          -17634.75986593281,
+          -4373.432688091004,
+          6231.317832183838
+        ],
+        "max": [
+          -16886.866901571793,
+          -3503.3103164185313,
+          8007.050952148437
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_2055",
+      "label": "Core habitat | North walkway Frame",
+      "box": {
+        "min": [
+          -16995.017058144294,
+          -360.38189510034795,
+          6231.222536277772
+        ],
+        "max": [
+          -15337.223693850028,
+          1289.986621250601,
+          7052.0439331054695
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_2052",
+      "label": "Core habitat | East walkway Frame",
+      "box": {
+        "min": [
+          -13290.563977642158,
+          -349.23606700912035,
+          6231.222536277772
+        ],
+        "max": [
+          -11640.195461291218,
+          1308.5572972851533,
+          7052.0439331054695
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1879",
+      "label": "Core habitat | Centre bay 20",
+      "box": {
+        "min": [
+          -13847.422418611814,
+          -2503.523867648758,
+          6231.317832183839
+        ],
+        "max": [
+          -12647.973098969074,
+          -1519.2042304880688,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1270",
+      "label": "Core habitat | Centre bay 6",
+      "box": {
+        "min": [
+          -15405.158669776503,
+          -898.7507512559606,
+          6231.317832183839
+        ],
+        "max": [
+          -14415.311169559178,
+          299.8744720458309,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1257",
+      "label": "Core habitat | Centre bay 2",
+      "box": {
+        "min": [
+          -14167.255530371043,
+          -917.2403360700552,
+          6231.317832183839
+        ],
+        "max": [
+          -13182.935893210306,
+          282.2089835726789,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1256",
+      "label": "Core habitat | Centre bay 1",
+      "box": {
+        "min": [
+          -13985.691050105077,
+          -1084.1779906693632,
+          6231.674315643311
+        ],
+        "max": [
+          -12865.401235504956,
+          39.34519098833516,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1259",
+      "label": "Core habitat | Centre bay 4",
+      "box": {
+        "min": [
+          -14547.751806296232,
+          -688.8797056973062,
+          6231.317832183839
+        ],
+        "max": [
+          -14032.734963817506,
+          402.8804431342601,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1932",
+      "label": "Core habitat | West bay 8",
+      "box": {
+        "min": [
+          -18794.280843116132,
+          -5361.100978289136,
+          6231.317832183838
+        ],
+        "max": [
+          -17922.63651146373,
+          -4609.339226602984,
+          8007.050952148437
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1943",
+      "label": "Core habitat | West Glass",
+      "box": {
+        "min": [
+          -19217.744872523264,
+          -6314.0438719569265,
+          6242.750000190734
+        ],
+        "max": [
+          -15967.908300568484,
+          -3064.2073000021446,
+          8318.95
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1260",
+      "label": "Core habitat | Centre bay 5",
+      "box": {
+        "min": [
+          -15000.024464717637,
+          -773.2025233683518,
+          6231.317832183839
+        ],
+        "max": [
+          -14221.049360346766,
+          412.38818649632697,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1930",
+      "label": "Core habitat | West bay 6",
+      "box": {
+        "min": [
+          -18778.64185610689,
+          -4731.058865366496,
+          6231.317832183838
+        ],
+        "max": [
+          -17908.519484434426,
+          -3983.1659010055027,
+          8007.050952148437
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1273",
+      "label": "Core habitat | Centre bay 9",
+      "box": {
+        "min": [
+          -16088.642333684953,
+          -1426.791783848169,
+          6231.317832183839
+        ],
+        "max": [
+          -14904.747608073756,
+          -655.2076747268638,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1876",
+      "label": "Core habitat | Centre bay 17",
+      "box": {
+        "min": [
+          -14395.592483054133,
+          -3168.6658648136727,
+          6231.317832183839
+        ],
+        "max": [
+          -13616.61737868319,
+          -1983.0751549489778,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1885",
+      "label": "Core habitat | Centre Floor",
+      "box": {
+        "min": [
+          -16719.712385910403,
+          -3789.530303368602,
+          6231.320000004767
+        ],
+        "max": [
+          -11896.929457490558,
+          1033.2526250512396,
+          6242.750000190736
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1929",
+      "label": "Core habitat | West bay 5",
+      "box": {
+        "min": [
+          -18598.25564763825,
+          -4533.327868095031,
+          6231.317832183838
+        ],
+        "max": [
+          -17720.498285187543,
+          -3656.840599451264,
+          8007.050952148437
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1884",
+      "label": "Core habitat | Centre Cap",
+      "box": {
+        "min": [
+          -15336.772939913739,
+          -2406.5908268634203,
+          8449.9490234375
+        ],
+        "max": [
+          -13279.885409975523,
+          -349.7034043593676,
+          9177.302294921876
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_2060",
+      "label": "Core habitat | West walkway Glass",
+      "box": {
+        "min": [
+          -16942.764283862572,
+          -4031.4047048640728,
+          6242.750000190736
+        ],
+        "max": [
+          -15358.66855968743,
+          -2439.3717216818245,
+          7026.950000000001
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1878",
+      "label": "Core habitat | Centre bay 19",
+      "box": {
+        "min": [
+          -14014.36007321113,
+          -2821.058525354155,
+          6231.674315643311
+        ],
+        "max": [
+          -12890.836891553412,
+          -1700.7687107540523,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1293",
+      "label": "Core habitat | Centre bay 16",
+      "box": {
+        "min": [
+          -14583.906879583403,
+          -3159.1581214516427,
+          6231.317832183839
+        ],
+        "max": [
+          -14068.890037104593,
+          -2067.3979726200378,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1886",
+      "label": "Core habitat | Centre Glass",
+      "box": {
+        "min": [
+          -16745.698350666567,
+          -3815.516268124768,
+          6242.750000190734
+        ],
+        "max": [
+          -11870.943492734394,
+          1059.2385898074058,
+          8937.95
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1940",
+      "label": "Core habitat | West bay 16",
+      "box": {
+        "min": [
+          -17263.016661628008,
+          -4768.911945356096,
+          6231.317832183838
+        ],
+        "max": [
+          -16391.372329975613,
+          -4017.1501936699533,
+          8007.050952148437
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_1291",
+      "label": "Core habitat | Centre bay 14",
+      "box": {
+        "min": [
+          -15433.70595019053,
+          -3038.4866618901005,
+          6231.317832183839
+        ],
+        "max": [
+          -14449.386313029854,
+          -1839.0373422473585,
+          8470.1013671875
+        ]
+      }
+    },
+    {
+      "name": "StaticMeshActor_2063",
+      "label": "Core habitat | South walkway Glass",
+      "box": {
+        "min": [
+          -13247.088039177339,
+          -4012.582201320774,
+          6242.750000190736
+        ],
+        "max": [
+          -11655.05505599509,
+          -2428.4864771456328,
+          7026.950000000001
+        ]
+      }
+    }
+  ],
+  "nav_actors": [
+    {
+      "name": "RecastNavMesh-Default",
+      "class": "RecastNavMesh",
+      "label": "RecastNavMesh-Default",
+      "folder": "None",
+      "bounds": {
+        "min": [
+          -62244.0,
+          -62244.0,
+          690.0
+        ],
+        "max": [
+          62244.0,
+          62244.0,
+          17190.0
+        ]
+      }
+    },
+    {
+      "name": "NavMeshBoundsVolume_0",
+      "class": "NavMeshBoundsVolume",
+      "label": "Robot navigation - whole terrain",
+      "folder": "10 Wandering Mannequins",
+      "bounds": {
+        "min": [
+          -62000.0,
+          -62000.0,
+          -7000.0
+        ],
+        "max": [
+          62000.0,
+          62000.0,
+          17000.0
+        ]
+      }
+    }
+  ]
+}

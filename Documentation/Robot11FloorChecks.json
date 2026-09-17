@@ -1,0 +1,62 @@
+[
+  [
+    40,
+    240,
+    "(True, False, 0.6143076419830322, 129.00460815429688, <Struct 'Vector' (0x000001D108E76F40) {x: -15799.272512, y: -1144.123125, z: 6174.995395}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15799.272512, y: -1144.123125, z: 6174.995398}>, <Struct 'Vector' (0x000001D10B430AB0) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_26' (0x000001D19E3A6400) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7432, <Struct 'Vector' (0x000001D1954D9960) {x: -15799.272512, y: -1144.123125, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15799.272512, y: -1144.123125, z: 6094.000000}>)"
+  ],
+  [
+    40,
+    280,
+    "(True, False, 0.6143076419830322, 129.00460815429688, <Struct 'Vector' (0x000001D108E76F40) {x: -15799.433112, y: -1104.123448, z: 6174.995395}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15799.433112, y: -1104.123448, z: 6174.995398}>, <Struct 'Vector' (0x000001D10B430A60) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_26' (0x000001D19E3A6400) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7432, <Struct 'Vector' (0x000001D1954D9960) {x: -15799.433112, y: -1104.123448, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15799.433112, y: -1104.123448, z: 6094.000000}>)"
+  ],
+  [
+    40,
+    320,
+    "(True, False, 0.6143076419830322, 129.00460815429688, <Struct 'Vector' (0x000001D108E76F40) {x: -15799.593712, y: -1064.123770, z: 6174.995395}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15799.593712, y: -1064.123770, z: 6174.995398}>, <Struct 'Vector' (0x000001D10B430AB0) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_26' (0x000001D19E3A6400) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7432, <Struct 'Vector' (0x000001D1954D9960) {x: -15799.593712, y: -1064.123770, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15799.593712, y: -1064.123770, z: 6094.000000}>)"
+  ],
+  [
+    140,
+    240,
+    "(True, False, 0.614487886428833, 129.04244995117188, <Struct 'Vector' (0x000001D108E76F40) {x: -15699.273318, y: -1143.721625, z: 6174.957544}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15699.273318, y: -1143.721625, z: 6174.957549}>, <Struct 'Vector' (0x000001D10B430A60) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27' (0x000001D19E3A6E00) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7309, <Struct 'Vector' (0x000001D1954D9960) {x: -15699.273318, y: -1143.721625, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15699.273318, y: -1143.721625, z: 6094.000000}>)"
+  ],
+  [
+    140,
+    280,
+    "(True, False, 0.614487886428833, 129.04244995117188, <Struct 'Vector' (0x000001D108E76F40) {x: -15699.433918, y: -1103.721947, z: 6174.957544}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15699.433918, y: -1103.721947, z: 6174.957549}>, <Struct 'Vector' (0x000001D10B430AB0) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27' (0x000001D19E3A6E00) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7309, <Struct 'Vector' (0x000001D1954D9960) {x: -15699.433918, y: -1103.721947, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15699.433918, y: -1103.721947, z: 6094.000000}>)"
+  ],
+  [
+    140,
+    320,
+    "(True, False, 0.614487886428833, 129.04244995117188, <Struct 'Vector' (0x000001D108E76F40) {x: -15699.594518, y: -1063.722270, z: 6174.957544}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15699.594518, y: -1063.722270, z: 6174.957549}>, <Struct 'Vector' (0x000001D10B430A60) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27' (0x000001D19E3A6E00) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7309, <Struct 'Vector' (0x000001D1954D9960) {x: -15699.594518, y: -1063.722270, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15699.594518, y: -1063.722270, z: 6094.000000}>)"
+  ],
+  [
+    240,
+    240,
+    "(True, False, 0.614487886428833, 129.04244995117188, <Struct 'Vector' (0x000001D108E76F40) {x: -15599.274124, y: -1143.320125, z: 6174.957544}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15599.274124, y: -1143.320125, z: 6174.957549}>, <Struct 'Vector' (0x000001D10B430AB0) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27' (0x000001D19E3A6E00) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7308, <Struct 'Vector' (0x000001D1954D9960) {x: -15599.274124, y: -1143.320125, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15599.274124, y: -1143.320125, z: 6094.000000}>)"
+  ],
+  [
+    240,
+    280,
+    "(True, False, 0.614487886428833, 129.04244995117188, <Struct 'Vector' (0x000001D108E76F40) {x: -15599.434724, y: -1103.320447, z: 6174.957544}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15599.434724, y: -1103.320447, z: 6174.957549}>, <Struct 'Vector' (0x000001D10B430A60) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27' (0x000001D19E3A6E00) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7308, <Struct 'Vector' (0x000001D1954D9960) {x: -15599.434724, y: -1103.320447, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15599.434724, y: -1103.320447, z: 6094.000000}>)"
+  ],
+  [
+    240,
+    320,
+    "(True, False, 0.614487886428833, 129.04244995117188, <Struct 'Vector' (0x000001D108E76F40) {x: -15599.595324, y: -1063.320770, z: 6174.957544}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15599.595324, y: -1063.320770, z: 6174.957549}>, <Struct 'Vector' (0x000001D10B430AB0) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27' (0x000001D19E3A6E00) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7309, <Struct 'Vector' (0x000001D1954D9960) {x: -15599.595324, y: -1063.320770, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15599.595324, y: -1063.320770, z: 6094.000000}>)"
+  ],
+  [
+    340,
+    240,
+    "(True, False, 0.614487886428833, 129.04244995117188, <Struct 'Vector' (0x000001D108E76F40) {x: -15499.274930, y: -1142.918625, z: 6174.957544}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15499.274930, y: -1142.918625, z: 6174.957549}>, <Struct 'Vector' (0x000001D10B430A60) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27' (0x000001D19E3A6E00) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7311, <Struct 'Vector' (0x000001D1954D9960) {x: -15499.274930, y: -1142.918625, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15499.274930, y: -1142.918625, z: 6094.000000}>)"
+  ],
+  [
+    340,
+    280,
+    "(True, False, 0.614487886428833, 129.04244995117188, <Struct 'Vector' (0x000001D108E76F40) {x: -15499.435530, y: -1102.918947, z: 6174.957544}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15499.435530, y: -1102.918947, z: 6174.957549}>, <Struct 'Vector' (0x000001D10B430AB0) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27' (0x000001D19E3A6E00) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7311, <Struct 'Vector' (0x000001D1954D9960) {x: -15499.435530, y: -1102.918947, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15499.435530, y: -1102.918947, z: 6094.000000}>)"
+  ],
+  [
+    340,
+    320,
+    "(True, False, 0.614487886428833, 129.04244995117188, <Struct 'Vector' (0x000001D108E76F40) {x: -15499.596130, y: -1062.919270, z: 6174.957544}>, <Struct 'Vector' (0x000001D10B430A10) {x: -15499.596130, y: -1062.919270, z: 6174.957549}>, <Struct 'Vector' (0x000001D10B430A60) {x: 0.000000, y: 0.000000, z: 1.000000}>, <Struct 'Vector' (0x000001D10B4309C0) {x: 0.000000, y: 0.000000, z: 1.000000}>, None, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0' (0x000001D17A1F9000) Class 'Landscape'>, <Object '/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27' (0x000001D19E3A6E00) Class 'LandscapeHeightfieldCollisionComponent'>, Name(\"None\"), Name(\"None\"), -1, 1, 7311, <Struct 'Vector' (0x000001D1954D9960) {x: -15499.596130, y: -1062.919270, z: 6304.000000}>, <Struct 'Vector' (0x000001D1954D9A00) {x: -15499.596130, y: -1062.919270, z: 6094.000000}>)"
+  ]
+]

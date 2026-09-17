@@ -1,0 +1,43 @@
+{
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\FiveDomeLayout\\Before-midpoint-pillars-20260910-160859.blend",
+  "added": [
+    "East | Midpoint | Left pillar",
+    "East | Midpoint | Right pillar",
+    "East | Midpoint | Roof arch",
+    "North | Midpoint | Left pillar",
+    "North | Midpoint | Right pillar",
+    "North | Midpoint | Roof arch",
+    "West | Midpoint | Left pillar",
+    "West | Midpoint | Right pillar",
+    "West | Midpoint | Roof arch",
+    "South | Midpoint | Left pillar",
+    "South | Midpoint | Right pillar",
+    "South | Midpoint | Roof arch"
+  ],
+  "pillars_added": 8,
+  "roof_arches_added": 4,
+  "pillar_positions_per_side": 7,
+  "status": "Added matching pillar pairs and roof arches at all four walkway midpoints; viewport inspected and centre routes clear.",
+  "checks": [
+    {
+      "walkway": "East",
+      "midpoint": 26.1606502532959,
+      "centre_path_clear": true
+    },
+    {
+      "walkway": "North",
+      "midpoint": 26.1606502532959,
+      "centre_path_clear": true
+    },
+    {
+      "walkway": "West",
+      "midpoint": 26.1606502532959,
+      "centre_path_clear": true
+    },
+    {
+      "walkway": "South",
+      "midpoint": 26.1606502532959,
+      "centre_path_clear": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "file": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Reference images\\Conservatory-MASTER.blend",
+  "procedural_backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\MasterMeshConversion\\20260909-151158\\Conservatory-MASTER.blend",
+  "procedural_sha256": "a9fd366ab1804a17cae1b5ad7a4ba351dd3bd0e055fbe5cf407d44ebdaa36724",
+  "scenes": [
+    {
+      "scene": "CONSERVATORY | Single procedural bay",
+      "mesh_objects": 776,
+      "realized_instances": 776,
+      "vertices": 265720,
+      "polygons": 260802,
+      "bounds": [
+        [
+          -1.3350000381469727,
+          -2.0149431228637695,
+          0.0
+        ],
+        [
+          14.775667190551758,
+          2.8932409286499023,
+          16.06999969482422
+        ]
+      ]
+    },
+    {
+      "scene": "MODULE WORKBENCH | Edit linked masters",
+      "mesh_objects": 486,
+      "realized_instances": 0,
+      "vertices": 180832,
+      "polygons": 178208,
+      "bounds": [
+        [
+          -1.3350000381469727,
+          -2.0149431228637695,
+          0.0
+        ],
+        [
+          8.345000267028809,
+          2.014944076538086,
+          15.319999694824219
+        ]
+      ]
+    }
+  ],
+  "all_objects_are_meshes": true,
+  "remaining_modifiers": 0,
+  "remaining_curve_datablocks": 0,
+  "remaining_instances": 0,
+  "reload_verified": true
+}

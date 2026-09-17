@@ -1,0 +1,168 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-16T12:14:10.201724",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "purpose": "Remove the four orphaned MeshPartition provider actors so the plugin can be disabled safely",
+  "actor_count_before": 1850,
+  "all_generic_actor_details": [
+    {
+      "name": "Actor_UAID_60CF84A9A659E20103_1522978666",
+      "label": "Section_X0-Y0_0",
+      "class": "Actor",
+      "location": [
+        -25000.0,
+        -25000.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "MeshProviderModifier",
+        "DynamicMeshComponent",
+        "BillboardComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Actor_UAID_60CF84A9A659E20103_1522978666"
+    },
+    {
+      "name": "Actor_UAID_60CF84A9A659E20103_1522983667",
+      "label": "Section_X1-Y0_0",
+      "class": "Actor",
+      "location": [
+        25000.0,
+        -25000.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "MeshProviderModifier",
+        "DynamicMeshComponent",
+        "BillboardComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Actor_UAID_60CF84A9A659E20103_1522983667"
+    },
+    {
+      "name": "Actor_UAID_60CF84A9A659E20103_1522986668",
+      "label": "Section_X0-Y1_0",
+      "class": "Actor",
+      "location": [
+        -25000.0,
+        25000.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "MeshProviderModifier",
+        "DynamicMeshComponent",
+        "BillboardComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Actor_UAID_60CF84A9A659E20103_1522986668"
+    },
+    {
+      "name": "Actor_UAID_60CF84A9A659E20103_1522988669",
+      "label": "Section_X1-Y1_0",
+      "class": "Actor",
+      "location": [
+        25000.0,
+        25000.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "MeshProviderModifier",
+        "DynamicMeshComponent",
+        "BillboardComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Actor_UAID_60CF84A9A659E20103_1522988669"
+    }
+  ],
+  "delete_targets": [
+    {
+      "name": "Actor_UAID_60CF84A9A659E20103_1522978666",
+      "label": "Section_X0-Y0_0",
+      "class": "Actor",
+      "location": [
+        -25000.0,
+        -25000.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "MeshProviderModifier",
+        "DynamicMeshComponent",
+        "BillboardComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Actor_UAID_60CF84A9A659E20103_1522978666"
+    },
+    {
+      "name": "Actor_UAID_60CF84A9A659E20103_1522983667",
+      "label": "Section_X1-Y0_0",
+      "class": "Actor",
+      "location": [
+        25000.0,
+        -25000.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "MeshProviderModifier",
+        "DynamicMeshComponent",
+        "BillboardComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Actor_UAID_60CF84A9A659E20103_1522983667"
+    },
+    {
+      "name": "Actor_UAID_60CF84A9A659E20103_1522986668",
+      "label": "Section_X0-Y1_0",
+      "class": "Actor",
+      "location": [
+        -25000.0,
+        25000.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "MeshProviderModifier",
+        "DynamicMeshComponent",
+        "BillboardComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Actor_UAID_60CF84A9A659E20103_1522986668"
+    },
+    {
+      "name": "Actor_UAID_60CF84A9A659E20103_1522988669",
+      "label": "Section_X1-Y1_0",
+      "class": "Actor",
+      "location": [
+        25000.0,
+        25000.0,
+        0.0
+      ],
+      "folder": "None",
+      "components": [
+        "MeshProviderModifier",
+        "DynamicMeshComponent",
+        "BillboardComponent"
+      ],
+      "path": "/Game/Conservatory/Maps/L_Exterior_RobotVR.L_Exterior_RobotVR:PersistentLevel.Actor_UAID_60CF84A9A659E20103_1522988669"
+    }
+  ],
+  "external_files_before": 1850,
+  "actor_count_after_destroy": 1846,
+  "registry_leftover_packages": [
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/2/GB/RAF50C2EVFUVHDJ5CJY15B",
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/3/YZ/OG8YS4ZLYM2PDKKWIXEVSF",
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/4/ZZ/N2EQUKJNXUTNSUC8JO5XIX",
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/C/4J/12AWEIT2V9TTY1A5P4807M"
+  ],
+  "explicitly_deleted_packages": [
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/2/GB/RAF50C2EVFUVHDJ5CJY15B",
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/3/YZ/OG8YS4ZLYM2PDKKWIXEVSF",
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/4/ZZ/N2EQUKJNXUTNSUC8JO5XIX",
+    "/Game/__ExternalActors__/Conservatory/Maps/L_Exterior_RobotVR/C/4J/12AWEIT2V9TTY1A5P4807M"
+  ],
+  "known_provider_packages_remaining": [],
+  "actor_count_after_reload": 1846,
+  "external_files_after": 1846,
+  "external_files_removed": 4,
+  "transforms_preserved": true,
+  "reload_verified": true,
+  "meshpartition_plugin_disabled_in_uproject": true
+}

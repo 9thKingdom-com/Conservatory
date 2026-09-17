@@ -1,0 +1,108 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_WanderingBots",
+  "previous_map": "/Game/Conservatory/Maps/L_Exterior_C17_Ready",
+  "bots": [
+    {
+      "name": "Outdoor bot 01",
+      "position": [
+        -9280,
+        -2500,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Outdoor bot 02",
+      "position": [
+        -9280,
+        -1500,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Outdoor bot 03",
+      "position": [
+        -9280,
+        -500,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Outdoor bot 04",
+      "position": [
+        -9280,
+        500,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Outdoor bot 05",
+      "position": [
+        -9280,
+        1500,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Outdoor bot 06",
+      "position": [
+        -11930,
+        -2700,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Outdoor bot 07",
+      "position": [
+        -11930,
+        -1700,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Outdoor bot 08",
+      "position": [
+        -11930,
+        -700,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Outdoor bot 09",
+      "position": [
+        -11930,
+        300,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Outdoor bot 10",
+      "position": [
+        -11930,
+        2100,
+        6355
+      ],
+      "inside": false
+    },
+    {
+      "name": "Indoor bot 11",
+      "position": [
+        -10600,
+        0,
+        6355
+      ],
+      "inside": true
+    }
+  ],
+  "mesh": "/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple",
+  "walk": "/Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace",
+  "idle": "/Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle"
+}

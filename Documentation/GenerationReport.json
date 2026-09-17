@@ -1,0 +1,29 @@
+{
+  "seed": 5802,
+  "landscape_m": 1260,
+  "landscape_vertices": 505,
+  "clearing_m": [
+    104,
+    80
+  ],
+  "conservatory_modules": 3,
+  "conservatory_arrangement": "dome-corridor-dome",
+  "cottages": 18,
+  "instances": {
+    "SM_Birch_1": 635,
+    "SM_Birch_2": 605,
+    "SM_FallenLog": 35,
+    "SM_Fern": 1748,
+    "SM_Grass_1": 6568,
+    "SM_Grass_2": 6663,
+    "SM_Grass_3": 6701,
+    "SM_Oak_1": 666,
+    "SM_Oak_2": 637,
+    "SM_Oak_3": 708,
+    "SM_Oak_4": 690,
+    "SM_Rock_1": 94,
+    "SM_Rock_2": 88,
+    "SM_Rock_3": 77
+  },
+  "map": "/Game/Conservatory/Maps/L_Exterior"
+}

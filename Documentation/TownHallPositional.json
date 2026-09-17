@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-09-13T15:26:36.083709",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\TownHallPositional\\20260913-152629",
+  "position_cm": [
+    31250,
+    5300,
+    896.4055919546809
+  ],
+  "footprint_m": [
+    38,
+    30
+  ],
+  "height_m": 20.9,
+  "placement": "North of civic circle, adjacent block east of north avenue; entrance faces civic area",
+  "terrain_samples_cm": [
+    877.186205367354,
+    876.562035076684,
+    877.3422479400324,
+    872.9676484893571,
+    876.7180776493624,
+    877.3422479400324,
+    867.9666518844897,
+    877.8120922980015,
+    881.4055919546809
+  ],
+  "previous_actor_count": 2140,
+  "new_parts": 19,
+  "all_existing_transforms_preserved": true,
+  "terrain_unchanged": true,
+  "source_reference": "CITY-PLAN.png",
+  "status": "Positional massing only, no finished facade or explorable interior"
+}

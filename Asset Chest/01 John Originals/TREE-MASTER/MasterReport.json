@@ -1,0 +1,14 @@
+{
+  "version": "0.2 Blender review",
+  "blender": "5.1.1",
+  "model_objects": 389,
+  "evaluated_triangles": 1178114,
+  "dimensions_m": [
+    14.315704345703125,
+    13.500304222106934,
+    13.302157793194056
+  ],
+  "canopy_leaves": 20000,
+  "nonfinite_vertices": 0,
+  "unreal_imported": false
+}

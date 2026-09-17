@@ -1,0 +1,9 @@
+{
+  "walk_into_cabin": true,
+  "down_accepted": true,
+  "lower_arrival": true,
+  "walk_out_lower": true,
+  "up_accepted": true,
+  "upper_arrival": true,
+  "passed": true
+}

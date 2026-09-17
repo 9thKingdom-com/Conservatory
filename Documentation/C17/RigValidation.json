@@ -1,0 +1,15 @@
+{
+  "vertices": 26262,
+  "bones": 38,
+  "unweighted_or_nonrigid_vertices": 0,
+  "actions": [
+    "C17_BreakStone",
+    "C17_CarryWalk",
+    "C17_Chop",
+    "C17_Idle",
+    "C17_Lift",
+    "C17_ShelfPick",
+    "C17_Walk"
+  ],
+  "rigid_skin_passed": true
+}

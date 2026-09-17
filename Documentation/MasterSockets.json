@@ -1,0 +1,45 @@
+{
+  "units": "metres, before uniform game scale 1.5",
+  "dome_radius": 8,
+  "floor_z": 0.61,
+  "passage_length": 3.121445152258052,
+  "column_width": 3.121445152258052,
+  "clear_width": 2.721445152258052,
+  "spring_z": 4.35,
+  "dome_sockets": [
+    {
+      "position": [
+        7.8462822432258434,
+        0,
+        0.61
+      ],
+      "yaw": 0
+    },
+    {
+      "position": [
+        -7.8462822432258434,
+        0,
+        0.61
+      ],
+      "yaw": 180
+    }
+  ],
+  "passage_sockets": [
+    {
+      "position": [
+        1.560722576129026,
+        0,
+        0.61
+      ],
+      "yaw": 0
+    },
+    {
+      "position": [
+        -1.560722576129026,
+        0,
+        0.61
+      ],
+      "yaw": 180
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "1": {
+    "correction_degrees": 0.0029304082704450516,
+    "axis_degrees": 11.25
+  },
+  "-1": {
+    "correction_degrees": -0.002930203975305856,
+    "axis_degrees": -11.25
+  },
+  "ring_endpoint_vertices_aligned": 556,
+  "source_file": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Reference images\\Conservatory-MAIN-PARTS1.blend",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\DomeAlignment\\Conservatory-MAIN-PARTS1-before-20260910-153247.blend",
+  "fit": {
+    "offset_x": 3.52,
+    "offset_y": -0.0095915,
+    "side_stretch": 1.366,
+    "cap_radius": 4.721094513743939,
+    "cap_base_z": 17.62666416168213,
+    "cap_scale": [
+      2.639390375115606,
+      2.6583340357900767,
+      2.6488622054528412
+    ]
+  },
+  "status": "Blender geometry corrected and viewport inspected; not an Unreal implementation or final asset approval."
+}

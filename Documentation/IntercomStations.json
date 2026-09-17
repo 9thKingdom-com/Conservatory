@@ -1,0 +1,216 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_C17_Ready",
+  "count": 21,
+  "stations": [
+    {
+      "area": "Seed laboratory",
+      "position_cm": [
+        -14818,
+        -1700,
+        4155
+      ],
+      "yaw": 180,
+      "pedestal": false
+    },
+    {
+      "area": "Library & study",
+      "position_cm": [
+        -14182,
+        -1700,
+        4155
+      ],
+      "yaw": 0,
+      "pedestal": false
+    },
+    {
+      "area": "Sleeping quarters",
+      "position_cm": [
+        -14818,
+        -200,
+        4155
+      ],
+      "yaw": 180,
+      "pedestal": false
+    },
+    {
+      "area": "Food reserve",
+      "position_cm": [
+        -14182,
+        -200,
+        4155
+      ],
+      "yaw": 0,
+      "pedestal": false
+    },
+    {
+      "area": "Clinic",
+      "position_cm": [
+        -14818,
+        1300,
+        4155
+      ],
+      "yaw": 180,
+      "pedestal": false
+    },
+    {
+      "area": "Kitchen & washrooms",
+      "position_cm": [
+        -14182,
+        1300,
+        4155
+      ],
+      "yaw": 0,
+      "pedestal": false
+    },
+    {
+      "area": "Water & pumping",
+      "position_cm": [
+        -14818,
+        -1700,
+        3555
+      ],
+      "yaw": 180,
+      "pedestal": false
+    },
+    {
+      "area": "Air & oxygen",
+      "position_cm": [
+        -14182,
+        -1700,
+        3555
+      ],
+      "yaw": 0,
+      "pedestal": false
+    },
+    {
+      "area": "Power reserve",
+      "position_cm": [
+        -14818,
+        -200,
+        3555
+      ],
+      "yaw": 180,
+      "pedestal": false
+    },
+    {
+      "area": "Workshop",
+      "position_cm": [
+        -14182,
+        -200,
+        3555
+      ],
+      "yaw": 0,
+      "pedestal": false
+    },
+    {
+      "area": "Waste treatment",
+      "position_cm": [
+        -14818,
+        1300,
+        3555
+      ],
+      "yaw": 180,
+      "pedestal": false
+    },
+    {
+      "area": "Equipment stores",
+      "position_cm": [
+        -14182,
+        1300,
+        3555
+      ],
+      "yaw": 0,
+      "pedestal": false
+    },
+    {
+      "area": "South dome",
+      "position_cm": [
+        -11300,
+        -1411,
+        6398
+      ],
+      "yaw": 0,
+      "pedestal": true
+    },
+    {
+      "area": "North dome",
+      "position_cm": [
+        -11300,
+        1641,
+        6398
+      ],
+      "yaw": 0,
+      "pedestal": true
+    },
+    {
+      "area": "Connecting passage",
+      "position_cm": [
+        -10775,
+        0,
+        6398
+      ],
+      "yaw": 0,
+      "pedestal": true
+    },
+    {
+      "area": "Habitat corridor",
+      "position_cm": [
+        -14770,
+        700,
+        4155
+      ],
+      "yaw": 0,
+      "pedestal": true
+    },
+    {
+      "area": "Utilities corridor",
+      "position_cm": [
+        -14770,
+        700,
+        3555
+      ],
+      "yaw": 0,
+      "pedestal": true
+    },
+    {
+      "area": "Habitat lift lobby",
+      "position_cm": [
+        -15365,
+        -2950,
+        4155
+      ],
+      "yaw": 0,
+      "pedestal": true
+    },
+    {
+      "area": "Utilities lobby",
+      "position_cm": [
+        -15365,
+        -2750,
+        3555
+      ],
+      "yaw": 0,
+      "pedestal": true
+    },
+    {
+      "area": "Upper stair landing",
+      "position_cm": [
+        -14965,
+        2300,
+        4155
+      ],
+      "yaw": 0,
+      "pedestal": true
+    },
+    {
+      "area": "Lower stair landing",
+      "position_cm": [
+        -14965,
+        2300,
+        3555
+      ],
+      "yaw": 0,
+      "pedestal": true
+    }
+  ]
+}

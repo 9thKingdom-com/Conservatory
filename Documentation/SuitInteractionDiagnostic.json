@@ -1,0 +1,1392 @@
+{
+  "hub_is_remote_at_start": false,
+  "error": null,
+  "suits": [
+    {
+      "id": 1,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -14090.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -14090.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -14090.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -14090.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -14090.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_1",
+          "class": "VRSuitStation",
+          "label": "VR suit 02 - robot 02",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "TextRenderActor_27",
+          "class": "TextRenderActor",
+          "label": "VR suit 01 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "VRSuitStation_2",
+          "class": "VRSuitStation",
+          "label": "VR suit 03 - robot 03",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_28",
+          "class": "TextRenderActor",
+          "label": "VR suit 02 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "VRSuitStation_10",
+          "class": "VRSuitStation",
+          "label": "VR suit 11 - robot 11",
+          "dist_cm": 257
+        },
+        {
+          "name": "TextRenderActor_29",
+          "class": "TextRenderActor",
+          "label": "VR suit 03 label",
+          "dist_cm": 289
+        },
+        {
+          "name": "StaticMeshActor_661",
+          "class": "StaticMeshActor",
+          "label": "Door wall",
+          "dist_cm": 314
+        },
+        {
+          "name": "VRSuitStation_3",
+          "class": "VRSuitStation",
+          "label": "VR suit 04 - robot 04",
+          "dist_cm": 315
+        },
+        {
+          "name": "TextRenderActor_18",
+          "class": "TextRenderActor",
+          "label": "VR suit 11 label",
+          "dist_cm": 329
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -13985.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -13985.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -13985.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -13985.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -13985.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_2",
+          "class": "VRSuitStation",
+          "label": "VR suit 03 - robot 03",
+          "dist_cm": 105
+        },
+        {
+          "name": "VRSuitStation_0",
+          "class": "VRSuitStation",
+          "label": "VR suit 01 - robot 01",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "TextRenderActor_28",
+          "class": "TextRenderActor",
+          "label": "VR suit 02 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "VRSuitStation_3",
+          "class": "VRSuitStation",
+          "label": "VR suit 04 - robot 04",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_29",
+          "class": "TextRenderActor",
+          "label": "VR suit 03 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_27",
+          "class": "TextRenderActor",
+          "label": "VR suit 01 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_30",
+          "class": "TextRenderActor",
+          "label": "VR suit 04 label",
+          "dist_cm": 289
+        },
+        {
+          "name": "VRSuitStation_10",
+          "class": "VRSuitStation",
+          "label": "VR suit 11 - robot 11",
+          "dist_cm": 300
+        },
+        {
+          "name": "VRSuitStation_4",
+          "class": "VRSuitStation",
+          "label": "VR suit 05 - robot 05",
+          "dist_cm": 315
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -13880.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -13880.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -13880.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -13880.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -13880.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_1",
+          "class": "VRSuitStation",
+          "label": "VR suit 02 - robot 02",
+          "dist_cm": 105
+        },
+        {
+          "name": "VRSuitStation_3",
+          "class": "VRSuitStation",
+          "label": "VR suit 04 - robot 04",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "TextRenderActor_29",
+          "class": "TextRenderActor",
+          "label": "VR suit 03 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "VRSuitStation_0",
+          "class": "VRSuitStation",
+          "label": "VR suit 01 - robot 01",
+          "dist_cm": 210
+        },
+        {
+          "name": "VRSuitStation_4",
+          "class": "VRSuitStation",
+          "label": "VR suit 05 - robot 05",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_28",
+          "class": "TextRenderActor",
+          "label": "VR suit 02 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_30",
+          "class": "TextRenderActor",
+          "label": "VR suit 04 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_31",
+          "class": "TextRenderActor",
+          "label": "VR suit 05 label",
+          "dist_cm": 289
+        },
+        {
+          "name": "TextRenderActor_27",
+          "class": "TextRenderActor",
+          "label": "VR suit 01 label",
+          "dist_cm": 289
+        },
+        {
+          "name": "StaticMeshActor_668",
+          "class": "StaticMeshActor",
+          "label": "Room colour band",
+          "dist_cm": 303
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -13775.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -13775.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -13775.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -13775.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -13775.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_2",
+          "class": "VRSuitStation",
+          "label": "VR suit 03 - robot 03",
+          "dist_cm": 105
+        },
+        {
+          "name": "VRSuitStation_4",
+          "class": "VRSuitStation",
+          "label": "VR suit 05 - robot 05",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "TextRenderActor_30",
+          "class": "TextRenderActor",
+          "label": "VR suit 04 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "StaticMeshActor_668",
+          "class": "StaticMeshActor",
+          "label": "Room colour band",
+          "dist_cm": 209
+        },
+        {
+          "name": "VRSuitStation_1",
+          "class": "VRSuitStation",
+          "label": "VR suit 02 - robot 02",
+          "dist_cm": 210
+        },
+        {
+          "name": "VRSuitStation_5",
+          "class": "VRSuitStation",
+          "label": "VR suit 06 - robot 06",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_29",
+          "class": "TextRenderActor",
+          "label": "VR suit 03 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_31",
+          "class": "TextRenderActor",
+          "label": "VR suit 05 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "StaticMeshActor_658",
+          "class": "StaticMeshActor",
+          "label": "Room partition",
+          "dist_cm": 254
+        },
+        {
+          "name": "StaticMeshActor_1852",
+          "class": "StaticMeshActor",
+          "label": "Solid room joint",
+          "dist_cm": 264
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -13670.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -13670.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -13670.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -13670.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -13670.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_3",
+          "class": "VRSuitStation",
+          "label": "VR suit 04 - robot 04",
+          "dist_cm": 105
+        },
+        {
+          "name": "VRSuitStation_5",
+          "class": "VRSuitStation",
+          "label": "VR suit 06 - robot 06",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "StaticMeshActor_668",
+          "class": "StaticMeshActor",
+          "label": "Room colour band",
+          "dist_cm": 135
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "StaticMeshActor_658",
+          "class": "StaticMeshActor",
+          "label": "Room partition",
+          "dist_cm": 197
+        },
+        {
+          "name": "TextRenderActor_31",
+          "class": "TextRenderActor",
+          "label": "VR suit 05 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "VRSuitStation_2",
+          "class": "VRSuitStation",
+          "label": "VR suit 03 - robot 03",
+          "dist_cm": 210
+        },
+        {
+          "name": "VRSuitStation_6",
+          "class": "VRSuitStation",
+          "label": "VR suit 07 - robot 07",
+          "dist_cm": 210
+        },
+        {
+          "name": "StaticMeshActor_1852",
+          "class": "StaticMeshActor",
+          "label": "Solid room joint",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_32",
+          "class": "TextRenderActor",
+          "label": "VR suit 06 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_30",
+          "class": "TextRenderActor",
+          "label": "VR suit 04 label",
+          "dist_cm": 224
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -13565.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -13565.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -13565.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -13565.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -13565.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_6",
+          "class": "VRSuitStation",
+          "label": "VR suit 07 - robot 07",
+          "dist_cm": 105
+        },
+        {
+          "name": "VRSuitStation_4",
+          "class": "VRSuitStation",
+          "label": "VR suit 05 - robot 05",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "StaticMeshActor_668",
+          "class": "StaticMeshActor",
+          "label": "Room colour band",
+          "dist_cm": 120
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "StaticMeshActor_658",
+          "class": "StaticMeshActor",
+          "label": "Room partition",
+          "dist_cm": 187
+        },
+        {
+          "name": "TextRenderActor_32",
+          "class": "TextRenderActor",
+          "label": "VR suit 06 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "StaticMeshActor_1852",
+          "class": "StaticMeshActor",
+          "label": "Solid room joint",
+          "dist_cm": 201
+        },
+        {
+          "name": "VRSuitStation_7",
+          "class": "VRSuitStation",
+          "label": "VR suit 08 - robot 08",
+          "dist_cm": 210
+        },
+        {
+          "name": "VRSuitStation_3",
+          "class": "VRSuitStation",
+          "label": "VR suit 04 - robot 04",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_31",
+          "class": "TextRenderActor",
+          "label": "VR suit 05 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_33",
+          "class": "TextRenderActor",
+          "label": "VR suit 07 label",
+          "dist_cm": 224
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -13460.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -13460.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -13460.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -13460.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -13460.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_7",
+          "class": "VRSuitStation",
+          "label": "VR suit 08 - robot 08",
+          "dist_cm": 105
+        },
+        {
+          "name": "VRSuitStation_5",
+          "class": "VRSuitStation",
+          "label": "VR suit 06 - robot 06",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "StaticMeshActor_668",
+          "class": "StaticMeshActor",
+          "label": "Room colour band",
+          "dist_cm": 181
+        },
+        {
+          "name": "TextRenderActor_33",
+          "class": "TextRenderActor",
+          "label": "VR suit 07 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "VRSuitStation_4",
+          "class": "VRSuitStation",
+          "label": "VR suit 05 - robot 05",
+          "dist_cm": 210
+        },
+        {
+          "name": "VRSuitStation_8",
+          "class": "VRSuitStation",
+          "label": "VR suit 09 - robot 09",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_32",
+          "class": "TextRenderActor",
+          "label": "VR suit 06 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_34",
+          "class": "TextRenderActor",
+          "label": "VR suit 08 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "StaticMeshActor_658",
+          "class": "StaticMeshActor",
+          "label": "Room partition",
+          "dist_cm": 231
+        },
+        {
+          "name": "StaticMeshActor_1852",
+          "class": "StaticMeshActor",
+          "label": "Solid room joint",
+          "dist_cm": 242
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -13355.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -13355.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -13355.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -13355.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -13355.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_6",
+          "class": "VRSuitStation",
+          "label": "VR suit 07 - robot 07",
+          "dist_cm": 105
+        },
+        {
+          "name": "VRSuitStation_8",
+          "class": "VRSuitStation",
+          "label": "VR suit 09 - robot 09",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "TextRenderActor_34",
+          "class": "TextRenderActor",
+          "label": "VR suit 08 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "VRSuitStation_9",
+          "class": "VRSuitStation",
+          "label": "VR suit 10 - robot 10",
+          "dist_cm": 210
+        },
+        {
+          "name": "VRSuitStation_5",
+          "class": "VRSuitStation",
+          "label": "VR suit 06 - robot 06",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_35",
+          "class": "TextRenderActor",
+          "label": "VR suit 09 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_33",
+          "class": "TextRenderActor",
+          "label": "VR suit 07 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "StaticMeshActor_668",
+          "class": "StaticMeshActor",
+          "label": "Room colour band",
+          "dist_cm": 271
+        },
+        {
+          "name": "TextRenderActor_36",
+          "class": "TextRenderActor",
+          "label": "VR suit 10 label",
+          "dist_cm": 289
+        },
+        {
+          "name": "TextRenderActor_32",
+          "class": "TextRenderActor",
+          "label": "VR suit 06 label",
+          "dist_cm": 289
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -13250.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -13250.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -13250.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -13250.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -13250.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_7",
+          "class": "VRSuitStation",
+          "label": "VR suit 08 - robot 08",
+          "dist_cm": 105
+        },
+        {
+          "name": "VRSuitStation_9",
+          "class": "VRSuitStation",
+          "label": "VR suit 10 - robot 10",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "TextRenderActor_35",
+          "class": "TextRenderActor",
+          "label": "VR suit 09 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "VRSuitStation_6",
+          "class": "VRSuitStation",
+          "label": "VR suit 07 - robot 07",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_36",
+          "class": "TextRenderActor",
+          "label": "VR suit 10 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_34",
+          "class": "TextRenderActor",
+          "label": "VR suit 08 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_33",
+          "class": "TextRenderActor",
+          "label": "VR suit 07 label",
+          "dist_cm": 289
+        },
+        {
+          "name": "VRSuitStation_5",
+          "class": "VRSuitStation",
+          "label": "VR suit 06 - robot 06",
+          "dist_cm": 315
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -13145.0,
+        -2090.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -13145.0,
+        -2090.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -13145.0,
+            -2150.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -13145.0,
+            -2150.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -13145.0,
+            -2150.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "VRSuitStation_8",
+          "class": "VRSuitStation",
+          "label": "VR suit 09 - robot 09",
+          "dist_cm": 105
+        },
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "TextRenderActor_36",
+          "class": "TextRenderActor",
+          "label": "VR suit 10 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "VRSuitStation_7",
+          "class": "VRSuitStation",
+          "label": "VR suit 08 - robot 08",
+          "dist_cm": 210
+        },
+        {
+          "name": "TextRenderActor_35",
+          "class": "TextRenderActor",
+          "label": "VR suit 09 label",
+          "dist_cm": 224
+        },
+        {
+          "name": "TextRenderActor_34",
+          "class": "TextRenderActor",
+          "label": "VR suit 08 label",
+          "dist_cm": 289
+        },
+        {
+          "name": "VRSuitStation_6",
+          "class": "VRSuitStation",
+          "label": "VR suit 07 - robot 07",
+          "dist_cm": 315
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "can_use": true,
+      "hub_is_remote": false,
+      "pawn_pos": [
+        -14090.0,
+        -1900.0,
+        4090.0
+      ],
+      "camera_eye": [
+        -14090.0,
+        -1900.0,
+        4156.0
+      ],
+      "view_rot": [
+        0.0,
+        180.0,
+        0.0
+      ],
+      "targets": [
+        {
+          "height": 80.0,
+          "target": [
+            -14150.0,
+            -1900.0,
+            4083.0
+          ],
+          "distance_cm": 94.49338601193207,
+          "dot": 0.635,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 120.0,
+          "target": [
+            -14150.0,
+            -1900.0,
+            4123.0
+          ],
+          "distance_cm": 68.47627326307996,
+          "dot": 0.8762,
+          "blocked": false,
+          "blocking": null
+        },
+        {
+          "height": 170.0,
+          "target": [
+            -14150.0,
+            -1900.0,
+            4173.0
+          ],
+          "distance_cm": 62.36184731067546,
+          "dot": 0.9621,
+          "blocked": false,
+          "blocking": null
+        }
+      ],
+      "nearby_actors": [
+        {
+          "name": "Explorer_0",
+          "class": "Explorer",
+          "label": "Explorer0",
+          "dist_cm": 106
+        },
+        {
+          "name": "PlayerCameraManager_0",
+          "class": "PlayerCameraManager",
+          "label": "PlayerCameraManager0",
+          "dist_cm": 164
+        },
+        {
+          "name": "StaticMeshActor_661",
+          "class": "StaticMeshActor",
+          "label": "Door wall",
+          "dist_cm": 185
+        },
+        {
+          "name": "TextRenderActor_18",
+          "class": "TextRenderActor",
+          "label": "VR suit 11 label",
+          "dist_cm": 198
+        },
+        {
+          "name": "IntercomStation_1",
+          "class": "IntercomStation",
+          "label": "CIDCORE - Library & study",
+          "dist_cm": 253
+        },
+        {
+          "name": "VRSuitStation_0",
+          "class": "VRSuitStation",
+          "label": "VR suit 01 - robot 01",
+          "dist_cm": 257
+        },
+        {
+          "name": "VRSuitStation_1",
+          "class": "VRSuitStation",
+          "label": "VR suit 02 - robot 02",
+          "dist_cm": 300
+        },
+        {
+          "name": "StaticMeshActor_664",
+          "class": "StaticMeshActor",
+          "label": "Door jamb",
+          "dist_cm": 300
+        },
+        {
+          "name": "TextRenderActor_27",
+          "class": "TextRenderActor",
+          "label": "VR suit 01 label",
+          "dist_cm": 341
+        }
+      ]
+    }
+  ]
+}

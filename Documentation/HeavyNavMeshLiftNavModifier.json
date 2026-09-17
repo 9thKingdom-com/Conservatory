@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-09-17T11:50:02.949656",
+  "map_loaded": true,
+  "loaded_actor_count": 1865,
+  "lift_label": "LIFT-MASTER | finished conservatory lift",
+  "before_components": [
+    {
+      "name": "StaticMeshComponent0",
+      "can_ever_affect_navigation": "True",
+      "after_can_ever_affect_navigation": "False"
+    }
+  ],
+  "component_created": true,
+  "error": "Traceback (most recent call last):\n  File \"<string>\", line 27, in <module>\nAttributeError: 'StaticMeshActor' object has no attribute 'add_instance_component'\n"
+}

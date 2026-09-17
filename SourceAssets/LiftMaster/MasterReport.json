@@ -1,0 +1,12 @@
+{
+  "blender": "5.1.1",
+  "objects": 436,
+  "mesh_objects": 212,
+  "curves": 216,
+  "width_m": 2.68,
+  "depth_m": 2.44,
+  "height_m": 4.7,
+  "door_clear_width_m": 1.515,
+  "master_file": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\SourceAssets\\LiftMaster\\Conservatory-Service-Lift-MASTER.blend",
+  "unreal_modified": false
+}

@@ -1,0 +1,46 @@
+{
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "timestamp": "2026-09-16T14:42:29.038293",
+  "map": "/Game/Conservatory/Maps/L_Exterior_RobotVR",
+  "purpose": "Make the terrain always loaded so always-loaded wandering robots always have ground under them",
+  "actor_count": 1867,
+  "terrain_actors": [
+    {
+      "name": "Landscape_0",
+      "class": "Landscape"
+    },
+    {
+      "name": "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_0_0_0",
+      "class": "LandscapeStreamingProxy"
+    },
+    {
+      "name": "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_1_0_0",
+      "class": "LandscapeStreamingProxy"
+    },
+    {
+      "name": "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_0_1_0",
+      "class": "LandscapeStreamingProxy"
+    },
+    {
+      "name": "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_1_1_0",
+      "class": "LandscapeStreamingProxy"
+    }
+  ],
+  "spatial_before": {
+    "Landscape_0": false,
+    "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_0_0_0": true,
+    "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_1_0_0": true,
+    "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_0_1_0": true,
+    "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_1_1_0": true
+  },
+  "actor_count_after_reload": 1867,
+  "spatial_after_reload": {
+    "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_0_1_0": false,
+    "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_0_0_0": false,
+    "Landscape_0": false,
+    "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_1_0_0": false,
+    "LandscapeStreamingProxy_69R53OFOO0O6D0EH888E7JO59_252_1_1_0": false
+  },
+  "transforms_preserved": true,
+  "reload_verified": true
+}

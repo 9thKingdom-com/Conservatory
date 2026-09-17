@@ -1,0 +1,52 @@
+{
+  "rotation_positional": "<Struct 'Rotator' (0x00000169E2461E10) {pitch: 180.000000, yaw: 0.000000, roll: 0.000000}>",
+  "rotation_named": "<Struct 'Rotator' (0x00000169E2461E10) {pitch: 0.000000, yaw: 180.000000, roll: 0.000000}>",
+  "Kitchen wall security monitor - all ten robots": {
+    "rotation": "<Struct 'Rotator' (0x00000169E2461E10) {pitch: 0.000000, yaw: 180.000000, roll: 180.000000}>",
+    "location": "<Struct 'Vector' (0x00000169E2461E10) {x: -13020.000000, y: 1350.000000, z: 4210.000000}>"
+  },
+  "Security monitor controls": {
+    "rotation": "<Struct 'Rotator' (0x00000169E2461E10) {pitch: 0.000000, yaw: 180.000000, roll: 180.000000}>",
+    "location": "<Struct 'Vector' (0x00000169E2461E10) {x: -13028.000000, y: 1350.000000, z: 4100.000000}>"
+  },
+  "VR suit 01 - robot 01": {
+    "rotation": "<Struct 'Rotator' (0x00000169E2460BF0) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169E2460BF0) {x: -14090.000000, y: 850.000000, z: 4003.000000}>"
+  },
+  "VR suit 02 - robot 02": {
+    "rotation": "<Struct 'Rotator' (0x00000169E2462680) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169E2462680) {x: -13985.000000, y: 850.000000, z: 4003.000000}>"
+  },
+  "VR suit 03 - robot 03": {
+    "rotation": "<Struct 'Rotator' (0x00000169E248BF30) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169E248BF30) {x: -13880.000000, y: 850.000000, z: 4003.000000}>"
+  },
+  "VR suit 04 - robot 04": {
+    "rotation": "<Struct 'Rotator' (0x00000169E24CC560) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169E24CC560) {x: -13775.000000, y: 850.000000, z: 4003.000000}>"
+  },
+  "VR suit 05 - robot 05": {
+    "rotation": "<Struct 'Rotator' (0x00000169E24CC510) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169E24CC510) {x: -13670.000000, y: 850.000000, z: 4003.000000}>"
+  },
+  "VR suit 06 - robot 06": {
+    "rotation": "<Struct 'Rotator' (0x00000169E24CC4C0) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169E24CC4C0) {x: -13565.000000, y: 850.000000, z: 4003.000000}>"
+  },
+  "VR suit 07 - robot 07": {
+    "rotation": "<Struct 'Rotator' (0x00000169E24CC470) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169E24CC470) {x: -13460.000000, y: 850.000000, z: 4003.000000}>"
+  },
+  "VR suit 08 - robot 08": {
+    "rotation": "<Struct 'Rotator' (0x00000169F32D9370) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169F32D9370) {x: -13355.000000, y: 850.000000, z: 4003.000000}>"
+  },
+  "VR suit 09 - robot 09": {
+    "rotation": "<Struct 'Rotator' (0x00000169F32D9410) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169F32D9410) {x: -13250.000000, y: 850.000000, z: 4003.000000}>"
+  },
+  "VR suit 10 - robot 10": {
+    "rotation": "<Struct 'Rotator' (0x00000169F32D8060) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+    "location": "<Struct 'Vector' (0x00000169F32D8060) {x: -13145.000000, y: 850.000000, z: 4003.000000}>"
+  }
+}

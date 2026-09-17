@@ -1,0 +1,701 @@
+{
+  "timestamp": "2026-09-14T11:04:39.793976",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "backup": "C:\\Users\\ASUS TUF\\Documents\\1 conservatory\\Saved\\Backups\\RuralRemoval\\20260914-110438",
+  "removed": [
+    {
+      "name": "StaticMeshActor_34",
+      "label": "Old boundary wall_08",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_35",
+      "label": "Old boundary wall_09",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_36",
+      "label": "Old boundary wall_10",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_37",
+      "label": "Old boundary wall_11",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_38",
+      "label": "Old boundary wall_12",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_39",
+      "label": "Old boundary wall_13",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_40",
+      "label": "Old boundary wall_14",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_41",
+      "label": "Old boundary wall_15",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_42",
+      "label": "Old boundary wall_16",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_43",
+      "label": "Old boundary wall_17",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_44",
+      "label": "Old boundary wall_18",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_45",
+      "label": "Old boundary wall_21",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_46",
+      "label": "Old boundary wall_22",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_47",
+      "label": "Old boundary wall_23",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_48",
+      "label": "Old boundary wall_24",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_49",
+      "label": "Old boundary wall_25",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_50",
+      "label": "Old boundary wall_26",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_51",
+      "label": "Old boundary wall_27",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_52",
+      "label": "Old boundary wall_28",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_53",
+      "label": "Old boundary wall_29",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_54",
+      "label": "Old boundary wall_30",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_55",
+      "label": "Old boundary wall_31",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_56",
+      "label": "Old boundary wall_34",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_57",
+      "label": "Old boundary wall_35",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_58",
+      "label": "Old boundary wall_36",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_59",
+      "label": "Old boundary wall_37",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_60",
+      "label": "Old boundary wall_38",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_61",
+      "label": "Old boundary wall_39",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_62",
+      "label": "Old boundary wall_40",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_63",
+      "label": "Old boundary wall_41",
+      "folder": "03 Village"
+    },
+    {
+      "name": "StaticMeshActor_64",
+      "label": "Old boundary wall_42",
+      "folder": "03 Village"
+    },
+    {
+      "name": "TargetPoint_1",
+      "label": "V01 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_2",
+      "label": "V01 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_3",
+      "label": "V02 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_4",
+      "label": "V02 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_5",
+      "label": "V03 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_6",
+      "label": "V03 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_7",
+      "label": "V04 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_8",
+      "label": "V04 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_9",
+      "label": "V05 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_10",
+      "label": "V05 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_11",
+      "label": "V06 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_12",
+      "label": "V06 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_13",
+      "label": "V07 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_14",
+      "label": "V07 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "PointLight_44",
+      "label": "V07 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/Main town/Daylight"
+    },
+    {
+      "name": "TargetPoint_15",
+      "label": "V08 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_16",
+      "label": "V08 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "PointLight_45",
+      "label": "V08 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/Main town/Daylight"
+    },
+    {
+      "name": "TargetPoint_17",
+      "label": "V09 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_18",
+      "label": "V09 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "PointLight_46",
+      "label": "V09 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/Main town/Daylight"
+    },
+    {
+      "name": "TargetPoint_19",
+      "label": "V10 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_20",
+      "label": "V10 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "PointLight_47",
+      "label": "V10 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/Main town/Daylight"
+    },
+    {
+      "name": "TargetPoint_21",
+      "label": "V11 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_22",
+      "label": "V11 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_23",
+      "label": "V12 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_24",
+      "label": "V12 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "PointLight_49",
+      "label": "V12 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/Main town/Daylight"
+    },
+    {
+      "name": "TargetPoint_25",
+      "label": "V13 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_26",
+      "label": "V13 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "PointLight_50",
+      "label": "V13 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/Main town/Daylight"
+    },
+    {
+      "name": "TargetPoint_27",
+      "label": "V14 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_28",
+      "label": "V14 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "PointLight_51",
+      "label": "V14 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/Main town/Daylight"
+    },
+    {
+      "name": "TargetPoint_29",
+      "label": "V15 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_30",
+      "label": "V15 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_31",
+      "label": "V16 | future clue 1",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_32",
+      "label": "V16 | future clue 2",
+      "folder": "03 Village/Valley settlements/Main town/Discovery anchors"
+    },
+    {
+      "name": "PointLight_53",
+      "label": "V16 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/Main town/Daylight"
+    },
+    {
+      "name": "TargetPoint_33",
+      "label": "V17 | future clue 1",
+      "folder": "03 Village/Valley settlements/North hamlet/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_34",
+      "label": "V17 | future clue 2",
+      "folder": "03 Village/Valley settlements/North hamlet/Discovery anchors"
+    },
+    {
+      "name": "PointLight_54",
+      "label": "V17 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/North hamlet/Daylight"
+    },
+    {
+      "name": "TargetPoint_35",
+      "label": "V18 | future clue 1",
+      "folder": "03 Village/Valley settlements/North hamlet/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_36",
+      "label": "V18 | future clue 2",
+      "folder": "03 Village/Valley settlements/North hamlet/Discovery anchors"
+    },
+    {
+      "name": "PointLight_55",
+      "label": "V18 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/North hamlet/Daylight"
+    },
+    {
+      "name": "TargetPoint_37",
+      "label": "V19 | future clue 1",
+      "folder": "03 Village/Valley settlements/North hamlet/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_38",
+      "label": "V19 | future clue 2",
+      "folder": "03 Village/Valley settlements/North hamlet/Discovery anchors"
+    },
+    {
+      "name": "PointLight_56",
+      "label": "V19 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/North hamlet/Daylight"
+    },
+    {
+      "name": "TargetPoint_39",
+      "label": "V20 | future clue 1",
+      "folder": "03 Village/Valley settlements/North hamlet/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_40",
+      "label": "V20 | future clue 2",
+      "folder": "03 Village/Valley settlements/North hamlet/Discovery anchors"
+    },
+    {
+      "name": "PointLight_57",
+      "label": "V20 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/North hamlet/Daylight"
+    },
+    {
+      "name": "TargetPoint_41",
+      "label": "V21 | future clue 1",
+      "folder": "03 Village/Valley settlements/South hamlet/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_42",
+      "label": "V21 | future clue 2",
+      "folder": "03 Village/Valley settlements/South hamlet/Discovery anchors"
+    },
+    {
+      "name": "PointLight_58",
+      "label": "V21 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/South hamlet/Daylight"
+    },
+    {
+      "name": "TargetPoint_43",
+      "label": "V22 | future clue 1",
+      "folder": "03 Village/Valley settlements/South hamlet/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_44",
+      "label": "V22 | future clue 2",
+      "folder": "03 Village/Valley settlements/South hamlet/Discovery anchors"
+    },
+    {
+      "name": "PointLight_59",
+      "label": "V22 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/South hamlet/Daylight"
+    },
+    {
+      "name": "TargetPoint_45",
+      "label": "V23 | future clue 1",
+      "folder": "03 Village/Valley settlements/South hamlet/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_46",
+      "label": "V23 | future clue 2",
+      "folder": "03 Village/Valley settlements/South hamlet/Discovery anchors"
+    },
+    {
+      "name": "PointLight_60",
+      "label": "V23 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/South hamlet/Daylight"
+    },
+    {
+      "name": "TargetPoint_47",
+      "label": "V24 | future clue 1",
+      "folder": "03 Village/Valley settlements/South hamlet/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_48",
+      "label": "V24 | future clue 2",
+      "folder": "03 Village/Valley settlements/South hamlet/Discovery anchors"
+    },
+    {
+      "name": "PointLight_61",
+      "label": "V24 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/South hamlet/Daylight"
+    },
+    {
+      "name": "TargetPoint_49",
+      "label": "V25 | future clue 1",
+      "folder": "03 Village/Valley settlements/West farm/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_50",
+      "label": "V25 | future clue 2",
+      "folder": "03 Village/Valley settlements/West farm/Discovery anchors"
+    },
+    {
+      "name": "PointLight_62",
+      "label": "V25 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/West farm/Daylight"
+    },
+    {
+      "name": "TargetPoint_51",
+      "label": "V26 | future clue 1",
+      "folder": "03 Village/Valley settlements/West farm/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_52",
+      "label": "V26 | future clue 2",
+      "folder": "03 Village/Valley settlements/West farm/Discovery anchors"
+    },
+    {
+      "name": "PointLight_63",
+      "label": "V26 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/West farm/Daylight"
+    },
+    {
+      "name": "TargetPoint_53",
+      "label": "V27 | future clue 1",
+      "folder": "03 Village/Valley settlements/East farm/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_54",
+      "label": "V27 | future clue 2",
+      "folder": "03 Village/Valley settlements/East farm/Discovery anchors"
+    },
+    {
+      "name": "PointLight_64",
+      "label": "V27 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/East farm/Daylight"
+    },
+    {
+      "name": "TargetPoint_55",
+      "label": "V28 | future clue 1",
+      "folder": "03 Village/Valley settlements/East farm/Discovery anchors"
+    },
+    {
+      "name": "TargetPoint_56",
+      "label": "V28 | future clue 2",
+      "folder": "03 Village/Valley settlements/East farm/Discovery anchors"
+    },
+    {
+      "name": "PointLight_65",
+      "label": "V28 | interior daylight fill",
+      "folder": "03 Village/Valley settlements/East farm/Daylight"
+    },
+    {
+      "name": "StaticMeshActor_174",
+      "label": "Vehicle left in road",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_175",
+      "label": "Main street SM_StreetLamp",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_176",
+      "label": "Main street SM_StreetBench",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_177",
+      "label": "Main street SM_StreetLamp",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_178",
+      "label": "Main street SM_StreetBench",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_179",
+      "label": "Main street SM_StreetLamp",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_180",
+      "label": "Main street SM_StreetBench",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_181",
+      "label": "Main street SM_StreetLamp",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_182",
+      "label": "Main street SM_StreetBench",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_183",
+      "label": "Main street SM_StreetLamp",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_184",
+      "label": "Main street SM_StreetBench",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_185",
+      "label": "Main street SM_StreetLamp",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_186",
+      "label": "Main street SM_StreetBench",
+      "folder": "03 Village/Valley settlements/Infrastructure"
+    },
+    {
+      "name": "StaticMeshActor_17",
+      "label": "Town hall | positional | foundation",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_25",
+      "label": "Town hall | positional | central hall",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_26",
+      "label": "Town hall | positional | civic wing -1",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_27",
+      "label": "Town hall | positional | wing roof -1",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_187",
+      "label": "Town hall | positional | civic wing 1",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_188",
+      "label": "Town hall | positional | wing roof 1",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_189",
+      "label": "Town hall | positional | main roof",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_190",
+      "label": "Town hall | positional | clock tower",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_191",
+      "label": "Town hall | positional | tower cornice",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_192",
+      "label": "Town hall | positional | tower crown",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_194",
+      "label": "Town hall | positional | portico column",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_195",
+      "label": "Town hall | positional | portico column",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_196",
+      "label": "Town hall | positional | portico column",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_197",
+      "label": "Town hall | positional | portico column",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_198",
+      "label": "Town hall | positional | entrance marker",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_199",
+      "label": "Town hall | positional | entrance step",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_200",
+      "label": "Town hall | positional | entrance step",
+      "folder": "City draft/Town hall positional"
+    },
+    {
+      "name": "StaticMeshActor_201",
+      "label": "Town hall | positional | entrance step",
+      "folder": "City draft/Town hall positional"
+    }
+  ],
+  "remaining_actors": 2023,
+  "remaining_transforms_preserved": true,
+  "saved_and_reopened": true,
+  "landscape_material": "/Game/Conservatory/Environment/Materials/M_Ground.M_Ground"
+}

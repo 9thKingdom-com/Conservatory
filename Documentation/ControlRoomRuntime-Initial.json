@@ -1,0 +1,281 @@
+{
+  "error": null,
+  "suits": [
+    {
+      "id": 1,
+      "position": [
+        -14090.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -14090.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -14090.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 192.16990327411125,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 2,
+      "position": [
+        -13985.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -13985.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -13985.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 200.84082513464168,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 3,
+      "position": [
+        -13880.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -13880.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -13880.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 193.0775534426399,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 4,
+      "position": [
+        -13775.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -13775.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -13775.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 197.9486220172552,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 5,
+      "position": [
+        -13670.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -13670.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -13670.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 192.8414951940904,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 6,
+      "position": [
+        -13565.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -13565.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -13565.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 194.3836626454945,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 7,
+      "position": [
+        -13460.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -13460.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -13460.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 194.49659401753144,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 8,
+      "position": [
+        -13355.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -13355.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -13355.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 195.27365589548788,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 9,
+      "position": [
+        -13250.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -13250.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -13250.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 191.632981921259,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 10,
+      "position": [
+        -13145.0,
+        -2005.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -13145.0,
+        -2005.0,
+        4156.0
+      ],
+      "target": [
+        -13145.0,
+        -2150.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 192.0283519766106,
+      "returned": true,
+      "return_error": 0.0
+    },
+    {
+      "id": 11,
+      "position": [
+        -14005.0,
+        -1900.0,
+        4090.0
+      ],
+      "can_use": true,
+      "blocking_actor": "None",
+      "eye": [
+        -14005.0,
+        -1900.0,
+        4156.0
+      ],
+      "target": [
+        -14150.0,
+        -1900.0,
+        4123.0
+      ],
+      "wear": true,
+      "correct": true,
+      "robot_moved_cm": 194.20956208505217,
+      "returned": true,
+      "return_error": 0.0
+    }
+  ],
+  "passed": true
+}

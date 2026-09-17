@@ -1,0 +1,24 @@
+{
+  "mesh": "/Game/Conservatory/Robots/C17/SK_C17.SK_C17",
+  "skeleton": "/Game/Conservatory/Robots/C17/SK_C17_Skeleton.SK_C17_Skeleton",
+  "animations": {
+    "Idle": "/Game/Conservatory/Robots/C17/A_C17_Idle",
+    "Walk": "/Game/Conservatory/Robots/C17/A_C17_Walk",
+    "CarryWalk": "/Game/Conservatory/Robots/C17/A_C17_CarryWalk",
+    "Lift": "/Game/Conservatory/Robots/C17/A_C17_Lift",
+    "ShelfPick": "/Game/Conservatory/Robots/C17/A_C17_ShelfPick",
+    "Chop": "/Game/Conservatory/Robots/C17/A_C17_Chop",
+    "BreakStone": "/Game/Conservatory/Robots/C17/A_C17_BreakStone"
+  },
+  "bounds_origin_cm": [
+    -1.375,
+    0.0,
+    84.45000386238098
+  ],
+  "bounds_extent_cm": [
+    23.775001525878906,
+    42.599998474121094,
+    83.65000224113464
+  ],
+  "imported": true
+}

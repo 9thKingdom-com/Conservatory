@@ -1,0 +1,90 @@
+{
+  "map": "/Game/Conservatory/Maps/L_Exterior_TerrainRobots",
+  "previous_map": "/Game/Conservatory/Maps/L_Exterior_WanderingBots",
+  "outdoor": [
+    {
+      "id": 1,
+      "position": [
+        -13200.0,
+        -0.0,
+        6310.0
+      ]
+    },
+    {
+      "id": 2,
+      "position": [
+        -5000.0,
+        -5000.0,
+        4365.294718277174
+      ]
+    },
+    {
+      "id": 3,
+      "position": [
+        14000.0,
+        830.0,
+        1064.3143271889112
+      ]
+    },
+    {
+      "id": 4,
+      "position": [
+        24000.0,
+        -4000.0,
+        958.7713602187287
+      ]
+    },
+    {
+      "id": 5,
+      "position": [
+        -33000.0,
+        -22000.0,
+        1674.3338512154855
+      ]
+    },
+    {
+      "id": 6,
+      "position": [
+        -35000.0,
+        27000.0,
+        2447.6186228882652
+      ]
+    },
+    {
+      "id": 7,
+      "position": [
+        -0.0,
+        30000.0,
+        1284.0866873065015
+      ]
+    },
+    {
+      "id": 8,
+      "position": [
+        36000.0,
+        38000.0,
+        3986.240590302489
+      ]
+    },
+    {
+      "id": 9,
+      "position": [
+        42000.0,
+        -27000.0,
+        917.02956687553
+      ]
+    },
+    {
+      "id": 10,
+      "position": [
+        5000.0,
+        -40000.0,
+        2156.352212605917
+      ]
+    }
+  ],
+  "indoor_count": 1,
+  "walk": "/Game/Conservatory/Robots/Manny/A_MannyTerrainWalk",
+  "native_walk_speed_cm_s": 240,
+  "terrain_size_m": 1260
+}
